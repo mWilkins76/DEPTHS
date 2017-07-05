@@ -1,0 +1,277 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "Deplacement_buttonYes_Down",
+       "origin": [
+        122.25,
+        114.7
+       ],
+       "rect": [
+        1,
+        1,
+        245,
+        230
+       ]
+      },
+      {
+       "symbol": "Deplacement_buttonNo_Over",
+       "origin": [
+        122.2,
+        114.7
+       ],
+       "rect": [
+        248,
+        1,
+        245,
+        230
+       ]
+      },
+      {
+       "symbol": "Deplacement_buttonNo_up",
+       "origin": [
+        122.2,
+        114.75
+       ],
+       "rect": [
+        1,
+        233,
+        245,
+        230
+       ]
+      },
+      {
+       "symbol": "Deplacement_buttonNo_Down",
+       "origin": [
+        122.2,
+        114.75
+       ],
+       "rect": [
+        248,
+        233,
+        245,
+        230
+       ]
+      },
+      {
+       "symbol": "Deplacement_buttonYes_Over",
+       "origin": [
+        122.25,
+        114.7
+       ],
+       "rect": [
+        1,
+        465,
+        245,
+        230
+       ]
+      },
+      {
+       "symbol": "Deplacement_buttonYes_up",
+       "origin": [
+        122.25,
+        114.7
+       ],
+       "rect": [
+        248,
+        465,
+        245,
+        230
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "loc": [
+        782.1,
+        -115.75
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~Deplacement_btn_Yes",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Yes"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition": "bottom"
+       },
+       "pivot": [
+        0,
+        -0.1
+       ],
+       "tweened": false,
+       "loc": [
+        6.85,
+        476
+       ],
+       "index": 0,
+       "ref": "~Deplacement_btn_No",
+       "duration": 1
+      }
+     ],
+     "name": "btn_No"
+    }
+   ],
+   "id": "Deplacement"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "index": 0,
+       "ref": "Deplacement_buttonNo_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "index": 1,
+       "ref": "Deplacement_buttonNo_Over",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0575
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "ref": "Deplacement_buttonNo_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "index": 3,
+       "ref": "Deplacement_buttonNo_Down",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~Deplacement_btn_No"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "ref": "Deplacement_buttonYes_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "index": 1,
+       "ref": "Deplacement_buttonYes_Over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        -0.0575,
+        0
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "ref": "Deplacement_buttonYes_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        122.2,
+        114.7
+       ],
+       "tweened": false,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "index": 3,
+       "ref": "Deplacement_buttonYes_up",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "~Deplacement_btn_Yes"
+  }
+ ],
+ "md5": "d9261d9283eef7775fcc7ed0aabd81de",
+ "frameRate": 24
+}

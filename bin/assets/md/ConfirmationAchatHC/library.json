@@ -1,0 +1,585 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "_background_1",
+       "origin": [
+        695.6,
+        414.35
+       ],
+       "rect": [
+        1,
+        1,
+        1390,
+        829
+       ]
+      },
+      {
+       "symbol": "txt_HCPrice",
+       "data": {
+        "y": -31.95,
+        "text": "XX",
+        "x": -142.8,
+        "width": 190.85,
+        "font": "bold 90px Arial",
+        "align": "right",
+        "height": 104.5,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1393,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_HC",
+       "data": {
+        "y": -22.4,
+        "text": "HC",
+        "x": -43.5,
+        "width": 84.15,
+        "font": "italic 36px Arial",
+        "align": "center",
+        "height": 47.4,
+        "wordWrap": 0,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1396,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_destroyBuildingConfirm",
+       "data": {
+        "y": -148.85,
+        "text": "Confirmer l'achat</BR>du batiment ?",
+        "x": -792.1,
+        "width": 1580.3,
+        "font": "120px Arial Rounded MT Bold",
+        "align": "center",
+        "height": 292,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1399,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_no",
+       "data": {
+        "y": -81.35,
+        "text": "NO",
+        "x": -111.4,
+        "width": 222.8,
+        "font": "130px Calibri",
+        "align": "center",
+        "height": 162.7,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1402,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_yes",
+       "data": {
+        "y": -85.6,
+        "text": "YES",
+        "x": -118.2,
+        "width": 222.8,
+        "font": "130px Calibri",
+        "align": "center",
+        "height": 162.7,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1405,
+        1,
+        1,
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "file": "atlas1.png",
+     "textures": [
+      {
+       "symbol": "ConfirmationPose_spriteMNCurrencie",
+       "origin": [
+        199.1,
+        118.8
+       ],
+       "rect": [
+        1,
+        1,
+        402,
+        238
+       ]
+      },
+      {
+       "symbol": "_buttonYes_Down",
+       "origin": [
+        103.7,
+        103.65
+       ],
+       "rect": [
+        1,
+        241,
+        208,
+        208
+       ]
+      },
+      {
+       "symbol": "_buttonNo_Down",
+       "origin": [
+        103.65,
+        103.7
+       ],
+       "rect": [
+        211,
+        241,
+        208,
+        208
+       ]
+      },
+      {
+       "symbol": "_buttonNo_Over",
+       "origin": [
+        103.65,
+        103.65
+       ],
+       "rect": [
+        1,
+        451,
+        208,
+        208
+       ]
+      },
+      {
+       "symbol": "_buttonYes_Over",
+       "origin": [
+        103.7,
+        103.65
+       ],
+       "rect": [
+        211,
+        451,
+        208,
+        208
+       ]
+      },
+      {
+       "symbol": "_buttonNo_up",
+       "origin": [
+        103.65,
+        103.7
+       ],
+       "rect": [
+        1,
+        661,
+        208,
+        208
+       ]
+      },
+      {
+       "symbol": "_buttonYes_up",
+       "origin": [
+        103.7,
+        103.65
+       ],
+       "rect": [
+        211,
+        661,
+        208,
+        208
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        694.8,
+        414.3375
+       ],
+       "tweened": false,
+       "loc": [
+        -1.9554,
+        -1.8375
+       ],
+       "scale": [
+        0.4157,
+        0.3708
+       ],
+       "index": 0,
+       "ref": "_background_1",
+       "duration": 1
+      }
+     ],
+     "name": "BG"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -107.4375,
+        87.5625
+       ],
+       "scale": [
+        0.6723,
+        0.4291
+       ],
+       "index": 0,
+       "ref": "~btn_No",
+       "duration": 1
+      }
+     ],
+     "name": "btn_No"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        120.525,
+        87.375
+       ],
+       "scale": [
+        0.6714,
+        0.4168
+       ],
+       "index": 0,
+       "ref": "~btn_Yes",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Yes"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -1.35,
+        -93.525
+       ],
+       "scale": [
+        0.4125,
+        0.3422
+       ],
+       "index": 0,
+       "ref": "txt_destroyBuildingConfirm",
+       "duration": 1
+      }
+     ],
+     "name": "txt_destroyBuildingConfirm"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.075,
+        -0.75
+       ],
+       "tweened": false,
+       "loc": [
+        -4.125,
+        -8.8875
+       ],
+       "index": 0,
+       "ref": "~ConfirmationAchatHC_clipPriceHCInfos",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 2"
+    }
+   ],
+   "id": "ConfirmationAchatHC"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        199.125,
+        118.8
+       ],
+       "tweened": false,
+       "loc": [
+        52.8,
+        -0.0375
+       ],
+       "scale": [
+        0.1467,
+        0.2345
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_spriteMNCurrencie",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_spriteMNCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -1.05,
+        0.975
+       ],
+       "tweened": false,
+       "loc": [
+        52.8234,
+        0.9988
+       ],
+       "scale": [
+        1.3705,
+        1.3705
+       ],
+       "index": 0,
+       "ref": "txt_HC",
+       "duration": 1
+      }
+     ],
+     "name": "txt_HC"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.225,
+        0.375
+       ],
+       "tweened": false,
+       "loc": [
+        -24.1515,
+        -9.91
+       ],
+       "scale": [
+        0.6734,
+        0.6734
+       ],
+       "index": 0,
+       "ref": "txt_HCPrice",
+       "duration": 1
+      }
+     ],
+     "name": "txt_HCPrice"
+    }
+   ],
+   "id": "~ConfirmationAchatHC_clipPriceHCInfos"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "index": 0,
+       "ref": "_buttonNo_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        -0.5625,
+        -1.3125
+       ],
+       "index": 1,
+       "ref": "_buttonNo_Over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        -1.3125,
+        -2.0625
+       ],
+       "index": 2,
+       "ref": "_buttonNo_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        -1.3125,
+        -2.0625
+       ],
+       "index": 3,
+       "ref": "_buttonNo_Down",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -2.3625,
+        -1.3125
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_no",
+       "duration": 4
+      }
+     ],
+     "name": "txt_No"
+    }
+   ],
+   "id": "~btn_No"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        -3.75,
+        -0.75
+       ],
+       "index": 0,
+       "ref": "_buttonYes_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9,
+        -1.0875
+       ],
+       "index": 1,
+       "ref": "_buttonYes_Over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        103.65,
+        103.65
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9,
+        -1.0875
+       ],
+       "index": 2,
+       "ref": "_buttonYes_Down",
+       "duration": 2
+      }
+     ],
+     "name": "Layer 1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.0375,
+        0
+       ],
+       "tweened": false,
+       "loc": [
+        -0.6375,
+        -0.9
+       ],
+       "index": 0,
+       "ref": "txt_yes",
+       "duration": 4
+      }
+     ],
+     "name": "txt_Yes"
+    }
+   ],
+   "id": "~btn_Yes"
+  }
+ ],
+ "md5": "4f123c2f51213ae9ef85fd3e4634f221",
+ "frameRate": 24
+}

@@ -1,0 +1,1540 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "UpgradeCenter_spriteBackground",
+       "rect": [
+        1,
+        1,
+        1472,
+        794
+       ],
+       "origin": [
+        735.75,
+        396.75
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoSelected_down",
+       "rect": [
+        1,
+        797,
+        326,
+        351
+       ],
+       "origin": [
+        162.95,
+        175.3
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoSelected_over",
+       "rect": [
+        1,
+        1150,
+        326,
+        351
+       ],
+       "origin": [
+        162.95,
+        175.3
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoSelected_up",
+       "rect": [
+        329,
+        797,
+        326,
+        351
+       ],
+       "origin": [
+        162.95,
+        175.3
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoNormal_down",
+       "rect": [
+        329,
+        1150,
+        301,
+        351
+       ],
+       "origin": [
+        150.15,
+        175.3
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSkip_over",
+       "rect": [
+        632,
+        1150,
+        596,
+        151
+       ],
+       "origin": [
+        297.75,
+        75.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonManage_over",
+       "rect": [
+        632,
+        1303,
+        596,
+        151
+       ],
+       "origin": [
+        297.75,
+        75.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSkip_down",
+       "rect": [
+        657,
+        797,
+        596,
+        151
+       ],
+       "origin": [
+        297.75,
+        75.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonManage_down",
+       "rect": [
+        657,
+        950,
+        596,
+        151
+       ],
+       "origin": [
+        297.75,
+        75.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoNormal_up",
+       "rect": [
+        1230,
+        1103,
+        273,
+        319
+       ],
+       "origin": [
+        136.5,
+        159.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonClose_hit",
+       "rect": [
+        1255,
+        797,
+        243,
+        243
+       ],
+       "origin": [
+        121.5,
+        121.5
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonUpgrade_up",
+       "rect": [
+        1230,
+        1424,
+        298,
+        101
+       ],
+       "origin": [
+        148.9,
+        50.25
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_spriteMN",
+       "rect": [
+        1255,
+        1042,
+        58,
+        48
+       ],
+       "origin": [
+        29,
+        23.6
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_spriteDelayUpgrade",
+       "rect": [
+        1315,
+        1042,
+        33,
+        54
+       ],
+       "origin": [
+        16.2,
+        26.75
+       ]
+      },
+      {
+       "data": {
+        "y": -24.35,
+        "wordWrap": 1,
+        "text": "Lvl",
+        "width": 86.45,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 58.45,
+        "font": "bold 40px Alegreya Sans",
+        "x": -43.25
+       },
+       "symbol": "UpgradeCenter_txt_Level",
+       "baseClass": "TextSprite",
+       "rect": [
+        1255,
+        1092,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -48.05,
+        "wordWrap": 1,
+        "text": "Manage",
+        "width": 358.95,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 100,
+        "font": "bold 60px Alegreya Sans SC ExtraBold",
+        "x": -180
+       },
+       "symbol": "UpgradeCenter_txt_manage",
+       "baseClass": "TextSprite",
+       "rect": [
+        1255,
+        1095,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -44,
+        "wordWrap": 1,
+        "text": "Skip",
+        "width": 298.5,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 76,
+        "font": "bold 60px Alegreya Sans SC ExtraBold",
+        "x": -149.25
+       },
+       "symbol": "UpgradeCenter_txt_skip",
+       "baseClass": "TextSprite",
+       "rect": [
+        1258,
+        1092,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -48,
+        "wordWrap": 1,
+        "text": "Upgrade",
+        "width": 358.95,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 76,
+        "font": "bold 60px Alegreya Sans SC ExtraBold",
+        "x": -179.5
+       },
+       "symbol": "UpgradeCenter_txt_upgrade",
+       "baseClass": "TextSprite",
+       "rect": [
+        1258,
+        1095,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -24.35,
+        "wordWrap": 0,
+        "text": "xxh xxm xxs",
+        "width": 222.7,
+        "color": "#070B31",
+        "align": "left",
+        "height": 52,
+        "font": "bold 40px Alegreya Sans ExtraBold",
+        "x": -0.35
+       },
+       "symbol": "UpgradeCenter_txt_UpgradeDelayDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        1261,
+        1092,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -27.3,
+        "wordWrap": 1,
+        "text": "<Xeno Name>",
+        "width": 259,
+        "color": "#070B31",
+        "align": "center",
+        "height": 54.6,
+        "font": "bold 40px Alegreya Sans SC ExtraBold",
+        "x": -129.5
+       },
+       "symbol": "UpgradeCenter_txt_xenoNameUpgrading",
+       "baseClass": "TextSprite",
+       "rect": [
+        1261,
+        1095,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -23.35,
+        "wordWrap": 0,
+        "text": "xxxxx",
+        "width": 139.2,
+        "color": "#070B31",
+        "align": "left",
+        "height": 52,
+        "font": "bold 40px Alegreya Sans ExtraBold",
+        "x": -0.3
+       },
+       "symbol": "UpgradeCenter_txt_CostUpgradeDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        1264,
+        1092,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoDisabled",
+       "rect": [
+        1,
+        1,
+        273,
+        319
+       ],
+       "origin": [
+        136.5,
+        159.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSlotXenoNormal_over",
+       "rect": [
+        1,
+        322,
+        273,
+        319
+       ],
+       "origin": [
+        136.5,
+        159.4
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonClose_up",
+       "rect": [
+        1,
+        643,
+        294,
+        276
+       ],
+       "origin": [
+        146.7,
+        137.7
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonClose_over",
+       "rect": [
+        276,
+        1,
+        294,
+        276
+       ],
+       "origin": [
+        146.7,
+        137.7
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonClose_down",
+       "rect": [
+        276,
+        279,
+        294,
+        276
+       ],
+       "origin": [
+        146.7,
+        137.7
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonAddSlot_over",
+       "rect": [
+        297,
+        557,
+        200,
+        225
+       ],
+       "origin": [
+        99.9,
+        112.2
+       ]
+      },
+      {
+       "symbol": "sprite_cadre",
+       "rect": [
+        297,
+        784,
+        203,
+        203
+       ],
+       "origin": [
+        101.2,
+        101.35
+       ]
+      },
+      {
+       "symbol": "Sprite_Xeno",
+       "rect": [
+        499,
+        557,
+        203,
+        203
+       ],
+       "origin": [
+        101.2,
+        101.35
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_spriteXenoUpgrading",
+       "rect": [
+        502,
+        762,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonUpgrade_over",
+       "rect": [
+        572,
+        1,
+        328,
+        111
+       ],
+       "origin": [
+        163.75,
+        55.3
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonAddSlot_up",
+       "rect": [
+        699,
+        762,
+        175,
+        197
+       ],
+       "origin": [
+        87.4,
+        98.2
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonAddSlot_down",
+       "rect": [
+        572,
+        114,
+        175,
+        197
+       ],
+       "origin": [
+        87.4,
+        98.2
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonUpgrade_down",
+       "rect": [
+        572,
+        313,
+        298,
+        101
+       ],
+       "origin": [
+        148.9,
+        50.25
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonSkip_up",
+       "rect": [
+        572,
+        416,
+        298,
+        101
+       ],
+       "origin": [
+        148.9,
+        50.25
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_buttonManage_up",
+       "rect": [
+        704,
+        519,
+        298,
+        101
+       ],
+       "origin": [
+        148.9,
+        50.25
+       ]
+      },
+      {
+       "symbol": "UpgradeCenter_spriteXenoLevel",
+       "rect": [
+        1,
+        921,
+        81,
+        84
+       ],
+       "origin": [
+        12.75,
+        6.6
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.upgradeCenter.TankUpgrade"
+   },
+   "id": "TankUpgrade",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        13.3875,
+        79.0875
+       ],
+       "pivot": [
+        -0.6375,
+        -0.1875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenterSwitchItem"
+      }
+     ],
+     "name": "SwitchSlotXeno"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        16.5,
+        312.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_Skip"
+      }
+     ],
+     "name": "btn_Skip"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        16.5,
+        312.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_Manage"
+      }
+     ],
+     "name": "btn_Manage"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        16.5,
+        312.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_Upgrade"
+      }
+     ],
+     "name": "btn_Upgrade"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        11.55,
+        -187.875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_clipIntituleXenos"
+      }
+     ],
+     "name": "UpgradeCenter_clipIntituleXenos"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -80.0625,
+        -28.1625
+       ],
+       "pivot": [
+        12.75,
+        6.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_spriteXenoLevel"
+      }
+     ],
+     "name": "UpgradeCenter_spriteXenoLevel"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -58.3125,
+        -6.2625
+       ],
+       "pivot": [
+        -0.0375,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_Level"
+      }
+     ],
+     "name": "txt_level"
+    }
+   ]
+  },
+  {
+   "id": "UpgradeCenter",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.1125,
+        1.3125
+       ],
+       "pivot": [
+        735.8625,
+        398.0625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_spriteBackground"
+      }
+     ],
+     "name": "UpgradeCenter_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -16.35,
+        -56.25
+       ],
+       "pivot": [
+        0.375,
+        -0.3375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_clipXenoContainer"
+      }
+     ],
+     "name": "UpgradeCenter_clipXenoListUpgrading"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        12.75,
+        37.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_AddSlot"
+      }
+     ],
+     "name": "btn_AddSlot #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        417.15,
+        38.025
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_AddSlot"
+      }
+     ],
+     "name": "btn_AddSlot #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        681.15,
+        -335.25
+       ],
+       "scale": [
+        0.3649,
+        0.3661
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_Close"
+      }
+     ],
+     "name": "btn_Close"
+    }
+   ]
+  },
+  {
+   "id": "UpgradeCenterSwitchItem",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -2.25,
+        1.725
+       ],
+       "pivot": [
+        -1.5,
+        2.7375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_SlotXenoNormal"
+      }
+     ],
+     "name": "Normal"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.75,
+        0
+       ],
+       "pivot": [
+        0,
+        0.2625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_SlotXenoSelected"
+      }
+     ],
+     "name": "Selected"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "ref": "~UpgradeCenter_btn_SlotXenoDisabled"
+      }
+     ],
+     "name": "Disabled"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_AddSlot",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        87.4125,
+        98.175
+       ],
+       "ref": "UpgradeCenter_buttonAddSlot_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.1125
+       ],
+       "pivot": [
+        99.9,
+        112.2
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "UpgradeCenter_buttonAddSlot_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        -0.2625,
+        -0.5625
+       ],
+       "pivot": [
+        87.4125,
+        98.175
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "UpgradeCenter_buttonAddSlot_down"
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_Close",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -16.4625,
+        -8.175
+       ],
+       "pivot": [
+        146.7,
+        137.7
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_buttonClose_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        146.7,
+        137.7
+       ],
+       "ref": "UpgradeCenter_buttonClose_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        146.7,
+        137.7
+       ],
+       "ref": "UpgradeCenter_buttonClose_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "pivot": [
+        121.5,
+        121.5
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "UpgradeCenter_buttonClose_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_Manage",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        148.875,
+        50.25
+       ],
+       "ref": "UpgradeCenter_buttonManage_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        297.75,
+        75.375
+       ],
+       "ref": "UpgradeCenter_buttonManage_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        297.75,
+        75.375
+       ],
+       "ref": "UpgradeCenter_buttonManage_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        297.75,
+        75.375
+       ],
+       "ref": "UpgradeCenter_buttonManage_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 3,
+       "loc": [
+        -0.75,
+        4.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_manage"
+      },
+      {
+       "duration": 1,
+       "index": 3
+      }
+     ],
+     "name": "txt_Manage"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_Skip",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        148.875,
+        50.25
+       ],
+       "ref": "UpgradeCenter_buttonSkip_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        297.75,
+        75.375
+       ],
+       "ref": "UpgradeCenter_buttonSkip_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        297.75,
+        75.375
+       ],
+       "ref": "UpgradeCenter_buttonSkip_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        297.75,
+        75.375
+       ],
+       "ref": "UpgradeCenter_buttonSkip_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 3,
+       "loc": [
+        -0.75,
+        4.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_skip"
+      },
+      {
+       "duration": 1,
+       "index": 3
+      }
+     ],
+     "name": "txt_Skip"
+    }
+   ]
+  },
+  {
+   "id": "~UpgradeCenter_btn_SlotXenoDisabled",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.4875,
+        -0.525
+       ],
+       "pivot": [
+        136.0125,
+        158.85
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_buttonSlotXenoDisabled"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        101.2125,
+        101.325
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "sprite_cadre"
+      }
+     ],
+     "name": "cadre"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        97.5,
+        97.5
+       ],
+       "ref": "UpgradeCenter_spriteXenoUpgrading"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_SlotXenoNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.9988,
+        0.9975
+       ],
+       "index": 0,
+       "pivot": [
+        136.5,
+        159.375
+       ],
+       "ref": "UpgradeCenter_buttonSlotXenoNormal_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        136.5,
+        159.375
+       ],
+       "ref": "UpgradeCenter_buttonSlotXenoNormal_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        0,
+        -0.825
+       ],
+       "pivot": [
+        150.15,
+        175.3125
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "UpgradeCenter_buttonSlotXenoNormal_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        101.2125,
+        101.325
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "sprite_cadre"
+      }
+     ],
+     "name": "cadre"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -0.75,
+        -0.675
+       ],
+       "pivot": [
+        97.5,
+        97.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_spriteXenoUpgrading"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_SlotXenoSelected",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.9988,
+        0.9975
+       ],
+       "index": 0,
+       "pivot": [
+        162.9375,
+        175.3125
+       ],
+       "ref": "UpgradeCenter_buttonSlotXenoSelected_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        162.9375,
+        175.3125
+       ],
+       "ref": "UpgradeCenter_buttonSlotXenoSelected_over"
+      },
+      {
+       "duration": 2,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        162.9375,
+        175.3125
+       ],
+       "ref": "UpgradeCenter_buttonSlotXenoSelected_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        101.2125,
+        101.325
+       ],
+       "ref": "sprite_cadre"
+      }
+     ],
+     "name": "cadre"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -0.75,
+        0.075
+       ],
+       "pivot": [
+        97.5,
+        97.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_spriteXenoUpgrading"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~UpgradeCenter_btn_Upgrade",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        148.875,
+        50.25
+       ],
+       "ref": "UpgradeCenter_buttonUpgrade_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        163.7625,
+        55.275
+       ],
+       "ref": "UpgradeCenter_buttonUpgrade_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        148.875,
+        50.25
+       ],
+       "ref": "UpgradeCenter_buttonUpgrade_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        148.875,
+        50.25
+       ],
+       "ref": "UpgradeCenter_buttonUpgrade_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 3,
+       "loc": [
+        -0.75,
+        4.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_upgrade"
+      },
+      {
+       "duration": 1,
+       "index": 3
+      }
+     ],
+     "name": "txt_Skip"
+    }
+   ]
+  },
+  {
+   "id": "~UpgradeCenter_clipIntituleXenos",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -55.3875,
+        -1.275
+       ],
+       "pivot": [
+        29.025,
+        23.625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_spriteMN"
+      }
+     ],
+     "name": "UpgradeCenter_spriteMN"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -81.9375,
+        55.35
+       ],
+       "pivot": [
+        16.2,
+        26.7375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_spriteDelayUpgrade"
+      }
+     ],
+     "name": "UpgradeCenter_spriteDelayUpgrade"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -26.1375,
+        -0.525
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_CostUpgradeDisplay"
+      }
+     ],
+     "name": "txt_CostUpgradeDisplay"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -53.85,
+        55.6125
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_UpgradeDelayDisplay"
+      }
+     ],
+     "name": "txt_UpgradeDelayDisplay"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        4.575,
+        -45.0375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "UpgradeCenter_txt_xenoNameUpgrading"
+      }
+     ],
+     "name": "txt_xenoNameUpgrading"
+    }
+   ]
+  },
+  {
+   "id": "~UpgradeCenter_clipXenoContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        421.0125,
+        13.6875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "TankUpgrade"
+      }
+     ],
+     "name": "SlotUpgrade #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        16.1625,
+        13.6875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "TankUpgrade"
+      }
+     ],
+     "name": "SlotUpgrade #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -388.2375,
+        13.6875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "TankUpgrade"
+      }
+     ],
+     "name": "SlotUpgrade #0"
+    }
+   ]
+  }
+ ],
+ "md5": "1be7b05a541597cbf29cd7a20423dc15"
+}

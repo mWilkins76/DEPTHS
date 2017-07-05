@@ -1,0 +1,21 @@
+{
+	"buffers":
+		[
+			{
+				"name": "alien1",
+				"buffType":"energy",
+				"coef0":"1.5",
+				"coef1":"1.75",
+				"coef2":"2",
+				"coef3":"2"
+			},
+			{
+				"name": "alien2",
+				"buffType":"darkMater",
+				"coef0":"1.5",
+				"coef1":"1.75",
+				"coef2":"2.25",
+				"coef3":"3"
+			}
+		]
+}

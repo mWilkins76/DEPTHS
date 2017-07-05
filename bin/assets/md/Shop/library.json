@@ -1,0 +1,1417 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "Shop_spriteBackground",
+       "rect": [
+        1,
+        1,
+        1496,
+        852
+       ],
+       "origin": [
+        747.7,
+        427.8
+       ]
+      },
+      {
+       "symbol": "Shop_spriteSeparationLine",
+       "rect": [
+        1,
+        855,
+        689,
+        147
+       ],
+       "origin": [
+        354.15,
+        120.5
+       ]
+      },
+      {
+       "symbol": "Shop_buttonShopItem_up",
+       "rect": [
+        692,
+        855,
+        339,
+        159
+       ],
+       "origin": [
+        170.7,
+        79.1
+       ]
+      },
+      {
+       "symbol": "Shop_buttonTabNormal_down",
+       "rect": [
+        1033,
+        855,
+        212,
+        104
+       ],
+       "origin": [
+        105.65,
+        52
+       ]
+      },
+      {
+       "symbol": "Shop_buttonTabSelected_over",
+       "rect": [
+        1247,
+        855,
+        212,
+        104
+       ],
+       "origin": [
+        105.65,
+        52
+       ]
+      },
+      {
+       "symbol": "TabAsset",
+       "rect": [
+        1461,
+        855,
+        54,
+        56
+       ],
+       "origin": [
+        26.7,
+        27.8
+       ]
+      },
+      {
+       "data": {
+        "y": -26.9,
+        "wordWrap": 1,
+        "text": "Item name",
+        "width": 267.65,
+        "color": "#070B31",
+        "align": "center",
+        "height": 52,
+        "font": "bold 40px Alegreya Sans",
+        "x": -134
+       },
+       "symbol": "Shop_txt_itemName",
+       "baseClass": "TextSprite",
+       "rect": [
+        1461,
+        913,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -17,
+        "wordWrap": 1,
+        "text": "XXX",
+        "width": 87.3,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 34,
+        "font": "bold 25px Alegreya Sans ExtraBold",
+        "x": -43.65
+       },
+       "symbol": "Shop_txt_priceHC",
+       "baseClass": "TextSprite",
+       "rect": [
+        1464,
+        913,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -18.8,
+        "wordWrap": 1,
+        "text": "XX% FREE",
+        "width": 163.6,
+        "color": "#070B31",
+        "align": "center",
+        "height": 37.6,
+        "font": "bold 28px Alegreya Sans SC ExtraBold",
+        "x": 0
+       },
+       "symbol": "Shop_txt_promo",
+       "baseClass": "TextSprite",
+       "rect": [
+        1467,
+        913,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -56.1,
+        "wordWrap": 0,
+        "text": "Title",
+        "width": 969.05,
+        "color": "#070B31",
+        "align": "center",
+        "height": 112,
+        "font": "bold 80px Alegreya Sans SC ExtraBold",
+        "x": -488.4
+       },
+       "symbol": "Shop_txt_tabTitle",
+       "baseClass": "TextSprite",
+       "rect": [
+        1470,
+        913,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -15.45,
+        "wordWrap": 1,
+        "text": "HC",
+        "width": 36.9,
+        "color": "#000000",
+        "align": "center",
+        "height": 30.85,
+        "font": "bold 24px Arial",
+        "x": -18.45
+       },
+       "symbol": "Shop_txt_UnitPriceHC",
+       "baseClass": "TextSprite",
+       "rect": [
+        1473,
+        913,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "Shop_buttonClose_up",
+       "rect": [
+        1,
+        1,
+        294,
+        276
+       ],
+       "origin": [
+        146.7,
+        142.95
+       ]
+      },
+      {
+       "symbol": "Shop_buttonClose_down",
+       "rect": [
+        297,
+        1,
+        294,
+        276
+       ],
+       "origin": [
+        146.7,
+        142.95
+       ]
+      },
+      {
+       "symbol": "Shop_buttonClose_over",
+       "rect": [
+        593,
+        1,
+        294,
+        276
+       ],
+       "origin": [
+        146.7,
+        142.95
+       ]
+      },
+      {
+       "symbol": "Shop_buttonShopItem_Down",
+       "rect": [
+        1,
+        279,
+        388,
+        201
+       ],
+       "origin": [
+        192.5,
+        98.75
+       ]
+      },
+      {
+       "symbol": "Shop_buttonShopItem_over",
+       "rect": [
+        391,
+        279,
+        386,
+        200
+       ],
+       "origin": [
+        194.35,
+        99.7
+       ]
+      },
+      {
+       "symbol": "Shop_buttonTabDisabled",
+       "rect": [
+        779,
+        279,
+        209,
+        104
+       ],
+       "origin": [
+        104.3,
+        51.65
+       ]
+      },
+      {
+       "symbol": "Shop_buttonTabNormal_over",
+       "rect": [
+        779,
+        385,
+        209,
+        104
+       ],
+       "origin": [
+        104.3,
+        51.55
+       ]
+      },
+      {
+       "symbol": "Shop_buttonTabNormal_up",
+       "rect": [
+        391,
+        481,
+        209,
+        104
+       ],
+       "origin": [
+        104.3,
+        51.65
+       ]
+      },
+      {
+       "symbol": "Shop_spriteSoldesIconBG",
+       "rect": [
+        602,
+        481,
+        165,
+        114
+       ],
+       "origin": [
+        82.1,
+        57
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset",
+       "rect": [
+        769,
+        491,
+        136,
+        125
+       ],
+       "origin": [
+        67.8,
+        62.15
+       ]
+      },
+      {
+       "symbol": "Shop_spriteCurrencie",
+       "rect": [
+        889,
+        1,
+        78,
+        76
+       ],
+       "origin": [
+        39.2,
+        37.9
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "id": "Shop",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -14.1,
+        85.575
+       ],
+       "pivot": [
+        747.7125,
+        427.8
+       ],
+       "data": {
+        "UIPosition_Desktop": "bottomRight",
+        "UIPosition": "bottomRight"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_spriteBackground"
+      }
+     ],
+     "name": "Shop_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.105,
+        -210.8625
+       ],
+       "tweened": false,
+       "data": {
+        "UIPosition_Desktop": "bottomRight",
+        "UIPosition": "bottomRight"
+       },
+       "scale": [
+        1.1,
+        1.1
+       ],
+       "index": 0,
+       "pivot": [
+        354.075,
+        120.525
+       ],
+       "ref": "Shop_spriteSeparationLine"
+      }
+     ],
+     "name": "Shop_spriteSeparationLine"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -584.025,
+        -376.125
+       ],
+       "pivot": [
+        9.975,
+        -2.7
+       ],
+       "data": {
+        "UIPosition": "bottomRight"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_clipTabContainer"
+      }
+     ],
+     "name": "TabContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -3.8625,
+        -248.2125
+       ],
+       "data": {
+        "UIPosition_Desktop": "bottomRight",
+        "UIPosition": "bottomRight"
+       },
+       "scale": [
+        0.8494,
+        0.8494
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_txt_tabTitle"
+      }
+     ],
+     "name": "txt_tabTitle"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -17.8875,
+        84.225
+       ],
+       "data": {
+        "UIPosition_Desktop": "bottomRight",
+        "UIPosition": "bottomRight"
+       },
+       "scale": [
+        0.8818,
+        0.8818
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_clipItemContainer"
+      }
+     ],
+     "name": "ItemContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Shop_txt_IsartPointsDisplay"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        645.75,
+        -267.675
+       ],
+       "data": {
+        "UIPosition_Desktop": "bottomRight",
+        "UIPosition": "bottomRight"
+       },
+       "scale": [
+        0.4728,
+        0.4728
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_btn_Close"
+      }
+     ],
+     "name": "btn_Close"
+    }
+   ]
+  },
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.shop.ShopItemBig"
+   },
+   "id": "ShopItemBig",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -1.95,
+        1.3125
+       ],
+       "scale": [
+        1.1,
+        1.1
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_btn_itemShop"
+      }
+     ],
+     "name": "btn_itemShop"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -93.2625,
+        0.1125
+       ],
+       "pivot": [
+        67.8,
+        62.1375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_spriteItemAsset"
+      }
+     ],
+     "name": "spriteItemAsset"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        53.7,
+        25.0875
+       ],
+       "tweened": false,
+       "scale": [
+        0.6,
+        0.6
+       ],
+       "index": 0,
+       "pivot": [
+        39.225,
+        37.9125
+       ],
+       "ref": "Shop_spriteCurrencie"
+      }
+     ],
+     "name": "spriteCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        65.175,
+        -25.575
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_txt_itemName"
+      }
+     ],
+     "name": "txt_itemName"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        102.9375,
+        24.7125
+       ],
+       "scale": [
+        1.6999,
+        1.6999
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_txt_priceHC"
+      }
+     ],
+     "name": "txt_price"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "txt_itemQuantity"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        160.4625,
+        -66.5306
+       ],
+       "tweened": false,
+       "scale": [
+        0.635,
+        0.635
+       ],
+       "index": 0,
+       "pivot": [
+        0,
+        -3.375
+       ],
+       "ref": "~Shop_clipSoldesIcon"
+      }
+     ],
+     "name": "promo"
+    }
+   ]
+  },
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.shop.ShopItemMedium"
+   },
+   "id": "ShopItemMedium",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -7.5,
+        0.075
+       ],
+       "scale": [
+        1.1,
+        1.1
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_btn_itemShop"
+      }
+     ],
+     "name": "btn_itemShop"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        27.825,
+        20.25
+       ],
+       "pivot": [
+        39.225,
+        37.9125
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_spriteCurrencie"
+      }
+     ],
+     "name": "spriteCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        107.8125,
+        21.675
+       ],
+       "scale": [
+        1.6999,
+        1.6999
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_txt_priceHC"
+      }
+     ],
+     "name": "txt_price"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -95.85,
+        -0.675
+       ],
+       "pivot": [
+        67.8,
+        62.1375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_spriteItemAsset"
+      }
+     ],
+     "name": "spriteItemAsset"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        52.6125,
+        -31.575
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_txt_itemName"
+      }
+     ],
+     "name": "txt_itemName"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        157.3125,
+        -66.8694
+       ],
+       "tweened": false,
+       "scale": [
+        0.6354,
+        0.6354
+       ],
+       "index": 0,
+       "pivot": [
+        0,
+        -3.375
+       ],
+       "ref": "~Shop_clipSoldesIcon"
+      }
+     ],
+     "name": "promo"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "txt_itemQuantity"
+    }
+   ]
+  },
+  {
+   "id": "ShopSwitchTab",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_btn_TabSelected"
+      }
+     ],
+     "name": "Selected"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_btn_TabDisabled"
+      }
+     ],
+     "name": "Disabled"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "ref": "~Shop_btn_TabNormal"
+      }
+     ],
+     "name": "Normal"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Shop_btn_Close",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        146.7,
+        142.95
+       ],
+       "ref": "Shop_buttonClose_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        146.7,
+        142.95
+       ],
+       "ref": "Shop_buttonClose_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "pivot": [
+        146.7,
+        142.95
+       ],
+       "ref": "Shop_buttonClose_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        146.7,
+        142.95
+       ],
+       "ref": "Shop_buttonClose_up"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "id": "~Shop_btn_TabDisabled",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "pivot": [
+        104.2875,
+        51.6375
+       ],
+       "skew": [
+        -3.1416,
+        3.1416
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_buttonTabDisabled"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -2.4
+       ],
+       "pivot": [
+        26.7,
+        27.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "TabAsset"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Shop_btn_TabNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        104.2875,
+        51.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_buttonTabNormal_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        104.2875,
+        51.525
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "Shop_buttonTabNormal_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        0,
+        -0.075
+       ],
+       "pivot": [
+        105.6375,
+        51.9
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "Shop_buttonTabNormal_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        0.0375,
+        5.8875
+       ],
+       "pivot": [
+        26.7,
+        27.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "TabAsset"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Shop_btn_TabSelected",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        105.6375,
+        51.9375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Shop_buttonTabSelected_over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        105.6375,
+        51.9375
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "Shop_buttonTabSelected_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        105.6375,
+        51.9375
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "Shop_buttonTabSelected_over"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        0.0375,
+        5.4375
+       ],
+       "pivot": [
+        26.7,
+        27.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "TabAsset"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Shop_btn_itemShop",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.825,
+        -0.9375
+       ],
+       "tweened": false,
+       "scale": [
+        1.1,
+        1.2
+       ],
+       "index": 0,
+       "pivot": [
+        170.7,
+        79.125
+       ],
+       "ref": "Shop_buttonShopItem_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -0.225,
+        -0.9
+       ],
+       "pivot": [
+        194.3625,
+        99.2625
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "Shop_buttonShopItem_over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -2.3625,
+        -1.2
+       ],
+       "pivot": [
+        192.4875,
+        98.7
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "Shop_buttonShopItem_Down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -0.075,
+        -0.225
+       ],
+       "tweened": false,
+       "scale": [
+        1.0916,
+        1.295
+       ],
+       "index": 3,
+       "pivot": [
+        170.7,
+        79.125
+       ],
+       "ref": "Shop_buttonShopItem_up"
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "~Shop_clipItemContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        299.8275,
+        124.0576
+       ],
+       "tweened": false,
+       "scale": [
+        1.2,
+        1.2
+       ],
+       "index": 0,
+       "pivot": [
+        -1.8,
+        -2.2125
+       ],
+       "ref": "ShopItemBig"
+      }
+     ],
+     "name": "item #4"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -319.6725,
+        124.005
+       ],
+       "tweened": false,
+       "scale": [
+        1.2,
+        1.2
+       ],
+       "index": 0,
+       "pivot": [
+        -1.8,
+        -2.2875
+       ],
+       "ref": "ShopItemBig"
+      }
+     ],
+     "name": "item #3"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        479.7,
+        -170.835
+       ],
+       "tweened": false,
+       "scale": [
+        1.2,
+        1.2
+       ],
+       "index": 0,
+       "pivot": [
+        0,
+        -0.3
+       ],
+       "ref": "ShopItemMedium"
+      }
+     ],
+     "name": "item #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.4875,
+        -170.835
+       ],
+       "tweened": false,
+       "scale": [
+        1.2,
+        1.2
+       ],
+       "index": 0,
+       "pivot": [
+        0,
+        -0.3
+       ],
+       "ref": "ShopItemMedium"
+      }
+     ],
+     "name": "item #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -476.775,
+        -170.835
+       ],
+       "tweened": false,
+       "scale": [
+        1.2,
+        1.2
+       ],
+       "index": 0,
+       "pivot": [
+        0,
+        -0.3
+       ],
+       "ref": "ShopItemMedium"
+      }
+     ],
+     "name": "item #0"
+    }
+   ]
+  },
+  {
+   "id": "~Shop_clipSoldesIcon",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -50.67,
+        30.4875
+       ],
+       "tweened": false,
+       "scale": [
+        1.3998,
+        1.3998
+       ],
+       "index": 0,
+       "pivot": [
+        82.0125,
+        57
+       ],
+       "ref": "Shop_spriteSoldesIconBG"
+      }
+     ],
+     "name": "Shop_spriteSoldesIconBG"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -91.1269,
+        -17.5567
+       ],
+       "tweened": false,
+       "scale": [
+        1.5011,
+        1.5011
+       ],
+       "index": 0,
+       "pivot": [
+        15.2625,
+        -6.15
+       ],
+       "ref": "Shop_txt_promo"
+      }
+     ],
+     "name": "txt_promo"
+    }
+   ]
+  },
+  {
+   "id": "~Shop_clipTabContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        73.725,
+        5.2875
+       ],
+       "pivot": [
+        0.1875,
+        -0.375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ShopSwitchTab"
+      }
+     ],
+     "name": "item #4"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        274.875,
+        5.2875
+       ],
+       "pivot": [
+        0.1875,
+        -0.375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ShopSwitchTab"
+      }
+     ],
+     "name": "item #3"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        476.325,
+        5.2875
+       ],
+       "pivot": [
+        0.1875,
+        -0.375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ShopSwitchTab"
+      }
+     ],
+     "name": "item #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        677.925,
+        5.2875
+       ],
+       "pivot": [
+        0.1875,
+        -0.375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ShopSwitchTab"
+      }
+     ],
+     "name": "item #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        879.5625,
+        5.2875
+       ],
+       "pivot": [
+        0.1875,
+        -0.375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ShopSwitchTab"
+      }
+     ],
+     "name": "item #0"
+    }
+   ]
+  }
+ ],
+ "md5": "93e2a378ac6a5aa6bb59d2b63c95f9e7"
+}

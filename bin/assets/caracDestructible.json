@@ -1,0 +1,15 @@
+{
+	"DestructibleRock1":
+		{
+			"localWidth": 3,
+			"localHeight":3
+		},
+		
+	"DestructibleRock2":
+		{
+			"localWidth":2,
+			"localHeight":3
+		}
+		
+	
+}

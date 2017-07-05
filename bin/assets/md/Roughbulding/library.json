@@ -1,0 +1,376 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "DrillingCenterSprite",
+       "origin": [
+        457.85,
+        202
+       ],
+       "rect": [
+        1,
+        1,
+        1035,
+        745
+       ]
+      },
+      {
+       "symbol": "UrbanAntennaSprite",
+       "origin": [
+        164.85,
+        515.9
+       ],
+       "rect": [
+        1038,
+        1,
+        450,
+        621
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "UrbanCommunicationSprite",
+       "origin": [
+        228.45,
+        713.35
+       ],
+       "rect": [
+        1,
+        1,
+        523,
+        947
+       ]
+      },
+      {
+       "symbol": "UrbanTranslationSprite",
+       "origin": [
+        168.25,
+        262.8
+       ],
+       "rect": [
+        526,
+        1,
+        363,
+        453
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "UrbanPowerStationSprite",
+       "origin": [
+        332.6,
+        276.4
+       ],
+       "rect": [
+        1,
+        1,
+        666,
+        553
+       ]
+      }
+     ],
+     "file": "atlas2.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "AlienIncubator"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "AlienPaddock"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "AlienResearchCenter"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "AlienTrainingCenter"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "CosmeticAirAquarium"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "CosmeticCoral"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "CosmeticFluoAlga"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "CosmeticMonolith"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "CosmeticSteamSource"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "DrillingAutoOutPost"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "pivot": [
+        457.8375,
+        202.0125
+       ],
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "DrillingCenterSprite"
+      }
+     ]
+    }
+   ],
+   "id": "DrillingCenter"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "DrillingOutPost"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "pivot": [
+        164.85,
+        515.8875
+       ],
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "UrbanAntennaSprite"
+      }
+     ]
+    }
+   ],
+   "id": "UrbanAntenna"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        32.925,
+        -240.1125
+       ],
+       "pivot": [
+        261.375,
+        473.25
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationSprite"
+      }
+     ]
+    }
+   ],
+   "id": "UrbanCommunication"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        261.375,
+        473.25
+       ],
+       "pivot": [
+        228.45,
+        713.3625
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationSprite"
+      }
+     ]
+    }
+   ],
+   "id": "UrbanHeadQuarter"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "pivot": [
+        332.625,
+        276.375
+       ],
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "UrbanPowerStationSprite"
+      }
+     ]
+    }
+   ],
+   "id": "UrbanPowerStation"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "pivot": [
+        168.2625,
+        262.8
+       ],
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "UrbanTranslationSprite"
+      }
+     ]
+    }
+   ],
+   "id": "UrbanTranslation"
+  }
+ ],
+ "md5": "ccfc7687d2552eb5d860af5591add620",
+ "frameRate": 24
+}

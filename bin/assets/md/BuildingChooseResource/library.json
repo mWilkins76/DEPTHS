@@ -1,0 +1,572 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "_background_1",
+       "origin": [
+        388.1,
+        178.1
+       ],
+       "rect": [
+        1,
+        1,
+        771,
+        363
+       ]
+      },
+      {
+       "symbol": "_buttonHC_up",
+       "origin": [
+        167.85,
+        63.7
+       ],
+       "rect": [
+        1,
+        366,
+        328,
+        128
+       ]
+      },
+      {
+       "symbol": "_buttonHC_Down",
+       "origin": [
+        163.9,
+        63.7
+       ],
+       "rect": [
+        331,
+        366,
+        328,
+        128
+       ]
+      },
+      {
+       "symbol": "_buttonHC_Over",
+       "origin": [
+        170.6,
+        63.1
+       ],
+       "rect": [
+        661,
+        366,
+        328,
+        128
+       ]
+      },
+      {
+       "symbol": "_buttonCancel_Down",
+       "origin": [
+        105.2,
+        99.1
+       ],
+       "rect": [
+        774,
+        1,
+        211,
+        196
+       ]
+      },
+      {
+       "symbol": "_buttonCancel_Over",
+       "origin": [
+        105.35,
+        101.1
+       ],
+       "rect": [
+        1,
+        496,
+        211,
+        196
+       ]
+      },
+      {
+       "symbol": "_buttonCancel_up",
+       "origin": [
+        105.35,
+        101.8
+       ],
+       "rect": [
+        1,
+        694,
+        211,
+        196
+       ]
+      },
+      {
+       "symbol": "_buttonSC_Down",
+       "origin": [
+        165.2,
+        57.85
+       ],
+       "rect": [
+        1,
+        892,
+        328,
+        117
+       ]
+      },
+      {
+       "symbol": "_buttonSC_Over",
+       "origin": [
+        166.55,
+        58.45
+       ],
+       "rect": [
+        214,
+        496,
+        328,
+        117
+       ]
+      },
+      {
+       "symbol": "_buttonSC_up",
+       "origin": [
+        163.9,
+        58.45
+       ],
+       "rect": [
+        214,
+        615,
+        328,
+        117
+       ]
+      },
+      {
+       "symbol": "txt_PriceHC",
+       "data": {
+        "y": -52.55,
+        "text": "xxxxHC",
+        "x": -118.2,
+        "width": 222.8,
+        "font": "72px Calibri",
+        "align": "center",
+        "height": 91.9,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        987,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_chooseResource",
+       "data": {
+        "y": -148.85,
+        "text": "Choisir la ressource ou annuler",
+        "x": -792.1,
+        "width": 1580.3,
+        "font": "120px ArialRoundedMTBold",
+        "align": "center",
+        "height": 292,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        990,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_Cancel",
+       "data": {
+        "y": -62.75,
+        "text": "Cancel",
+        "x": -128.35,
+        "width": 266.55,
+        "font": "96px Calibri",
+        "align": "center",
+        "height": 162.7,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        987,
+        4,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_PriceSC",
+       "data": {
+        "y": -52.5,
+        "text": "xxxxSC",
+        "x": -118.2,
+        "width": 222.8,
+        "font": "72px Calibri",
+        "align": "center",
+        "height": 91.9,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        990,
+        4,
+        1,
+        1
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        387.3,
+        178.0875
+       ],
+       "tweened": false,
+       "loc": [
+        -1.95,
+        -1.8375
+       ],
+       "index": 0,
+       "ref": "_background_1",
+       "duration": 1
+      }
+     ],
+     "name": "_background_1"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        271.5375,
+        57.975
+       ],
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 0,
+       "ref": "~btn_Cancel",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cancel"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        60.6375,
+        60.5625
+       ],
+       "scale": [
+        0.75,
+        0.75
+       ],
+       "index": 0,
+       "ref": "~btn_HC",
+       "duration": 1
+      }
+     ],
+     "name": "btn_HC"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -217.9125,
+        56.625
+       ],
+       "scale": [
+        0.75,
+        0.75
+       ],
+       "index": 0,
+       "ref": "~btn_SC",
+       "duration": 1
+      }
+     ],
+     "name": "btn_SC"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -1.35,
+        -84.525
+       ],
+       "scale": [
+        0.4125,
+        0.3422
+       ],
+       "index": 0,
+       "ref": "txt_chooseResource",
+       "duration": 1
+      }
+     ],
+     "name": "txt_chooseResource"
+    }
+   ],
+   "id": "BuildingChooseResource"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        105.3375,
+        101.775
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "index": 0,
+       "ref": "_buttonCancel_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        105.3375,
+        101.1
+       ],
+       "tweened": false,
+       "loc": [
+        -0.5625,
+        -1.3125
+       ],
+       "index": 1,
+       "ref": "_buttonCancel_Over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        105.1875,
+        99.0375
+       ],
+       "tweened": false,
+       "loc": [
+        -1.3125,
+        -2.0681
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "ref": "_buttonCancel_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        105.1875,
+        99.0375
+       ],
+       "tweened": false,
+       "loc": [
+        -1.3125,
+        -2.0625
+       ],
+       "index": 3,
+       "ref": "_buttonCancel_Down",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~btn_Cancel"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        167.8125,
+        63.7125
+       ],
+       "tweened": false,
+       "loc": [
+        -3.75,
+        -0.75
+       ],
+       "index": 0,
+       "ref": "_buttonHC_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        170.55,
+        63.075
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9,
+        -1.0875
+       ],
+       "index": 1,
+       "ref": "_buttonHC_Over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        163.8375,
+        63.7125
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9037,
+        -1.0875
+       ],
+       "scale": [
+        1.1,
+        1.1
+       ],
+       "index": 2,
+       "ref": "_buttonHC_Down",
+       "duration": 2
+      }
+     ],
+     "name": "Layer 1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.0375,
+        0
+       ],
+       "tweened": false,
+       "loc": [
+        39.3375,
+        -0.9
+       ],
+       "index": 0,
+       "ref": "txt_PriceHC",
+       "duration": 4
+      }
+     ],
+     "name": "txt_PriceHC"
+    }
+   ],
+   "id": "~btn_HC"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        163.8375,
+        58.4625
+       ],
+       "tweened": false,
+       "loc": [
+        -3.75,
+        -0.75
+       ],
+       "index": 0,
+       "ref": "_buttonSC_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        166.5,
+        58.4625
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9,
+        -1.0875
+       ],
+       "index": 1,
+       "ref": "_buttonSC_Over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        165.1875,
+        57.8625
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9037,
+        -1.0875
+       ],
+       "scale": [
+        1.1,
+        1.1
+       ],
+       "index": 2,
+       "ref": "_buttonSC_Down",
+       "duration": 2
+      }
+     ],
+     "name": "Layer 1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.0375,
+        0
+       ],
+       "tweened": false,
+       "loc": [
+        40.3875,
+        3.15
+       ],
+       "index": 0,
+       "ref": "txt_PriceSC",
+       "duration": 4
+      }
+     ],
+     "name": "txt_PriceSC"
+    }
+   ],
+   "id": "~btn_SC"
+  }
+ ],
+ "md5": "4ac835f854f6ad6801e26535f91a6bad",
+ "frameRate": 24
+}

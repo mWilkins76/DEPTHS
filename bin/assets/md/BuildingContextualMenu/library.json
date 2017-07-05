@@ -1,0 +1,1596 @@
+{
+ "md5": "31eb9b42ba8abe2041197560b64939f2",
+ "frameRate": 24,
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        453,
+        269
+       ],
+       "symbol": "BuildingContextualMenu_spritePopInBG",
+       "origin": [
+        216.7,
+        133.85
+       ]
+      },
+      {
+       "rect": [
+        456,
+        1,
+        335,
+        198
+       ],
+       "symbol": "BuildingContextualMenu_spriteUpgradeCostBG",
+       "origin": [
+        168.55,
+        100
+       ]
+      },
+      {
+       "rect": [
+        456,
+        201,
+        354,
+        87
+       ],
+       "symbol": "BuildingContextualMenu_spriteBuildingNameBackground",
+       "origin": [
+        175.3,
+        33.6
+       ]
+      },
+      {
+       "rect": [
+        793,
+        1,
+        143,
+        160
+       ],
+       "symbol": "BuildingContextualMenu_buttonYesUpgrade_over",
+       "origin": [
+        71.1,
+        79.9
+       ]
+      },
+      {
+       "rect": [
+        812,
+        163,
+        143,
+        160
+       ],
+       "symbol": "BuildingContextualMenu_buttonNoUpgrade_over",
+       "origin": [
+        71,
+        79.8
+       ]
+      },
+      {
+       "rect": [
+        1,
+        272,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonFeature_down",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        141,
+        272,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonHarvest_down",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        281,
+        272,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonHarvest_over",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        421,
+        290,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonFeature_over",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        561,
+        290,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonFeature_up",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        701,
+        325,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonHarvest_up",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        841,
+        325,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonUpgrade_over",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        1,
+        429,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonUpgrade_up",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        141,
+        429,
+        138,
+        155
+       ],
+       "symbol": "BuildingContextualMenu_buttonUpgrade_down",
+       "origin": [
+        68.65,
+        77.15
+       ]
+      },
+      {
+       "rect": [
+        281,
+        447,
+        185,
+        110
+       ],
+       "symbol": "BuildingContextualMenu_buttonUpgradeCostDisabled",
+       "origin": [
+        92.1,
+        54.65
+       ]
+      },
+      {
+       "rect": [
+        468,
+        447,
+        134,
+        150
+       ],
+       "symbol": "BuildingContextualMenu_buttonNoUpgrade_down",
+       "origin": [
+        66.55,
+        74.75
+       ]
+      },
+      {
+       "rect": [
+        281,
+        559,
+        134,
+        150
+       ],
+       "symbol": "BuildingContextualMenu_buttonNoUpgrade_up",
+       "origin": [
+        66.55,
+        74.45
+       ]
+      },
+      {
+       "rect": [
+        1,
+        586,
+        134,
+        150
+       ],
+       "symbol": "BuildingContextualMenu_buttonYesUpgrade_up",
+       "origin": [
+        66.4,
+        75.7
+       ]
+      },
+      {
+       "rect": [
+        137,
+        586,
+        134,
+        150
+       ],
+       "symbol": "BuildingContextualMenu_buttonYesUpgrade_down",
+       "origin": [
+        66.55,
+        74.75
+       ]
+      },
+      {
+       "rect": [
+        604,
+        482,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonMove_up",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        417,
+        599,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonMove_over",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        273,
+        711,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonInfo_up",
+       "origin": [
+        62.4,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        1,
+        738,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonMove_down",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        128,
+        738,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonDestroy_over",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        255,
+        854,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonInfo_over",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        1,
+        881,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonInfo_down",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        128,
+        881,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonDestroy_down",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        382,
+        854,
+        125,
+        141
+       ],
+       "symbol": "BuildingContextualMenu_buttonDestroy_up",
+       "origin": [
+        62.35,
+        70.1
+       ]
+      },
+      {
+       "rect": [
+        938,
+        1,
+        40,
+        56
+       ],
+       "symbol": "BuildingContextualMenu_spriteSCurrencie",
+       "origin": [
+        18.35,
+        27.05
+       ]
+      },
+      {
+       "rect": [
+        938,
+        59,
+        49,
+        40
+       ],
+       "symbol": "BuildingContextualMenu_spriteMNCurrencie",
+       "origin": [
+        25,
+        20.3
+       ]
+      },
+      {
+       "data": {
+        "y": -31.8,
+        "wordWrap": 1,
+        "text": "X/X",
+        "width": 118.1,
+        "color": "#070B31",
+        "align": "center",
+        "height": 64,
+        "font": "50px Alegreya Sans Medium",
+        "x": -54.4
+       },
+       "rect": [
+        421,
+        272,
+        1,
+        1
+       ],
+       "symbol": "BuildingContextualMenu_txt_levelBuilding",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -122.1,
+        "wordWrap": 1,
+        "text": "Lance les missions de forage automatiques : elles sont plus longues et donnent moins de ressources à la clé.",
+        "width": 383.05,
+        "color": "#070B31",
+        "align": "left",
+        "height": 406,
+        "font": "40px Alegreya Sans Medium",
+        "x": 3.1
+       },
+       "rect": [
+        421,
+        275,
+        1,
+        1
+       ],
+       "symbol": "BuildingContextualMenu_txt_descriptionBuilding",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -21.8,
+        "wordWrap": 0,
+        "text": "< Building Name >",
+        "width": 317.25,
+        "color": "#070B31",
+        "align": "center",
+        "height": 52.85,
+        "font": "bold 40px Alegreya Sans SC",
+        "x": -160.2
+       },
+       "rect": [
+        421,
+        278,
+        1,
+        1
+       ],
+       "symbol": "BuildingContextualMenu_txt_BuildingName",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -21.55,
+        "wordWrap": 0,
+        "text": "xxxxx",
+        "width": 97.5,
+        "color": "#070B31",
+        "align": "center",
+        "height": 52,
+        "font": "40px Alegreya Sans Medium",
+        "x": -48.75
+       },
+       "rect": [
+        421,
+        281,
+        1,
+        1
+       ],
+       "symbol": "BuildingContextualMenu_txt_MNCost",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -25,
+        "wordWrap": 0,
+        "text": "xxxxx",
+        "width": 98.5,
+        "color": "#070B31",
+        "align": "center",
+        "height": 52,
+        "font": "40px Alegreya Sans Medium",
+        "x": -49.25
+       },
+       "rect": [
+        421,
+        284,
+        1,
+        1
+       ],
+       "symbol": "BuildingContextualMenu_txt_SCCost",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ]
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "name": "BuildingContextualMenu_spriteBuildingNameBackground",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_spriteBuildingNameBackground",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -271.0125
+       ],
+       "pivot": [
+        175.275,
+        33.6
+       ],
+       "scale": [
+        0.8118,
+        0.8115
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "txt_BuildingName",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_txt_BuildingName",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -2.1375,
+        -273.1875
+       ],
+       "pivot": [
+        -0.0375,
+        -0.0375
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "InfoPanel",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_clipInformationsPanel",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -28.05,
+        296.25
+       ],
+       "pivot": [
+        -0.0375,
+        -7.0875
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "LeftButtonsPanel",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_clipLeftButtonsPanel",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -222.8625,
+        -0.225
+       ],
+       "pivot": [
+        -0.0375,
+        -0.225
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "RightButtonsPanel",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_clipRightButtonsPanel",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        229.9875,
+        -13.125
+       ],
+       "pivot": [
+        0,
+        -0.375
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "ConfirmUpgrade",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_ConfirmUpgrade",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        366.45,
+        -255.225
+       ],
+       "pivot": [
+        -0.4125,
+        -1.6875
+       ],
+       "index": 0
+      }
+     ]
+    }
+   ],
+   "id": "BuildingContextualMenu"
+  },
+  {
+   "layers": [
+    {
+     "name": "UpgradeCost",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_clipUpgradeCostNormal",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        1.5375,
+        74.6625
+       ],
+       "pivot": [
+        -6.15,
+        -0.7125
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "btn_YesBuyHC",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_YesBuyHC",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        93.45,
+        -54.3
+       ]
+      }
+     ]
+    },
+    {
+     "name": "btn_NoBuyHC",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_NoBuyHC",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -90.6375,
+        -55.575
+       ]
+      }
+     ]
+    }
+   ],
+   "id": "BuildingContextualMenu_ConfirmUpgrade"
+  },
+  {
+   "layers": [
+    {
+     "name": "Button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonDestroy_up",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 0
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonDestroy_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonDestroy_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0431
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonDestroy_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 3
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_Destroy",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "Button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonFeature_up",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 0
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonFeature_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonFeature_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0431
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonFeature_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 3
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_Feature",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "Button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonHarvest_up",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 0
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonHarvest_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonHarvest_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0431
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonHarvest_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 3
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_Harvest",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "Button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonInfo_up",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.4,
+        70.0875
+       ],
+       "index": 0
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonInfo_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonInfo_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0431
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonInfo_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 3
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_Info",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "Button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonMove_up",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 0
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonMove_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonMove_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0431
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonMove_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        62.3625,
+        70.0875
+       ],
+       "index": 3
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_Move",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonNoUpgrade_up",
+       "duration": 1,
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "index": 0,
+       "tweened": false
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonNoUpgrade_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -0.525,
+        0.15
+       ],
+       "pivot": [
+        71.025,
+        79.8
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonNoUpgrade_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0.225,
+        0.1875
+       ],
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonNoUpgrade_up",
+       "duration": 1,
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "index": 3,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "txt_No",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_NoBuyHC",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "Button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonUpgrade_up",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 0
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonUpgrade_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonUpgrade_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0431
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonUpgrade_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        68.6625,
+        77.1
+       ],
+       "index": 3
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_Upgrade",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_buttonYesUpgrade_up",
+       "duration": 1,
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "index": 0,
+       "tweened": false
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonYesUpgrade_over",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -0.1125,
+        -0.1125
+       ],
+       "pivot": [
+        71.1,
+        79.875
+       ],
+       "index": 1
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonYesUpgrade_down",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -0.75
+       ],
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "index": 2
+      },
+      {
+       "ref": "BuildingContextualMenu_buttonYesUpgrade_up",
+       "duration": 1,
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "index": 3,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "txt_Yes",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_btn_YesBuyHC",
+   "baseClass": "flash.display.SimpleButton"
+  },
+  {
+   "layers": [
+    {
+     "name": "UpgradeBuilding_txt_SCCost",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_txt_SCCost",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        14.2125,
+        -16.725
+       ]
+      }
+     ]
+    },
+    {
+     "name": "UpgradeBuilding_txt_MNCost",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_txt_MNCost",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        13.8375,
+        11.8125
+       ]
+      }
+     ]
+    },
+    {
+     "name": "UpgradeBuilding_spriteSC",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_spriteSCurrencie",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -34.35,
+        -15.825
+       ],
+       "pivot": [
+        18.3375,
+        27.0375
+       ],
+       "scale": [
+        0.7399,
+        0.7399
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "UpgradeBuilding_spriteMN",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_spriteMNCurrencie",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -41.8901,
+        16.0265
+       ],
+       "pivot": [
+        24.1875,
+        19.65
+       ],
+       "scale": [
+        0.8605,
+        0.8605
+       ],
+       "index": 0
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_clipCostContainer"
+  },
+  {
+   "layers": [
+    {
+     "name": "InfosBatiment_spritePopInBG",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_spritePopInBG",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -8.4,
+        -14.1375
+       ],
+       "data": {
+        "UIPosition": "center",
+        "UIPosition_Desktop": "center"
+       },
+       "pivot": [
+        216.7125,
+        133.8375
+       ],
+       "scale": [
+        0.8484,
+        0.8484
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "txt_descriptionBuilding",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_txt_descriptionBuilding",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -114.4875,
+        -16.6875
+       ]
+      }
+     ]
+    },
+    {
+     "name": "txt_levelBuilding",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_txt_levelBuilding",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -149.7375,
+        70.5375
+       ]
+      }
+     ]
+    },
+    {
+     "name": "txt_Production",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_clipInformationsPanel"
+  },
+  {
+   "layers": [
+    {
+     "name": "btn_Info",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_Info",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        39.225,
+        130.3875
+       ]
+      }
+     ]
+    },
+    {
+     "name": "btn_Move",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_Move",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        39.225,
+        -133.3875
+       ],
+       "pivot": [
+        0,
+        -0.075
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "btn_Destroy",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_Destroy",
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -48.3,
+        -0.8625
+       ]
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_clipLeftButtonsPanel"
+  },
+  {
+   "layers": [
+    {
+     "name": "btn_Feature",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_Feature",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        60.4875,
+        -3.1125
+       ],
+       "pivot": [
+        0,
+        -0.0375
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "btn_Harvest",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_Harvest",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -27.4875,
+        156.7875
+       ],
+       "pivot": [
+        0,
+        -0.0375
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "btn_Upgrade",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_btn_Upgrade",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -33.4875,
+        -153.7875
+       ],
+       "pivot": [
+        0,
+        -0.0375
+       ],
+       "index": 0
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_clipRightButtonsPanel"
+  },
+  {
+   "layers": [
+    {
+     "name": "BuildingContextualMenu_spriteUpgradeCostBG",
+     "keyframes": [
+      {
+       "ref": "BuildingContextualMenu_spriteUpgradeCostBG",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -5.4,
+        -0.15
+       ],
+       "data": {
+        "UIPosition": "center",
+        "UIPosition_Desktop": "center"
+       },
+       "pivot": [
+        168.5625,
+        99.975
+       ],
+       "scale": [
+        0.5573,
+        0.5573
+       ],
+       "index": 0
+      }
+     ]
+    },
+    {
+     "name": "BuildingContextualMenu_clipCostContainer",
+     "keyframes": [
+      {
+       "ref": "~BuildingContextualMenu_clipCostContainer",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -7.2049,
+        0.9
+       ],
+       "pivot": [
+        0.1875,
+        0
+       ],
+       "scale": [
+        1.1738,
+        1.1738
+       ],
+       "index": 0
+      }
+     ]
+    }
+   ],
+   "id": "~BuildingContextualMenu_clipUpgradeCostNormal"
+  }
+ ]
+}

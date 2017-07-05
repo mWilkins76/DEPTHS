@@ -1,0 +1,21 @@
+
+{
+
+	"Basic1":"Le xenos de base. Rapide et endurant, il va toujours le plus loin.",
+	"Basic2":"Le xenos de base. Rapide et endurant, il va toujours le plus loin.",
+	"Basic3":"Le xenos de base. Rapide et endurant, il va toujours le plus loin.",
+	"LongRange1":"Peut détruire des cases de loin en y lançant des bombes.",
+	"LongRange2":"Peut détruire des cases de loin en y lançant des bombes.",
+	"LongRange3":"Peut détruire des cases de loin en y lançant des bombes.",
+	"Lave1":"Peut aller là où les autres ne peuvent pas en marchant sur la lave",
+	"Lave2":"Peut aller là où les autres ne peuvent pas en marchant sur la lave",
+	"Lave3":"Peut aller là où les autres ne peuvent pas en marchant sur la lave",
+	"Heal1":"Peut sacrifier sa stamina pour en donner aux autres.",
+	"Heal2":"Peut sacrifier sa stamina pour en donner aux autres.",
+	"Heal3":"Peut sacrifier sa stamina pour en donner aux autres.",
+	
+	"AlienForeur":"Xeno utilisé dans les missions de forage",
+	"AlienProducer":"Xeno utilisé dans les enclos, produit de l'argent",
+	"AlienBuffer":"Xeno augmentant les ressources des autres batiments"
+
+}

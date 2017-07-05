@@ -1,0 +1,4760 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "UrbanHeadQuarterSprite",
+       "origin": [
+        586.2,
+        270.7
+       ],
+       "rect": [
+        1,
+        1,
+        1201,
+        845
+       ]
+      },
+      {
+       "symbol": "AlienPaddockSprite",
+       "origin": [
+        449.3,
+        158.05
+       ],
+       "rect": [
+        1,
+        848,
+        914,
+        567
+       ]
+      },
+      {
+       "symbol": "UrbanPowerStationSprite",
+       "origin": [
+        214.25,
+        164.5
+       ],
+       "rect": [
+        917,
+        848,
+        599,
+        438
+       ]
+      },
+      {
+       "symbol": "CosmeticFluoAlgaSprite",
+       "origin": [
+        127.35,
+        128.65
+       ],
+       "rect": [
+        1204,
+        1,
+        264,
+        249
+       ]
+      },
+      {
+       "symbol": "CosmeticFluoAlga2Sprite",
+       "origin": [
+        114.1,
+        121.25
+       ],
+       "rect": [
+        917,
+        1288,
+        240,
+        233
+       ]
+      },
+      {
+       "symbol": "_arrow",
+       "origin": [
+        196.15,
+        93
+       ],
+       "rect": [
+        1159,
+        1288,
+        207,
+        187
+       ]
+      },
+      {
+       "symbol": "UrbanHeadQuarter_VentCacheSprite",
+       "origin": [
+        76.7,
+        85
+       ],
+       "rect": [
+        1368,
+        1288,
+        154,
+        170
+       ]
+      },
+      {
+       "symbol": "UrbanPowerStation_TurbineLightFlip_flipbook_0",
+       "origin": [
+        71.25,
+        70.5
+       ],
+       "rect": [
+        1204,
+        252,
+        141,
+        141
+       ]
+      },
+      {
+       "symbol": "UrbanPowerStation_PowerTurbineLightSprite",
+       "origin": [
+        61.1,
+        60.85
+       ],
+       "rect": [
+        1347,
+        252,
+        123,
+        122
+       ]
+      },
+      {
+       "symbol": "UrbanHeadQuarter_VentBottomSprite",
+       "origin": [
+        53.9,
+        53.9
+       ],
+       "rect": [
+        1347,
+        376,
+        108,
+        108
+       ]
+      },
+      {
+       "symbol": "UrbanCommunicationHaloFlip_flipbook_0",
+       "origin": [
+        50.25,
+        51
+       ],
+       "rect": [
+        1204,
+        395,
+        102,
+        103
+       ]
+      },
+      {
+       "symbol": "base_pour_holo",
+       "origin": [
+        46.2,
+        53
+       ],
+       "rect": [
+        1308,
+        486,
+        93,
+        106
+       ]
+      },
+      {
+       "symbol": "Power_turbine_fondSprite",
+       "origin": [
+        45.7,
+        55.65
+       ],
+       "rect": [
+        1204,
+        500,
+        89,
+        109
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_185",
+       "origin": [
+        48.3,
+        17.2
+       ],
+       "rect": [
+        1403,
+        486,
+        103,
+        78
+       ]
+      },
+      {
+       "symbol": "GUIDE_circle_16",
+       "origin": [
+        62.5,
+        31.65
+       ],
+       "rect": [
+        1368,
+        1460,
+        125,
+        64
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_188",
+       "origin": [
+        45.65,
+        15.95
+       ],
+       "rect": [
+        1403,
+        566,
+        102,
+        75
+       ]
+      },
+      {
+       "symbol": "Power_turbine_mask1Sprite",
+       "origin": [
+        37.6,
+        46.25
+       ],
+       "rect": [
+        1457,
+        376,
+        76,
+        93
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor1Flip_flipbook_10",
+       "origin": [
+        36.4,
+        44.9
+       ],
+       "rect": [
+        1295,
+        594,
+        78,
+        88
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor2Flip_flipbook_0",
+       "origin": [
+        36.4,
+        44.9
+       ],
+       "rect": [
+        1204,
+        611,
+        78,
+        88
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor1Flip_flipbook_8",
+       "origin": [
+        35.4,
+        45.85
+       ],
+       "rect": [
+        1375,
+        643,
+        76,
+        89
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor2Flip_flipbook_2",
+       "origin": [
+        35.4,
+        45.85
+       ],
+       "rect": [
+        1284,
+        684,
+        76,
+        89
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor2Flip_flipbook_6",
+       "origin": [
+        36.4,
+        45.8
+       ],
+       "rect": [
+        1204,
+        701,
+        75,
+        90
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor1Flip_flipbook_4",
+       "origin": [
+        36.4,
+        45.8
+       ],
+       "rect": [
+        1453,
+        643,
+        75,
+        90
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor1Flip_flipbook_6",
+       "origin": [
+        35.25,
+        45.95
+       ],
+       "rect": [
+        1362,
+        734,
+        75,
+        89
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor2Flip_flipbook_4",
+       "origin": [
+        35.25,
+        45.95
+       ],
+       "rect": [
+        1439,
+        735,
+        75,
+        89
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor1Flip_flipbook_2",
+       "origin": [
+        36.35,
+        44.3
+       ],
+       "rect": [
+        1,
+        1417,
+        75,
+        88
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor2Flip_flipbook_8",
+       "origin": [
+        36.35,
+        44.3
+       ],
+       "rect": [
+        78,
+        1417,
+        75,
+        88
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_183",
+       "origin": [
+        31.3,
+        17
+       ],
+       "rect": [
+        155,
+        1417,
+        87,
+        73
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor2Flip_flipbook_10",
+       "origin": [
+        36.15,
+        43.35
+       ],
+       "rect": [
+        244,
+        1417,
+        72,
+        87
+       ]
+      },
+      {
+       "symbol": "Power_turbine_rotor1Flip_flipbook_0",
+       "origin": [
+        36.15,
+        43.35
+       ],
+       "rect": [
+        318,
+        1417,
+        72,
+        87
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_180",
+       "origin": [
+        22.1,
+        16.85
+       ],
+       "rect": [
+        392,
+        1417,
+        80,
+        74
+       ]
+      },
+      {
+       "symbol": "UrbanPowerStation_TubeSprite",
+       "origin": [
+        37.1,
+        36.5
+       ],
+       "rect": [
+        474,
+        1417,
+        69,
+        80
+       ]
+      },
+      {
+       "symbol": "UrbanPowerStationHaloSprite",
+       "origin": [
+        35.8,
+        35.8
+       ],
+       "rect": [
+        545,
+        1417,
+        72,
+        72
+       ]
+      },
+      {
+       "symbol": "UrbanCommunicationDomeHaloSprite",
+       "origin": [
+        35.8,
+        35.8
+       ],
+       "rect": [
+        619,
+        1417,
+        72,
+        72
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_194",
+       "origin": [
+        44.8,
+        -5.6
+       ],
+       "rect": [
+        1204,
+        793,
+        90,
+        51
+       ]
+      },
+      {
+       "symbol": "Power_turbine_energySprit",
+       "origin": [
+        33.1,
+        33.1
+       ],
+       "rect": [
+        693,
+        1417,
+        67,
+        67
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_18",
+       "origin": [
+        2.45,
+        15.75
+       ],
+       "rect": [
+        1296,
+        775,
+        59,
+        69
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_15",
+       "origin": [
+        0.8,
+        16.8
+       ],
+       "rect": [
+        1470,
+        1,
+        57,
+        71
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_173",
+       "origin": [
+        0.6,
+        15.85
+       ],
+       "rect": [
+        1470,
+        74,
+        56,
+        71
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_12",
+       "origin": [
+        0.25,
+        17.7
+       ],
+       "rect": [
+        1470,
+        147,
+        56,
+        69
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_167",
+       "origin": [
+        -4.45,
+        16
+       ],
+       "rect": [
+        1472,
+        218,
+        52,
+        68
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_119",
+       "origin": [
+        5.6,
+        2.4
+       ],
+       "rect": [
+        1472,
+        288,
+        62,
+        56
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_115",
+       "origin": [
+        3.8,
+        3.5
+       ],
+       "rect": [
+        1159,
+        1477,
+        59,
+        58
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_117",
+       "origin": [
+        3.75,
+        2.6
+       ],
+       "rect": [
+        1220,
+        1477,
+        59,
+        58
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_131",
+       "origin": [
+        0.95,
+        3.55
+       ],
+       "rect": [
+        1281,
+        1477,
+        57,
+        58
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_125",
+       "origin": [
+        -4.25,
+        3.8
+       ],
+       "rect": [
+        762,
+        1417,
+        52,
+        60
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_89",
+       "origin": [
+        -6.95,
+        15.65
+       ],
+       "rect": [
+        816,
+        1417,
+        48,
+        64
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_191",
+       "origin": [
+        38.5,
+        -16.3
+       ],
+       "rect": [
+        392,
+        1493,
+        72,
+        41
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_133",
+       "origin": [
+        -0.8,
+        5.2
+       ],
+       "rect": [
+        866,
+        1417,
+        46,
+        60
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_21",
+       "origin": [
+        -8.6,
+        7.45
+       ],
+       "rect": [
+        866,
+        1479,
+        47,
+        56
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_24",
+       "origin": [
+        -11.45,
+        8.6
+       ],
+       "rect": [
+        762,
+        1479,
+        43,
+        56
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_27",
+       "origin": [
+        -10.9,
+        6.55
+       ],
+       "rect": [
+        807,
+        1483,
+        46,
+        52
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_97",
+       "origin": [
+        3.8,
+        1.2
+       ],
+       "rect": [
+        693,
+        1486,
+        53,
+        42
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_91",
+       "origin": [
+        -8.6,
+        13.85
+       ],
+       "rect": [
+        1495,
+        1460,
+        36,
+        61
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_157",
+       "origin": [
+        -19.4,
+        9.6
+       ],
+       "rect": [
+        1308,
+        395,
+        37,
+        53
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_6",
+       "origin": [
+        0.2,
+        -2.45
+       ],
+       "rect": [
+        155,
+        1492,
+        56,
+        35
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_3",
+       "origin": [
+        1.95,
+        -3.55
+       ],
+       "rect": [
+        545,
+        1491,
+        48,
+        38
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_99",
+       "origin": [
+        4.1,
+        -0.7
+       ],
+       "rect": [
+        595,
+        1491,
+        49,
+        37
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_123",
+       "origin": [
+        -20.65,
+        -1.45
+       ],
+       "rect": [
+        646,
+        1491,
+        36,
+        44
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_95",
+       "origin": [
+        -10.65,
+        -7.6
+       ],
+       "rect": [
+        1308,
+        450,
+        35,
+        34
+       ]
+      },
+      {
+       "symbol": "UrbanHeadQuarter_HelixCenterSprite",
+       "origin": [
+        16.8,
+        16.8
+       ],
+       "rect": [
+        466,
+        1499,
+        34,
+        34
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_0",
+       "origin": [
+        1.95,
+        -2.5
+       ],
+       "rect": [
+        1472,
+        346,
+        46,
+        24
+       ]
+      },
+      {
+       "symbol": "UrbanHeadQuarter_HelixBladeSprite",
+       "origin": [
+        -2.75,
+        47.7
+       ],
+       "rect": [
+        1375,
+        594,
+        24,
+        39
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_33",
+       "origin": [
+        -17.4,
+        -11.3
+       ],
+       "rect": [
+        213,
+        1492,
+        29,
+        30
+       ]
+      },
+      {
+       "symbol": "UrbanCommunicationBeep_flipbook_3",
+       "origin": [
+        13.5,
+        14.268750000000068
+       ],
+       "rect": [
+        502,
+        1499,
+        27,
+        29
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_153",
+       "origin": [
+        -35.9,
+        -9.25
+       ],
+       "rect": [
+        1340,
+        1477,
+        14,
+        36
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_149",
+       "origin": [
+        -34.55,
+        -12.35
+       ],
+       "rect": [
+        1507,
+        566,
+        15,
+        31
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_9",
+       "origin": [
+        -10,
+        -13
+       ],
+       "rect": [
+        1495,
+        1523,
+        36,
+        10
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_36",
+       "origin": [
+        -31.05,
+        -18
+       ],
+       "rect": [
+        1520,
+        346,
+        12,
+        17
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_39",
+       "origin": [
+        -33.4,
+        5.25
+       ],
+       "rect": [
+        1281,
+        775,
+        4,
+        14
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_128",
+       "origin": [
+        -177.35,
+        -99.15
+       ],
+       "rect": [
+        1287,
+        775,
+        4,
+        14
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_101",
+       "origin": [
+        -177.35,
+        -99.15
+       ],
+       "rect": [
+        684,
+        1491,
+        4,
+        14
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_196",
+       "origin": [
+        -177.35,
+        -99.15
+       ],
+       "rect": [
+        684,
+        1507,
+        4,
+        14
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_137",
+       "origin": [
+        -177.35,
+        -99.15
+       ],
+       "rect": [
+        531,
+        1499,
+        4,
+        14
+       ]
+      },
+      {
+       "symbol": "UrbanCommunicationBeep_flipbook_14",
+       "origin": [
+        2.25,
+        3.018750000000068
+       ],
+       "rect": [
+        684,
+        1523,
+        5,
+        6
+       ]
+      },
+      {
+       "symbol": "UrbanCommunicationBeep_flipbook_0",
+       "origin": [
+        2.25,
+        3.018750000000068
+       ],
+       "rect": [
+        1520,
+        365,
+        5,
+        6
+       ]
+      },
+      {
+       "symbol": "UrbanCommunication_beep_sprite",
+       "origin": [
+        1.65,
+        2.5
+       ],
+       "rect": [
+        1527,
+        365,
+        4,
+        5
+       ]
+      }
+     ]
+    },
+    {
+     "file": "atlas1.png",
+     "textures": [
+      {
+       "symbol": "DrillingCenterSprite",
+       "origin": [
+        389.3,
+        124.4
+       ],
+       "rect": [
+        1,
+        1,
+        882,
+        512
+       ]
+      },
+      {
+       "symbol": "AlienTrainingCenterSprite",
+       "origin": [
+        384.1,
+        185.75
+       ],
+       "rect": [
+        1,
+        515,
+        785,
+        530
+       ]
+      },
+      {
+       "symbol": "AlienResearchCenterSprite",
+       "origin": [
+        310.9,
+        164.2
+       ],
+       "rect": [
+        788,
+        515,
+        721,
+        489
+       ]
+      },
+      {
+       "symbol": "UrbanPowerStationLV1Sprite",
+       "origin": [
+        210.55,
+        108.55
+       ],
+       "rect": [
+        885,
+        1,
+        584,
+        382
+       ]
+      },
+      {
+       "symbol": "UrbanCommunicationSprite",
+       "origin": [
+        129.05,
+        255.1
+       ],
+       "rect": [
+        788,
+        1006,
+        441,
+        453
+       ]
+      },
+      {
+       "symbol": "DrillingOutPostSprite",
+       "origin": [
+        177.5,
+        114.8
+       ],
+       "rect": [
+        1,
+        1047,
+        505,
+        366
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_121",
+       "origin": [
+        0.25,
+        0.05
+       ],
+       "rect": [
+        1471,
+        1,
+        54,
+        54
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_135",
+       "origin": [
+        -4.95,
+        2.3
+       ],
+       "rect": [
+        1471,
+        57,
+        43,
+        59
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_30",
+       "origin": [
+        -15.2,
+        5.2
+       ],
+       "rect": [
+        1471,
+        118,
+        42,
+        49
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_161",
+       "origin": [
+        -19.3,
+        9.4
+       ],
+       "rect": [
+        1471,
+        169,
+        37,
+        51
+       ]
+      },
+      {
+       "symbol": "Power_turbine_arcFlip_flipbook_93",
+       "origin": [
+        -8.55,
+        6.65
+       ],
+       "rect": [
+        1471,
+        222,
+        33,
+        47
+       ]
+      }
+     ]
+    },
+    {
+     "file": "atlas2.png",
+     "textures": [
+      {
+       "symbol": "AlienIncubatorSprite",
+       "origin": [
+        293.3,
+        130.8
+       ],
+       "rect": [
+        1,
+        1,
+        800,
+        498
+       ]
+      },
+      {
+       "symbol": "DrillingAutoOutPostSprite",
+       "origin": [
+        184.9,
+        191.65
+       ],
+       "rect": [
+        1,
+        501,
+        372,
+        375
+       ]
+      },
+      {
+       "symbol": "UrbanAntennaSprite",
+       "origin": [
+        166.95,
+        218.45
+       ],
+       "rect": [
+        375,
+        501,
+        366,
+        354
+       ]
+      }
+     ]
+    },
+    {
+     "file": "atlas3.png",
+     "textures": [
+      {
+       "symbol": "UrbanTranslationSprite",
+       "origin": [
+        183.85,
+        82.25
+       ],
+       "rect": [
+        1,
+        1,
+        384,
+        278
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        293.2875,
+        130.8
+       ],
+       "index": 0,
+       "ref": "AlienIncubatorSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "AlienIncubatorSprite"
+    }
+   ],
+   "id": "AlienIncubator"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        449.325,
+        158.0625
+       ],
+       "index": 0,
+       "ref": "AlienPaddockSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "AlienPaddockSprite"
+    }
+   ],
+   "id": "AlienPaddock"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        310.875,
+        164.2125
+       ],
+       "index": 0,
+       "ref": "AlienResearchCenterSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "AlienResearchCenterSprite"
+    }
+   ],
+   "id": "AlienResearchCenter"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        384.075,
+        185.7375
+       ],
+       "index": 0,
+       "ref": "AlienTrainingCenterSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "AlienTrainingCenterSprite"
+    }
+   ],
+   "id": "AlienTrainingCenter"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "CosmeticAirAquarium"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "CosmeticCoral"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        127.35,
+        128.6625
+       ],
+       "index": 0,
+       "ref": "CosmeticFluoAlgaSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "CosmeticFluoAlgaSprite"
+    }
+   ],
+   "id": "CosmeticFluoAlga"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        114.1125,
+        121.2375
+       ],
+       "index": 0,
+       "ref": "CosmeticFluoAlga2Sprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "CosmeticFluoAlga2Sprite"
+    }
+   ],
+   "id": "CosmeticFluoAlga2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "CosmeticMonolith"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "CosmeticSteamSource"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        184.9125,
+        191.6625
+       ],
+       "index": 0,
+       "ref": "DrillingAutoOutPostSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "DrillingAutoOutPostSprite"
+    }
+   ],
+   "id": "DrillingAutoOutPost"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        389.325,
+        124.425
+       ],
+       "index": 0,
+       "ref": "DrillingCenterSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "DrillingCenterSprite"
+    }
+   ],
+   "id": "DrillingCenter"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        177.4875,
+        114.7875
+       ],
+       "index": 0,
+       "ref": "DrillingOutPostSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "DrillingOutPostSprite"
+    }
+   ],
+   "id": "DrillingOutPost"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        196.1625,
+        92.9625
+       ],
+       "ease": -1,
+       "loc": [
+        0,
+        -0.075
+       ],
+       "index": 0,
+       "ref": "_arrow",
+       "duration": 14
+      },
+      {
+       "pivot": [
+        196.1625,
+        92.9625
+       ],
+       "ease": 1,
+       "loc": [
+        -37.5,
+        -0.075
+       ],
+       "index": 14,
+       "ref": "_arrow",
+       "duration": 15
+      },
+      {
+       "pivot": [
+        196.1625,
+        92.9625
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.075
+       ],
+       "index": 29,
+       "ref": "_arrow",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "FTUE_arrow"
+  },
+  {
+   "baseClass": "Flipbook",
+   "layers": [
+    {
+     "flipbook": true,
+     "keyframes": [
+      {
+       "pivot": [
+        1.95,
+        -2.5125
+       ],
+       "index": 0,
+       "ref": "Power_turbine_arcFlip_flipbook_0",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        1.95,
+        -3.5625
+       ],
+       "index": 3,
+       "ref": "Power_turbine_arcFlip_flipbook_3",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        0.1875,
+        -2.4375
+       ],
+       "index": 6,
+       "ref": "Power_turbine_arcFlip_flipbook_6",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -9.975,
+        -12.975
+       ],
+       "index": 9,
+       "ref": "Power_turbine_arcFlip_flipbook_9",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        0.2625,
+        17.7
+       ],
+       "index": 12,
+       "ref": "Power_turbine_arcFlip_flipbook_12",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        0.7875,
+        16.8
+       ],
+       "index": 15,
+       "ref": "Power_turbine_arcFlip_flipbook_15",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        2.4375,
+        15.75
+       ],
+       "index": 18,
+       "ref": "Power_turbine_arcFlip_flipbook_18",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -8.5875,
+        7.4625
+       ],
+       "index": 21,
+       "ref": "Power_turbine_arcFlip_flipbook_21",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -11.4375,
+        8.625
+       ],
+       "index": 24,
+       "ref": "Power_turbine_arcFlip_flipbook_24",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -10.9125,
+        6.5625
+       ],
+       "index": 27,
+       "ref": "Power_turbine_arcFlip_flipbook_27",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -15.1875,
+        5.2125
+       ],
+       "index": 30,
+       "ref": "Power_turbine_arcFlip_flipbook_30",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -17.4,
+        -11.325
+       ],
+       "index": 33,
+       "ref": "Power_turbine_arcFlip_flipbook_33",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -31.05,
+        -18
+       ],
+       "index": 36,
+       "ref": "Power_turbine_arcFlip_flipbook_36",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -33.375,
+        5.25
+       ],
+       "index": 39,
+       "ref": "Power_turbine_arcFlip_flipbook_39",
+       "tweened": false,
+       "duration": 50
+      },
+      {
+       "pivot": [
+        -6.9375,
+        15.6375
+       ],
+       "index": 89,
+       "ref": "Power_turbine_arcFlip_flipbook_89",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -8.5875,
+        13.8375
+       ],
+       "index": 91,
+       "ref": "Power_turbine_arcFlip_flipbook_91",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -8.55,
+        6.6375
+       ],
+       "index": 93,
+       "ref": "Power_turbine_arcFlip_flipbook_93",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -10.65,
+        -7.6125
+       ],
+       "index": 95,
+       "ref": "Power_turbine_arcFlip_flipbook_95",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        3.825,
+        1.2
+       ],
+       "index": 97,
+       "ref": "Power_turbine_arcFlip_flipbook_97",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        4.125,
+        -0.7125
+       ],
+       "index": 99,
+       "ref": "Power_turbine_arcFlip_flipbook_99",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -177.3375,
+        -99.15
+       ],
+       "index": 101,
+       "ref": "Power_turbine_arcFlip_flipbook_101",
+       "tweened": false,
+       "duration": 14
+      },
+      {
+       "pivot": [
+        3.825,
+        3.4875
+       ],
+       "index": 115,
+       "ref": "Power_turbine_arcFlip_flipbook_115",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        3.75,
+        2.625
+       ],
+       "index": 117,
+       "ref": "Power_turbine_arcFlip_flipbook_117",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        5.5875,
+        2.4
+       ],
+       "index": 119,
+       "ref": "Power_turbine_arcFlip_flipbook_119",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        0.2625,
+        0.0375
+       ],
+       "index": 121,
+       "ref": "Power_turbine_arcFlip_flipbook_121",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -20.6625,
+        -1.4625
+       ],
+       "index": 123,
+       "ref": "Power_turbine_arcFlip_flipbook_123",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -4.2375,
+        3.825
+       ],
+       "index": 125,
+       "ref": "Power_turbine_arcFlip_flipbook_125",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        -177.3375,
+        -99.15
+       ],
+       "index": 128,
+       "ref": "Power_turbine_arcFlip_flipbook_128",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        0.9375,
+        3.5625
+       ],
+       "index": 131,
+       "ref": "Power_turbine_arcFlip_flipbook_131",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -0.7875,
+        5.175
+       ],
+       "index": 133,
+       "ref": "Power_turbine_arcFlip_flipbook_133",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -4.95,
+        2.325
+       ],
+       "index": 135,
+       "ref": "Power_turbine_arcFlip_flipbook_135",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -177.3375,
+        -99.15
+       ],
+       "index": 137,
+       "ref": "Power_turbine_arcFlip_flipbook_137",
+       "tweened": false,
+       "duration": 12
+      },
+      {
+       "pivot": [
+        -34.5375,
+        -12.3375
+       ],
+       "index": 149,
+       "ref": "Power_turbine_arcFlip_flipbook_149",
+       "tweened": false,
+       "duration": 4
+      },
+      {
+       "pivot": [
+        -35.925,
+        -9.2625
+       ],
+       "index": 153,
+       "ref": "Power_turbine_arcFlip_flipbook_153",
+       "tweened": false,
+       "duration": 4
+      },
+      {
+       "pivot": [
+        -19.425,
+        9.6
+       ],
+       "index": 157,
+       "ref": "Power_turbine_arcFlip_flipbook_157",
+       "tweened": false,
+       "duration": 4
+      },
+      {
+       "pivot": [
+        -19.3125,
+        9.4125
+       ],
+       "index": 161,
+       "ref": "Power_turbine_arcFlip_flipbook_161",
+       "tweened": false,
+       "duration": 6
+      },
+      {
+       "pivot": [
+        -4.4625,
+        15.975
+       ],
+       "index": 167,
+       "ref": "Power_turbine_arcFlip_flipbook_167",
+       "tweened": false,
+       "duration": 6
+      },
+      {
+       "pivot": [
+        0.6,
+        15.8625
+       ],
+       "index": 173,
+       "ref": "Power_turbine_arcFlip_flipbook_173",
+       "tweened": false,
+       "duration": 7
+      },
+      {
+       "pivot": [
+        22.125,
+        16.8375
+       ],
+       "index": 180,
+       "ref": "Power_turbine_arcFlip_flipbook_180",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        31.3125,
+        16.9875
+       ],
+       "index": 183,
+       "ref": "Power_turbine_arcFlip_flipbook_183",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        48.3,
+        17.175
+       ],
+       "index": 185,
+       "ref": "Power_turbine_arcFlip_flipbook_185",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        45.6375,
+        15.9375
+       ],
+       "index": 188,
+       "ref": "Power_turbine_arcFlip_flipbook_188",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        38.5125,
+        -16.275
+       ],
+       "index": 191,
+       "ref": "Power_turbine_arcFlip_flipbook_191",
+       "tweened": false,
+       "duration": 3
+      },
+      {
+       "pivot": [
+        44.775,
+        -5.5875
+       ],
+       "index": 194,
+       "ref": "Power_turbine_arcFlip_flipbook_194",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        -177.3375,
+        -99.15
+       ],
+       "index": 196,
+       "ref": "Power_turbine_arcFlip_flipbook_196",
+       "tweened": false,
+       "duration": 28
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Power_turbine_arcFlip"
+  },
+  {
+   "baseClass": "Flipbook",
+   "layers": [
+    {
+     "flipbook": true,
+     "keyframes": [
+      {
+       "pivot": [
+        36.15,
+        43.35
+       ],
+       "index": 0,
+       "ref": "Power_turbine_rotor1Flip_flipbook_0",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        36.3375,
+        44.325
+       ],
+       "index": 2,
+       "ref": "Power_turbine_rotor1Flip_flipbook_2",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        36.375,
+        45.7875
+       ],
+       "index": 4,
+       "ref": "Power_turbine_rotor1Flip_flipbook_4",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        35.25,
+        45.9375
+       ],
+       "index": 6,
+       "ref": "Power_turbine_rotor1Flip_flipbook_6",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        35.4,
+        45.8625
+       ],
+       "index": 8,
+       "ref": "Power_turbine_rotor1Flip_flipbook_8",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        36.375,
+        44.925
+       ],
+       "index": 10,
+       "ref": "Power_turbine_rotor1Flip_flipbook_10",
+       "tweened": false,
+       "duration": 2
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Power_turbine_rotor1Flip"
+  },
+  {
+   "baseClass": "Flipbook",
+   "layers": [
+    {
+     "flipbook": true,
+     "keyframes": [
+      {
+       "pivot": [
+        36.375,
+        44.925
+       ],
+       "index": 0,
+       "ref": "Power_turbine_rotor2Flip_flipbook_0",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        35.4,
+        45.8625
+       ],
+       "index": 2,
+       "ref": "Power_turbine_rotor2Flip_flipbook_2",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        35.25,
+        45.9375
+       ],
+       "index": 4,
+       "ref": "Power_turbine_rotor2Flip_flipbook_4",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        36.375,
+        45.7875
+       ],
+       "index": 6,
+       "ref": "Power_turbine_rotor2Flip_flipbook_6",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        36.3375,
+        44.325
+       ],
+       "index": 8,
+       "ref": "Power_turbine_rotor2Flip_flipbook_8",
+       "tweened": false,
+       "duration": 2
+      },
+      {
+       "pivot": [
+        36.15,
+        43.35
+       ],
+       "index": 10,
+       "ref": "Power_turbine_rotor2Flip_flipbook_10",
+       "tweened": false,
+       "duration": 2
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Power_turbine_rotor2Flip"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        166.95,
+        218.4375
+       ],
+       "index": 0,
+       "ref": "UrbanAntennaSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "UrbanAntennaSprite"
+    }
+   ],
+   "id": "UrbanAntenna"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        129.0375,
+        255.075
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationSprite",
+       "tweened": false,
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunicationSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        0,
+        -4.125
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~UrbanCommunicationBeepsOff",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunicationBeepsOff"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        0,
+        -4.0875
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~UrbanCommunicationBeepsON",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunicationBeepsON"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "ref": "~UrbanCommunicationHalo",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunicationHalo"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        71.3625,
+        -188.175
+       ],
+       "scale": [
+        2.4805,
+        2.4805
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 85
+      }
+     ],
+     "name": "Calque 2"
+    }
+   ],
+   "id": "UrbanCommunication"
+  },
+  {
+   "baseClass": "Flipbook",
+   "layers": [
+    {
+     "flipbook": true,
+     "keyframes": [
+      {
+       "pivot": [
+        2.25,
+        3.0188
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationBeep_flipbook_0",
+       "duration": 3
+      },
+      {
+       "pivot": [
+        13.5,
+        14.2688
+       ],
+       "index": 3,
+       "ref": "UrbanCommunicationBeep_flipbook_3",
+       "duration": 11
+      },
+      {
+       "pivot": [
+        2.25,
+        3.0188
+       ],
+       "index": 14,
+       "ref": "UrbanCommunicationBeep_flipbook_14",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "UrbanCommunicationBeep"
+  },
+  {
+   "baseClass": "Flipbook",
+   "layers": [
+    {
+     "flipbook": true,
+     "keyframes": [
+      {
+       "pivot": [
+        50.25,
+        51
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationHaloFlip_flipbook_0",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "UrbanCommunicationHaloFlip"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        586.2,
+        270.7125
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarterSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "UrbanHeadQuarterSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -35.5875,
+        255.7125
+       ],
+       "scale": [
+        1.122,
+        0.561
+       ],
+       "index": 0,
+       "ref": "~UrbanHeadQuarter_Vent",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanHeadQuarter_Vent"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        129.375,
+        238.8
+       ],
+       "scale": [
+        1.2938,
+        1.2938
+       ],
+       "index": 0,
+       "ref": "UrbanTest",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanTest"
+    }
+   ],
+   "id": "UrbanHeadQuarter"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        214.2375,
+        164.5125
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        87.2625,
+        -49.5375
+       ],
+       "tweened": false,
+       "loc": [
+        174.9683,
+        76.3721
+       ],
+       "scale": [
+        0.8921,
+        0.8921
+       ],
+       "index": 0,
+       "ref": "~UrbanPowerStation_Turbine",
+       "duration": 1
+      }
+     ],
+     "name": "Power_turbine"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        152.7,
+        54.45
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Power_turbine_arcFlip",
+       "duration": 1
+      }
+     ],
+     "name": "Power_turbine_arcFlip"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -39.075,
+        -56.55
+       ],
+       "tweened": false,
+       "loc": [
+        129.512,
+        35.5444
+       ],
+       "scale": [
+        0.8794,
+        0.8794
+       ],
+       "index": 0,
+       "ref": "~UrbanPowerStation_TurbineLight",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStation_TurbineLightSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "ref": "~UrbanPowerStationHalos",
+       "duration": 1
+      }
+     ],
+     "name": "UrbenPowerStationHalos"
+    }
+   ],
+   "id": "UrbanPowerStation"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        210.5625,
+        108.5625
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationLV1Sprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationLV1Sprite"
+    }
+   ],
+   "id": "UrbanPowerStationLV1"
+  },
+  {
+   "baseClass": "Flipbook",
+   "layers": [
+    {
+     "flipbook": true,
+     "keyframes": [
+      {
+       "pivot": [
+        71.25,
+        70.5
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStation_TurbineLightFlip_flipbook_0",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "UrbanPowerStation_TurbineLightFlip"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "CacheArriereSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "helice"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "cache_Sprite"
+    }
+   ],
+   "id": "UrbanTest"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        183.8625,
+        82.2375
+       ],
+       "index": 0,
+       "ref": "UrbanTranslationSprite",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "UrbanTranslationSprite"
+    }
+   ],
+   "id": "UrbanTranslation"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 70
+      },
+      {
+       "tweened": false,
+       "loc": [
+        130.1625,
+        -52.9875
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 70,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #15"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 60
+      },
+      {
+       "tweened": false,
+       "loc": [
+        117,
+        -62.85
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 60,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #14"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 50
+      },
+      {
+       "tweened": false,
+       "loc": [
+        96.8625,
+        -69.675
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 50,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #13"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 30
+      },
+      {
+       "tweened": false,
+       "loc": [
+        49.9125,
+        -69.675
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 30,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #11"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 20
+      },
+      {
+       "tweened": false,
+       "loc": [
+        30.2625,
+        -62.85
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 20,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #10"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 10
+      },
+      {
+       "tweened": false,
+       "loc": [
+        16.65,
+        -52.9875
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 10,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #9"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        11.775,
+        -41.1375
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #8"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 70
+      },
+      {
+       "tweened": false,
+       "loc": [
+        16.65,
+        -29.625
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 70,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #7"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 60
+      },
+      {
+       "tweened": false,
+       "loc": [
+        30.2625,
+        -19.8
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 60,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #6"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 50
+      },
+      {
+       "tweened": false,
+       "loc": [
+        49.9125,
+        -12.225
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 50,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #5"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 40
+      },
+      {
+       "tweened": false,
+       "loc": [
+        73.3875,
+        -10.275
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 40,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #4"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 30
+      },
+      {
+       "tweened": false,
+       "loc": [
+        96.8625,
+        -12.7125
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 30,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #3"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 20
+      },
+      {
+       "tweened": false,
+       "loc": [
+        117,
+        -19.8
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 20,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #2"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 10
+      },
+      {
+       "tweened": false,
+       "loc": [
+        130.1625,
+        -29.625
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 10,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep #1"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        135.1875,
+        -41.1375
+       ],
+       "scale": [
+        1.8155,
+        1.8155
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationBeep",
+       "duration": 15
+      }
+     ],
+     "name": "UrbanCommunicationBeep"
+    }
+   ],
+   "id": "~UrbanCommunicationBeepsON"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        11.775,
+        -41.1375
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        16.65,
+        -52.9875
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        30.2625,
+        -62.85
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        49.9125,
+        -69.675
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        96.8625,
+        -69.675
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        117,
+        -62.85
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        130.1625,
+        -52.9875
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        135.1875,
+        -41.1375
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        130.1625,
+        -29.625
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        117,
+        -19.8
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        96.8625,
+        -12.7125
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        73.3875,
+        -10.275
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        49.9125,
+        -12.225
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        30.2625,
+        -19.8
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.65,
+        2.475
+       ],
+       "tweened": false,
+       "loc": [
+        16.65,
+        -29.625
+       ],
+       "scale": [
+        1.8226,
+        1.8226
+       ],
+       "index": 0,
+       "ref": "UrbanCommunication_beep_sprite",
+       "duration": 85
+      }
+     ],
+     "name": "UrbanCommunication_beepSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 85
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~UrbanCommunicationBeepsOff"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ease": 1,
+       "duration": 79,
+       "loc": [
+        86.85,
+        41.8125
+       ],
+       "scale": [
+        0.8742,
+        0.8742
+       ],
+       "index": 0,
+       "ref": "UrbanCommunicationHaloFlip",
+       "alpha": 0
+      },
+      {
+       "ease": -1,
+       "loc": [
+        104.775,
+        43.6125
+       ],
+       "scale": [
+        0.9568,
+        0.9568
+       ],
+       "index": 79,
+       "ref": "UrbanCommunicationHaloFlip",
+       "duration": 80
+      },
+      {
+       "ease": 1,
+       "duration": 1,
+       "loc": [
+        117.075,
+        62.6625
+       ],
+       "scale": [
+        0.8742,
+        0.8742
+       ],
+       "index": 159,
+       "ref": "UrbanCommunicationHaloFlip",
+       "alpha": 0
+      }
+     ],
+     "name": "UrbanCommunicationHaloSprite"
+    }
+   ],
+   "id": "~UrbanCommunicationHalo"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        16.8,
+        16.8
+       ],
+       "tweened": false,
+       "loc": [
+        0.0375,
+        -0.0375
+       ],
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixCenterSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixCenterSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        0.7854,
+        0.7854
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        1.5708,
+        1.5708
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        2.3562,
+        2.3562
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -2.3562,
+        -2.3562
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -1.5708,
+        -1.5708
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -0.7854,
+        -0.7854
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        0.3927,
+        0.3927
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        1.1781,
+        1.1781
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        1.9635,
+        1.9635
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        2.7489,
+        2.7489
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -2.7489,
+        -2.7489
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -0.3927,
+        -0.3927
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.326,
+        1.326
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -1.9635,
+        -1.9635
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -2.7375,
+        47.7
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        1.3259,
+        1.3259
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_HelixBladeSprite",
+       "skew": [
+        -1.1781,
+        -1.1781
+       ]
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixBladeSprite"
+    }
+   ],
+   "id": "~UrbanHeadQuarter_Helix"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "ref": "~UrbanHeadQuarter_Helix",
+       "duration": 14
+      },
+      {
+       "skew": [
+        -11.781,
+        -11.781
+       ],
+       "tweened": false,
+       "index": 14,
+       "ref": "~UrbanHeadQuarter_Helix",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~UrbanHeadQuarter_HelixTurn"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        53.8875,
+        53.8875
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -18.825
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_VentBottomSprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 4"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        0,
+        -2.8125
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~UrbanHeadQuarter_HelixTurn",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanHeadQuarter_HelixTurn"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        76.6875,
+        84.975
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.1875
+       ],
+       "index": 0,
+       "ref": "UrbanHeadQuarter_VentCacheSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanHeadQuarter_VentBottomSprite"
+    }
+   ],
+   "id": "~UrbanHeadQuarter_Vent"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0,
+       "loc": [
+        194.8125,
+        0.9375
+       ],
+       "scale": [
+        0.4514,
+        0.4514
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 29
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        194.8125,
+        2.1375
+       ],
+       "scale": [
+        0.4981,
+        0.4981
+       ],
+       "index": 29,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0.3984,
+       "loc": [
+        194.8125,
+        5.8125
+       ],
+       "scale": [
+        0.6444,
+        0.6444
+       ],
+       "index": 59,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        194.8125,
+        2.175
+       ],
+       "scale": [
+        0.4997,
+        0.4997
+       ],
+       "index": 89,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "tweened": false,
+       "alpha": 0,
+       "loc": [
+        194.8125,
+        0.9375
+       ],
+       "scale": [
+        0.4514,
+        0.4514
+       ],
+       "index": 119,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationHaloSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0,
+       "loc": [
+        165.975,
+        7.65
+       ],
+       "scale": [
+        0.4259,
+        0.4259
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 29
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        167.1375,
+        8.8125
+       ],
+       "scale": [
+        0.4873,
+        0.4873
+       ],
+       "index": 29,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0.3984,
+       "loc": [
+        170.85,
+        12.525
+       ],
+       "scale": [
+        0.6799,
+        0.6799
+       ],
+       "index": 59,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        167.2125,
+        8.8875
+       ],
+       "scale": [
+        0.4894,
+        0.4894
+       ],
+       "index": 89,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "tweened": false,
+       "alpha": 0,
+       "loc": [
+        165.975,
+        7.65
+       ],
+       "scale": [
+        0.4259,
+        0.4259
+       ],
+       "index": 119,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationHaloSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0,
+       "loc": [
+        231.7125,
+        24.45
+       ],
+       "scale": [
+        0.8512,
+        0.8512
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 29
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        230.55,
+        25.425
+       ],
+       "scale": [
+        0.9251,
+        0.9251
+       ],
+       "index": 29,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0.3984,
+       "loc": [
+        226.8375,
+        28.4625
+       ],
+       "scale": [
+        1.1572,
+        1.1572
+       ],
+       "index": 59,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        230.475,
+        25.425
+       ],
+       "scale": [
+        0.9277,
+        0.9277
+       ],
+       "index": 89,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "tweened": false,
+       "alpha": 0,
+       "loc": [
+        231.7125,
+        24.45
+       ],
+       "scale": [
+        0.8512,
+        0.8512
+       ],
+       "index": 119,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationHaloSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0,
+       "loc": [
+        78.3,
+        -57.9375
+       ],
+       "scale": [
+        0.8512,
+        0.8512
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 29
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        78.3,
+        -57.9375
+       ],
+       "scale": [
+        0.9251,
+        0.9251
+       ],
+       "index": 29,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0.5,
+       "loc": [
+        78.3,
+        -57.9375
+       ],
+       "scale": [
+        1.1572,
+        1.1572
+       ],
+       "index": 59,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        78.3,
+        -57.9375
+       ],
+       "scale": [
+        0.9277,
+        0.9277
+       ],
+       "index": 89,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "tweened": false,
+       "alpha": 0,
+       "loc": [
+        78.3,
+        -57.9375
+       ],
+       "scale": [
+        0.8512,
+        0.8512
+       ],
+       "index": 119,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationHaloSprite copy"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0,
+       "loc": [
+        93.3,
+        105.0375
+       ],
+       "scale": [
+        0.3897,
+        0.3897
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 29
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        94.4625,
+        105.0375
+       ],
+       "scale": [
+        0.447,
+        0.447
+       ],
+       "index": 29,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": 1,
+       "alpha": 0.5,
+       "loc": [
+        98.175,
+        105.0375
+       ],
+       "scale": [
+        0.6266,
+        0.6266
+       ],
+       "index": 59,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "ease": -1,
+       "alpha": 0.1016,
+       "loc": [
+        94.5375,
+        105.0375
+       ],
+       "scale": [
+        0.4489,
+        0.4489
+       ],
+       "index": 89,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 30
+      },
+      {
+       "pivot": [
+        35.775,
+        35.775
+       ],
+       "tweened": false,
+       "alpha": 0,
+       "loc": [
+        93.3,
+        105.0375
+       ],
+       "scale": [
+        0.3897,
+        0.3897
+       ],
+       "index": 119,
+       "ref": "UrbanPowerStationHaloSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStationHaloSprite"
+    }
+   ],
+   "id": "~UrbanPowerStationHalos"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        45.675,
+        55.65
+       ],
+       "tweened": false,
+       "loc": [
+        88.6125,
+        -48
+       ],
+       "index": 0,
+       "ref": "Power_turbine_fondSprite",
+       "duration": 50
+      }
+     ],
+     "name": "Power_turbine_fondSprite"
+    },
+    {
+     "mask": "Calque 4",
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        104.475,
+        -57.3
+       ],
+       "scale": [
+        0.6566,
+        0.6566
+       ],
+       "index": 0,
+       "ref": "Power_turbine_rotor2Flip",
+       "duration": 50
+      }
+     ],
+     "name": "Power_turbine_rotor copy"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        37.575,
+        46.2375
+       ],
+       "tweened": false,
+       "loc": [
+        84.975,
+        -47.9625
+       ],
+       "index": 0,
+       "ref": "Power_turbine_mask1Sprite",
+       "duration": 50
+      }
+     ],
+     "name": "Calque 4"
+    },
+    {
+     "mask": "Calque 4 copy 2",
+     "keyframes": [
+      {
+       "loc": [
+        89.7,
+        -51.2625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Power_turbine_rotor1Flip",
+       "duration": 50
+      }
+     ],
+     "name": "Power_turbine_rotor"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        37.575,
+        46.2375
+       ],
+       "tweened": false,
+       "loc": [
+        84.975,
+        -47.9625
+       ],
+       "index": 0,
+       "ref": "Power_turbine_mask1Sprite",
+       "duration": 50
+      }
+     ],
+     "name": "Calque 4 copy 2"
+    },
+    {
+     "mask": "Calque 4 copy",
+     "keyframes": [
+      {
+       "pivot": [
+        33.1125,
+        33.1125
+       ],
+       "ease": 1,
+       "loc": [
+        106.35,
+        -59.4375
+       ],
+       "scale": [
+        0.7381,
+        0.7381
+       ],
+       "index": 0,
+       "ref": "Power_turbine_energySprit",
+       "duration": 11
+      },
+      {
+       "pivot": [
+        33.1125,
+        33.1125
+       ],
+       "ease": -1,
+       "loc": [
+        106.3875,
+        -59.475
+       ],
+       "scale": [
+        1.1315,
+        1.1315
+       ],
+       "index": 11,
+       "ref": "Power_turbine_energySprit",
+       "duration": 13
+      },
+      {
+       "pivot": [
+        33.1125,
+        33.1125
+       ],
+       "ease": 1,
+       "loc": [
+        106.35,
+        -59.4375
+       ],
+       "scale": [
+        1.7418,
+        1.7418
+       ],
+       "index": 24,
+       "ref": "Power_turbine_energySprit",
+       "duration": 13
+      },
+      {
+       "pivot": [
+        33.1125,
+        33.1125
+       ],
+       "ease": -1,
+       "loc": [
+        106.35,
+        -59.4375
+       ],
+       "scale": [
+        1.1817,
+        1.1817
+       ],
+       "index": 37,
+       "ref": "Power_turbine_energySprit",
+       "duration": 12
+      },
+      {
+       "pivot": [
+        33.1125,
+        33.1125
+       ],
+       "tweened": false,
+       "loc": [
+        106.35,
+        -59.4375
+       ],
+       "scale": [
+        0.7381,
+        0.7381
+       ],
+       "index": 49,
+       "ref": "Power_turbine_energySprit",
+       "duration": 1
+      }
+     ],
+     "name": "Power_turbine_energySprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        37.575,
+        46.2375
+       ],
+       "tweened": false,
+       "loc": [
+        84.975,
+        -47.9625
+       ],
+       "index": 0,
+       "ref": "Power_turbine_mask1Sprite",
+       "duration": 50
+      }
+     ],
+     "name": "Calque 4 copy"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "scale": [
+        1.05,
+        1.05
+       ],
+       "index": 5,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "index": 10,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "scale": [
+        1.05,
+        1.05
+       ],
+       "index": 15,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "index": 20,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "scale": [
+        1.05,
+        1.05
+       ],
+       "index": 25,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "index": 30,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "scale": [
+        1.05,
+        1.05
+       ],
+       "index": 35,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "index": 40,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 5
+      },
+      {
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "scale": [
+        1.05,
+        1.05
+       ],
+       "index": 45,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 4
+      },
+      {
+       "pivot": [
+        37.125,
+        36.525
+       ],
+       "tweened": false,
+       "loc": [
+        115.3875,
+        0.975
+       ],
+       "scale": [
+        1.01,
+        1.01
+       ],
+       "index": 49,
+       "ref": "UrbanPowerStation_TubeSprite",
+       "duration": 1
+      }
+     ],
+     "name": "UrbanPowerStation_TubeSprite"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        61.125,
+        60.8625
+       ],
+       "ease": 1,
+       "alpha": 0,
+       "loc": [
+        74.475,
+        -39.825
+       ],
+       "scale": [
+        0.9806,
+        0.9806
+       ],
+       "index": 0,
+       "ref": "UrbanPowerStation_PowerTurbineLightSprite",
+       "duration": 24
+      },
+      {
+       "pivot": [
+        61.125,
+        60.8625
+       ],
+       "ease": -1,
+       "alpha": 0.3906,
+       "loc": [
+        74.475,
+        -39.825
+       ],
+       "scale": [
+        0.9806,
+        0.9806
+       ],
+       "index": 24,
+       "ref": "UrbanPowerStation_PowerTurbineLightSprite",
+       "duration": 25
+      },
+      {
+       "ease": 1,
+       "duration": 1,
+       "loc": [
+        74.475,
+        -39.825
+       ],
+       "scale": [
+        0.9806,
+        0.9806
+       ],
+       "index": 49,
+       "ref": "UrbanPowerStation_TurbineLightFlip",
+       "alpha": 0
+      }
+     ],
+     "name": "Calque 5"
+    }
+   ],
+   "id": "~UrbanPowerStation_Turbine"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 174
+      },
+      {
+       "pivot": [
+        61.125,
+        60.8625
+       ],
+       "tweened": false,
+       "duration": 6,
+       "index": 174,
+       "ref": "UrbanPowerStation_PowerTurbineLightSprite",
+       "alpha": 0.1992
+      },
+      {
+       "pivot": [
+        61.125,
+        60.8625
+       ],
+       "tweened": false,
+       "duration": 8,
+       "index": 180,
+       "ref": "UrbanPowerStation_PowerTurbineLightSprite",
+       "alpha": 0.3906
+      },
+      {
+       "pivot": [
+        61.125,
+        60.8625
+       ],
+       "tweened": false,
+       "duration": 6,
+       "index": 188,
+       "ref": "UrbanPowerStation_PowerTurbineLightSprite",
+       "alpha": 0.1992
+      },
+      {
+       "index": 194,
+       "duration": 30
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~UrbanPowerStation_TurbineLight"
+  }
+ ],
+ "md5": "39211505218bd78a35a5a5f20b4981df",
+ "frameRate": 60
+}

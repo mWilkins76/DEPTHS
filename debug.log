@@ -1,0 +1,30 @@
+[1207/115323:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1207/181104:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1207/193029:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/143723:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/143831:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/150425:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/171647:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/171924:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/172057:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1208/173905:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/100252:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/115510:ERROR:crash_report_database_win.cc(425)] unexpected header
+<<<<<<< .mine
+[1209/121041:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/142315:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/145750:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/155831:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/172433:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1209/185259:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1213/143228:ERROR:crash_report_database_win.cc(425)] unexpected header
+[1213/143351:ERROR:crash_report_database_win.cc(425)] unexpected header
+||||||| .r122
+=======
+[0104/175409:ERROR:file_io.cc(30)] read: expected 4, observed 0
+<<<<<<< .mine
+>>>>>>> .r132
+||||||| .r250
+=======
+[0115/182912:ERROR:file_io.cc(30)] read: expected 4, observed 0
+>>>>>>> .r256

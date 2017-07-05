@@ -1,0 +1,30 @@
+{
+	"instance9": {
+		"globalWidth": 200,
+		"x": 3,
+		"scaleY": 1,
+		"type": "DestructibleCrater3",
+		"globalHeight": 100,
+		"y": 7,
+		"rotation": 0,
+		"width": 2,
+		"globalX": 300,
+		"height": 1,
+		"globalY": 700,
+		"scaleX": 1
+	},
+	"instance11": {
+		"globalWidth": 200,
+		"x": 8,
+		"scaleY": 1,
+		"type": "DestructiblePebbles2",
+		"globalHeight": 200,
+		"y": 6,
+		"rotation": 0,
+		"width": 2,
+		"globalX": 800,
+		"height": 2,
+		"globalY": 600,
+		"scaleX": 1
+	}
+}

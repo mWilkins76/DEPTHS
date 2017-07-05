@@ -1,0 +1,374 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "IsartPoints_spriteBackground",
+       "rect": [
+        1,
+        1,
+        1962,
+        1058
+       ],
+       "origin": [
+        981,
+        529
+       ]
+      },
+      {
+       "symbol": "IsartPoints_buttonClose_hit",
+       "rect": [
+        1,
+        1061,
+        420,
+        420
+       ],
+       "origin": [
+        210,
+        210
+       ]
+      },
+      {
+       "symbol": "IsartPoints_buttonClose_over",
+       "rect": [
+        1,
+        1483,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "IsartPoints_buttonClose_up",
+       "rect": [
+        329,
+        1483,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "IsartPoints_buttonClose_down",
+       "rect": [
+        423,
+        1061,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "IsartPoints_spriteTitleBox",
+       "rect": [
+        1,
+        1791,
+        643,
+        138
+       ],
+       "origin": [
+        321.3,
+        68.6
+       ]
+      },
+      {
+       "symbol": "IsartPoints_spriteIP",
+       "rect": [
+        1965,
+        1,
+        50,
+        50
+       ],
+       "origin": [
+        24.95,
+        25
+       ]
+      },
+      {
+       "data": {
+        "y": -240.15,
+        "wordWrap": 0,
+        "text": "Depths est un projet étudiant.</BR>Vous bénéficiez d'un porte monnaie fictif</BR>pour faire vos achats intégrés.</BR>La somme d'Isart Points qui vous est attribuée est limitée.</BR>Vous pouvez l'utiliser dans tous les jeux</BR>participant à l'opération.</BR></BR>Nous espérons que vous prendrez plaisir sur notre jeu,</BR>- L'équipe DEPTHS",
+        "width": 1090.65,
+        "color": "#000000",
+        "align": "center",
+        "height": 478.6,
+        "font": "bold 42px Alegreya Sans",
+        "x": -546.1
+       },
+       "symbol": "IsartPoints_txt_Description",
+       "baseClass": "TextSprite",
+       "rect": [
+        2017,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -31.3,
+        "wordWrap": 0,
+        "text": "Isart Points",
+        "width": 450.55,
+        "color": "#000000",
+        "align": "center",
+        "height": 69.3,
+        "font": "bold 50px Alegreya Sans SC",
+        "x": -225.3
+       },
+       "symbol": "IsartPoints_txt_IsartPoints",
+       "baseClass": "TextSprite",
+       "rect": [
+        2020,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "data": {
+    "y": -35.85,
+    "height": 71.7,
+    "width": 293.85,
+    "color": "#000000",
+    "wordWrap": 1,
+    "font": "48px Arial Black",
+    "x": -88.05
+   },
+   "id": "IsartPoints",
+   "layers": [
+    {
+     "name": "IsartPoints_spriteBackground",
+     "keyframes": [
+      {
+       "loc": [
+        -2.6429,
+        6.0612
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.6123,
+        0.6123
+       ],
+       "index": 0,
+       "pivot": [
+        979.95,
+        529.1
+       ],
+       "ref": "IsartPoints_spriteBackground"
+      }
+     ]
+    },
+    {
+     "name": "IsartPoints_spriteTitleBox",
+     "keyframes": [
+      {
+       "loc": [
+        -7,
+        -266.05
+       ],
+       "duration": 1,
+       "pivot": [
+        321.3,
+        68.55
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "IsartPoints_spriteTitleBox"
+      }
+     ]
+    },
+    {
+     "name": "IsartPoints_spriteIP",
+     "keyframes": [
+      {
+       "loc": [
+        197,
+        -257.05
+       ],
+       "duration": 1,
+       "pivot": [
+        24.95,
+        24.95
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "IsartPoints_spriteIP"
+      }
+     ]
+    },
+    {
+     "name": "IsartPoints_spriteIP",
+     "keyframes": [
+      {
+       "loc": [
+        -196,
+        -257
+       ],
+       "duration": 1,
+       "tweened": false,
+       "skew": [
+        0,
+        3.1416
+       ],
+       "index": 0,
+       "pivot": [
+        24.95,
+        24.95
+       ],
+       "ref": "IsartPoints_spriteIP"
+      }
+     ]
+    },
+    {
+     "name": "txt_IsartPoints",
+     "keyframes": [
+      {
+       "loc": [
+        -3.6,
+        -255.85
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "IsartPoints_txt_IsartPoints"
+      }
+     ]
+    },
+    {
+     "name": "txt_Description",
+     "keyframes": [
+      {
+       "loc": [
+        2,
+        53
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "IsartPoints_txt_Description"
+      }
+     ]
+    },
+    {
+     "name": "btn_Close",
+     "keyframes": [
+      {
+       "loc": [
+        536.8,
+        -263
+       ],
+       "duration": 1,
+       "data": {
+        "UIPosition_Desktop": "center",
+        "UIPosition": "center"
+       },
+       "scale": [
+        0.4,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~IsartPoints_btn_Close"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "data": {
+    "UIPosition_Desktop": "right",
+    "UIPosition": "right"
+   },
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~IsartPoints_btn_Close",
+   "layers": [
+    {
+     "name": "Layer 1",
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "pivot": [
+        163,
+        153
+       ],
+       "ref": "IsartPoints_buttonClose_up"
+      },
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 1,
+       "pivot": [
+        163,
+        153
+       ],
+       "ref": "IsartPoints_buttonClose_over"
+      },
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 2,
+       "pivot": [
+        163,
+        153
+       ],
+       "ref": "IsartPoints_buttonClose_down"
+      },
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 3,
+       "pivot": [
+        210,
+        210
+       ],
+       "ref": "IsartPoints_buttonClose_hit"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "md5": "14cd66aca5c97288cc37ae81f55f55c3"
+}

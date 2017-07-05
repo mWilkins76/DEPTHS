@@ -1,0 +1,676 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "BuyBatiment_spritePopInBG",
+       "origin": [
+        311.8,
+        394.75
+       ],
+       "rect": [
+        1,
+        1,
+        616,
+        797
+       ]
+      },
+      {
+       "symbol": "BuyBatiment_spriteHCurrencie",
+       "origin": [
+        265.5,
+        158.4
+       ],
+       "rect": [
+        1,
+        800,
+        536,
+        317
+       ]
+      },
+      {
+       "symbol": "BuyBatiment_spriteSCurrencie",
+       "origin": [
+        265.5,
+        158.4
+       ],
+       "rect": [
+        1,
+        1119,
+        536,
+        317
+       ]
+      },
+      {
+       "symbol": "_buttonClose_up",
+       "origin": [
+        195,
+        195.35
+       ],
+       "rect": [
+        539,
+        800,
+        391,
+        391
+       ]
+      },
+      {
+       "symbol": "_buttonBuy_over",
+       "origin": [
+        407.05,
+        79.75
+       ],
+       "rect": [
+        1,
+        1438,
+        815,
+        160
+       ]
+      },
+      {
+       "symbol": "_buttonBuy_down",
+       "origin": [
+        407.05,
+        79.75
+       ],
+       "rect": [
+        1,
+        1600,
+        815,
+        160
+       ]
+      },
+      {
+       "symbol": "_buttonBuy_up",
+       "origin": [
+        407.05,
+        79.75
+       ],
+       "rect": [
+        1,
+        1762,
+        815,
+        160
+       ]
+      },
+      {
+       "symbol": "_buttonClose_hit",
+       "origin": [
+        135,
+        135
+       ],
+       "rect": [
+        619,
+        1,
+        270,
+        270
+       ]
+      },
+      {
+       "symbol": "_buttonClose_down",
+       "origin": [
+        85.95,
+        85.95
+       ],
+       "rect": [
+        539,
+        1193,
+        172,
+        172
+       ]
+      },
+      {
+       "symbol": "_buttonClose_over",
+       "origin": [
+        85.95,
+        85.95
+       ],
+       "rect": [
+        713,
+        1193,
+        172,
+        172
+       ]
+      },
+      {
+       "symbol": "BuyBatiment_spriteBuildingShortcut",
+       "origin": [
+        92.7,
+        76
+       ],
+       "rect": [
+        818,
+        1367,
+        186,
+        152
+       ]
+      },
+      {
+       "symbol": "txt_BatimentName",
+       "data": {
+        "y": -54.4,
+        "text": "Batiment Name",
+        "x": -198.05,
+        "width": 396.15,
+        "font": "48px Arial Black",
+        "align": "center",
+        "height": 141.4,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        539,
+        1367,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_BuyBuiling",
+       "data": {
+        "y": -52.25,
+        "text": "Buy",
+        "x": -157.85,
+        "width": 311.7,
+        "font": "72px Arial Rounded MT Bold",
+        "align": "center",
+        "height": 100.65,
+        "wordWrap": 0,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        539,
+        1370,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_descriptionBuilding",
+       "data": {
+        "stats": "",
+        "y": -146.8,
+        "text": "Type, Description & stats",
+        "color": "#000000",
+        "width": 396.15,
+        "font": "24px Arial Black",
+        "align": "center",
+        "height": 293.6,
+        "wordWrap": 1,
+        "x": -198.05
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        539,
+        1373,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_HCPrice",
+       "data": {
+        "y": -22.8,
+        "text": "xxxx",
+        "x": -50.95,
+        "width": 101.9,
+        "font": "36px Arial Rounded MT Bold",
+        "align": "center",
+        "height": 45.65,
+        "wordWrap": 0,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        539,
+        1376,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_SCPrice",
+       "data": {
+        "y": -22.8,
+        "text": "xxxx",
+        "x": -50.95,
+        "width": 101.9,
+        "font": "36px Arial Rounded MT Bold",
+        "align": "center",
+        "height": 45.65,
+        "wordWrap": 0,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        539,
+        1379,
+        1,
+        1
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        311.8,
+        394.75
+       ],
+       "tweened": false,
+       "loc": [
+        -31.4,
+        24.15
+       ],
+       "scale": [
+        0.6774,
+        1.022
+       ],
+       "index": 0,
+       "ref": "BuyBatiment_spritePopInBG",
+       "duration": 1
+      }
+     ],
+     "name": "BuyBatiment_spritePopInBG"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0,
+        -30.5
+       ],
+       "tweened": false,
+       "loc": [
+        -29.05,
+        -317.5397
+       ],
+       "scale": [
+        0.6734,
+        0.6734
+       ],
+       "index": 0,
+       "ref": "txt_BatimentName",
+       "duration": 1
+      }
+     ],
+     "name": "txt_BatimentName"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        92.65,
+        76
+       ],
+       "tweened": false,
+       "loc": [
+        -29.25,
+        -146.6
+       ],
+       "index": 0,
+       "ref": "BuyBatiment_spriteBuildingShortcut",
+       "duration": 1
+      }
+     ],
+     "name": "BuyBatiment_spriteBuildingShortcut"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -30.85,
+        72.25
+       ],
+       "scale": [
+        0.7488,
+        0.7488
+       ],
+       "index": 0,
+       "ref": "txt_descriptionBuilding",
+       "duration": 1
+      }
+     ],
+     "name": "txt_descriptionBuilding"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        265.5,
+        158.4
+       ],
+       "tweened": false,
+       "loc": [
+        -74.9,
+        262.2
+       ],
+       "scale": [
+        0.1071,
+        0.1711
+       ],
+       "index": 0,
+       "ref": "BuyBatiment_spriteSCurrencie",
+       "duration": 1
+      }
+     ],
+     "name": "BuyBatiment_spriteSCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        265.5,
+        158.4
+       ],
+       "tweened": false,
+       "loc": [
+        117.35,
+        262.2
+       ],
+       "scale": [
+        0.1071,
+        0.1711
+       ],
+       "index": 0,
+       "ref": "BuyBatiment_spriteHCurrencie",
+       "duration": 1
+      }
+     ],
+     "name": "BuyBatiment_spriteHCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -159.7,
+        263.15
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_SCPrice",
+       "duration": 1
+      }
+     ],
+     "name": "txt_SCPrice"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        33.35,
+        263.15
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_HCPrice",
+       "duration": 1
+      }
+     ],
+     "name": "txt_HCPrice"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        167.55,
+        -363.85
+       ],
+       "scale": [
+        0.373,
+        0.3742
+       ],
+       "index": 0,
+       "ref": "~btn_Close",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Close"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -31.4,
+        354.65
+       ],
+       "scale": [
+        0.6027,
+        0.563
+       ],
+       "index": 0,
+       "ref": "~btn_Buy",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Buy"
+    }
+   ],
+   "id": "BuyBatiment"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "tweened": false,
+       "scale": [
+        0.7637,
+        1.1906
+       ],
+       "index": 0,
+       "ref": "_buttonBuy_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "tweened": false,
+       "loc": [
+        -2.45,
+        -1.05
+       ],
+       "scale": [
+        0.7747,
+        1
+       ],
+       "index": 1,
+       "ref": "_buttonBuy_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "tweened": false,
+       "loc": [
+        -2,
+        0.35
+       ],
+       "scale": [
+        0.7514,
+        1
+       ],
+       "index": 2,
+       "ref": "_buttonBuy_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "tweened": false,
+       "loc": [
+        -1.6,
+        -0.5
+       ],
+       "scale": [
+        0.7801,
+        1
+       ],
+       "index": 3,
+       "ref": "_buttonBuy_down",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -0.95,
+        -0.6
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_BuyBuiling",
+       "duration": 1
+      },
+      {
+       "loc": [
+        -0.95,
+        -1.6
+       ],
+       "tweened": false,
+       "index": 1,
+       "ref": "txt_BuyBuiling",
+       "duration": 1
+      },
+      {
+       "loc": [
+        -0.95,
+        -1.6
+       ],
+       "tweened": false,
+       "index": 2,
+       "ref": "txt_BuyBuiling",
+       "duration": 1
+      }
+     ],
+     "name": "txt_Upgrade"
+    }
+   ],
+   "id": "~btn_Buy"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        195,
+        195.35
+       ],
+       "index": 0,
+       "ref": "_buttonClose_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        85.95,
+        85.95
+       ],
+       "tweened": false,
+       "loc": [
+        -1.6,
+        -0.4
+       ],
+       "scale": [
+        2.0671,
+        2.0671
+       ],
+       "index": 1,
+       "ref": "_buttonClose_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        85.95,
+        85.95
+       ],
+       "tweened": false,
+       "loc": [
+        -1.25,
+        -2.15
+       ],
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "ref": "_buttonClose_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        135,
+        135
+       ],
+       "tweened": false,
+       "loc": [
+        -1.45,
+        -1.05
+       ],
+       "index": 3,
+       "ref": "_buttonClose_hit",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "~btn_Close"
+  }
+ ],
+ "md5": "dd3862939b1b42ac4f42fae41586efde",
+ "frameRate": 24
+}

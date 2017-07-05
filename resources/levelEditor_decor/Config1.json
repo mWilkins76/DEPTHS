@@ -1,0 +1,58 @@
+{
+	"instance5": {
+		"globalWidth": 200,
+		"x": 11,
+		"scaleY": 1,
+		"type": "DestructibleGeyser",
+		"globalHeight": 200,
+		"y": 2,
+		"rotation": 0,
+		"width": 2,
+		"globalX": 1100,
+		"height": 2,
+		"globalY": 200,
+		"scaleX": 1
+	},
+	"instance7": {
+		"globalWidth": 400,
+		"x": 9,
+		"scaleY": 1,
+		"type": "DestructibleRock7",
+		"globalHeight": 300,
+		"y": 11,
+		"rotation": 0,
+		"width": 4,
+		"globalX": 900,
+		"height": 3,
+		"globalY": 1050,
+		"scaleX": 1
+	},
+	"instance3": {
+		"globalWidth": 200,
+		"x": 7,
+		"scaleY": 1,
+		"type": "DestructibleRock6",
+		"globalHeight": 200,
+		"y": 4,
+		"rotation": 0,
+		"width": 2,
+		"globalX": 700,
+		"height": 2,
+		"globalY": 400,
+		"scaleX": 1
+	},
+	"instance1": {
+		"globalWidth": 300,
+		"x": 1,
+		"scaleY": 1,
+		"type": "DestructibleRock2",
+		"globalHeight": 200,
+		"y": 2,
+		"rotation": 0,
+		"width": 3,
+		"globalX": 100,
+		"height": 2,
+		"globalY": 200,
+		"scaleX": 1
+	}
+}

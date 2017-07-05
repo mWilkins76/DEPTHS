@@ -1,0 +1,515 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "ConfirmationVente_spriteBackground",
+       "rect": [
+        1,
+        1,
+        757,
+        435
+       ],
+       "origin": [
+        378.4,
+        217.5
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_spriteXeno",
+       "rect": [
+        760,
+        1,
+        203,
+        120
+       ],
+       "origin": [
+        99.55,
+        59.6
+       ]
+      },
+      {
+       "symbol": "_buttonNo_up",
+       "rect": [
+        760,
+        123,
+        100,
+        113
+       ],
+       "origin": [
+        49.95,
+        56.1
+       ]
+      },
+      {
+       "symbol": "_buttonYes_Down",
+       "rect": [
+        862,
+        123,
+        100,
+        113
+       ],
+       "origin": [
+        49.95,
+        56.1
+       ]
+      },
+      {
+       "symbol": "_buttonYes_Over",
+       "rect": [
+        760,
+        238,
+        100,
+        113
+       ],
+       "origin": [
+        49.95,
+        56.1
+       ]
+      },
+      {
+       "symbol": "_buttonYes_up",
+       "rect": [
+        862,
+        238,
+        100,
+        113
+       ],
+       "origin": [
+        49.95,
+        56.1
+       ]
+      },
+      {
+       "symbol": "_buttonNo_Over",
+       "rect": [
+        760,
+        353,
+        100,
+        113
+       ],
+       "origin": [
+        49.95,
+        56.1
+       ]
+      },
+      {
+       "symbol": "_buttonNo_Down",
+       "rect": [
+        862,
+        353,
+        100,
+        113
+       ],
+       "origin": [
+        49.95,
+        56.1
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_spriteSC",
+       "rect": [
+        1,
+        438,
+        64,
+        90
+       ],
+       "origin": [
+        31.65,
+        44.7
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_spriteExchange",
+       "rect": [
+        67,
+        438,
+        74,
+        44
+       ],
+       "origin": [
+        36.75,
+        22
+       ]
+      },
+      {
+       "data": {
+        "y": -52.75,
+        "wordWrap": 1,
+        "text": "XXXX",
+        "width": 258.45,
+        "color": "#070B31",
+        "align": "left",
+        "height": 112,
+        "font": "bold 90px Alegreya Sans",
+        "x": -111.3
+       },
+       "symbol": "txt_SCPrice",
+       "baseClass": "TextSprite",
+       "rect": [
+        964,
+        123,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -32,
+        "wordWrap": 1,
+        "text": "Confirmer la vente de ce Xeno ?",
+        "width": 690.95,
+        "color": "#070B31",
+        "align": "center",
+        "height": 64,
+        "font": "bold 50px Alegreya Sans SC ExtraBold",
+        "x": -345.45
+       },
+       "symbol": "txt_sellConfirm",
+       "baseClass": "TextSprite",
+       "rect": [
+        965,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "id": "ConfirmationVente",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.7875,
+        0
+       ],
+       "pivot": [
+        377.5875,
+        217.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ConfirmationVente_spriteBackground"
+      }
+     ],
+     "name": "ConfirmationVente_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -89.4375,
+        106.3125
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_No"
+      }
+     ],
+     "name": "btn_No"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        90.525,
+        106.125
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_Yes"
+      }
+     ],
+     "name": "btn_Yes"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.0375,
+        -131.775
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "txt_sellConfirm"
+      }
+     ],
+     "name": "txt_sellConfirm"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        164.625,
+        -10.3875
+       ],
+       "pivot": [
+        -0.075,
+        -0.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ConfirmationVente_clipPriceSC"
+      }
+     ],
+     "name": "ConfirmationVente_clipPriceSC"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -186.675,
+        -14.25
+       ],
+       "pivot": [
+        99.5625,
+        59.625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ConfirmationVente_spriteXeno"
+      }
+     ],
+     "name": "ConfirmationVente_spriteXeno"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -7.5
+       ],
+       "pivot": [
+        36.75,
+        21.975
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ConfirmationVente_spriteExchange"
+      }
+     ],
+     "name": "ConfirmationVente_spriteExchange"
+    }
+   ]
+  },
+  {
+   "id": "~ConfirmationVente_clipPriceSC",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -51.75,
+        0.1875
+       ],
+       "pivot": [
+        31.65,
+        44.7
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ConfirmationVente_spriteSC"
+      }
+     ],
+     "name": "ConfirmationPose_spriteMNCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "txt_HC"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        36.2985,
+        0.6275
+       ],
+       "tweened": false,
+       "scale": [
+        0.6734,
+        0.6734
+       ],
+       "index": 0,
+       "pivot": [
+        -0.225,
+        0.375
+       ],
+       "ref": "txt_SCPrice"
+      }
+     ],
+     "name": "txt_HCPrice"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_No",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        49.95,
+        56.0625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "_buttonNo_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        49.95,
+        56.1
+       ],
+       "ref": "_buttonNo_Over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        49.95,
+        56.0625
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "_buttonNo_Down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        49.95,
+        56.0625
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "_buttonNo_Down"
+      }
+     ],
+     "name": "Calque 1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "index": 0
+      }
+     ],
+     "name": "txt_No"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_Yes",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.0375,
+        0
+       ],
+       "pivot": [
+        49.9125,
+        56.1
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "_buttonYes_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -0.9,
+        -1.0875
+       ],
+       "pivot": [
+        49.9125,
+        56.1
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "_buttonYes_Over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        -0.9,
+        -1.0875
+       ],
+       "pivot": [
+        49.9125,
+        56.1
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "_buttonYes_Down"
+      }
+     ],
+     "name": "Layer 1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "index": 0
+      }
+     ],
+     "name": "txt_Yes"
+    }
+   ]
+  }
+ ],
+ "md5": "4412233ffc81c556be3cf9a5dec99764"
+}

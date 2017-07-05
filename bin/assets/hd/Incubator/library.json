@@ -1,0 +1,2748 @@
+{
+ "md5": "4eb93e93c9e6fca59fb7defb4dcd6fbb",
+ "frameRate": 24,
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        1962,
+        1058
+       ],
+       "symbol": "Incubator_spriteBackground",
+       "origin": [
+        1002.6,
+        567.3
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1061,
+        745,
+        788
+       ],
+       "symbol": "Incubator_spriteSlotXenoBG",
+       "origin": [
+        372.3,
+        383.75
+       ]
+      },
+      {
+       "rect": [
+        748,
+        1061,
+        714,
+        714
+       ],
+       "symbol": "Incubator_buttonFilter_Selected",
+       "origin": [
+        356.65,
+        356.85
+       ]
+      },
+      {
+       "rect": [
+        1464,
+        1061,
+        571,
+        450
+       ],
+       "symbol": "Incubator_spriteResultat",
+       "origin": [
+        285.25,
+        224.7
+       ]
+      },
+      {
+       "rect": [
+        1464,
+        1513,
+        326,
+        306
+       ],
+       "symbol": "Incubator_buttonClose_over",
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "rect": [
+        1792,
+        1513,
+        229,
+        378
+       ],
+       "symbol": "Incubator_spriteTimer",
+       "origin": [
+        114.4,
+        188.75
+       ]
+      },
+      {
+       "rect": [
+        748,
+        1777,
+        270,
+        270
+       ],
+       "symbol": "Incubator_buttonClose_hit",
+       "origin": [
+        135,
+        135
+       ]
+      },
+      {
+       "rect": [
+        1020,
+        1777,
+        270,
+        270
+       ],
+       "symbol": "Incubator_buttonFilter_hit",
+       "origin": [
+        135,
+        135
+       ]
+      },
+      {
+       "rect": [
+        1292,
+        1821,
+        450,
+        152
+       ],
+       "symbol": "Incubator_buttonManage_up",
+       "origin": [
+        225,
+        76
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1851,
+        450,
+        152
+       ],
+       "symbol": "Incubator_buttonInseminate_up",
+       "origin": [
+        225,
+        76
+       ]
+      },
+      {
+       "rect": [
+        453,
+        1851,
+        280,
+        177
+       ],
+       "symbol": "Incubator_buttonFleche_over",
+       "origin": [
+        139.35,
+        84
+       ]
+      },
+      {
+       "rect": [
+        1744,
+        1893,
+        224,
+        132
+       ],
+       "symbol": "Incubator_buttonGene_disabled",
+       "origin": [
+        111.7,
+        65.9
+       ]
+      },
+      {
+       "rect": [
+        1292,
+        1975,
+        429,
+        54
+       ],
+       "symbol": "Incubator_spriteTimerBG",
+       "origin": [
+        214.35,
+        26.75
+       ]
+      },
+      {
+       "data": {
+        "y": -32.25,
+        "wordWrap": 1,
+        "text": "< xxh xxm xxs >",
+        "width": 477.1,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 76,
+        "font": "60px Alegreya Sans Medium",
+        "x": -237.6
+       },
+       "rect": [
+        1723,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_timer",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -26,
+        "wordWrap": 0,
+        "text": "<Genes>",
+        "width": 167.2,
+        "color": "#000000",
+        "align": "center",
+        "height": 50.25,
+        "font": "36px Calibri",
+        "x": -83.6
+       },
+       "rect": [
+        1726,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_Genes",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -52.2,
+        "wordWrap": 0,
+        "text": "Manage",
+        "width": 554.65,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 112.9,
+        "font": "80px Alegreya Sans Medium",
+        "x": -277.35
+       },
+       "rect": [
+        1729,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_Manage",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -25.65,
+        "wordWrap": 1,
+        "text": "Xeno Name (if known)",
+        "width": 331.95,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 49.65,
+        "font": "bold 35px Alegreya Sans ExtraBold",
+        "x": -165.9
+       },
+       "rect": [
+        1732,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_xenoName",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -53.05,
+        "wordWrap": 1,
+        "text": "Inseminate",
+        "width": 651.6,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 112.9,
+        "font": "bold 80px Alegreya Sans",
+        "x": -325.8
+       },
+       "rect": [
+        1735,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_inseminate",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -19.85,
+        "wordWrap": 0,
+        "text": "Schema Name",
+        "width": 189.75,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 35.6,
+        "font": "50px Alegreya Sans",
+        "x": -94.95
+       },
+       "rect": [
+        1738,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_SchemaName",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -21.1,
+        "wordWrap": 1,
+        "text": "Gene Type",
+        "width": 200.75,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 39.15,
+        "font": "bold 60px Alegreya Sans",
+        "x": -101.9
+       },
+       "rect": [
+        1741,
+        1975,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_cellType",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -52.55,
+        "wordWrap": 1,
+        "text": "Skip",
+        "width": 598,
+        "color": "#000000",
+        "align": "center",
+        "height": 105.05,
+        "font": "80px Arial",
+        "x": -299
+       },
+       "rect": [
+        1723,
+        1978,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_Skip",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -26.2,
+        "wordWrap": 0,
+        "text": "<X xxx>",
+        "width": 158.4,
+        "color": "#000000",
+        "align": "center",
+        "height": 52,
+        "font": "bold 40px Alegreya Sans",
+        "x": -78.95
+       },
+       "rect": [
+        1726,
+        1978,
+        1,
+        1
+       ],
+       "symbol": "Incubator_txt_geneQuantity",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        889,
+        1093
+       ],
+       "symbol": "Incubator_buttonFilter_up",
+       "origin": [
+        444.15,
+        546.3
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1096,
+        1962,
+        245
+       ],
+       "symbol": "Incubator_spriteBCellPanelackground",
+       "origin": [
+        982.3,
+        113.35
+       ]
+      },
+      {
+       "rect": [
+        892,
+        1,
+        326,
+        306
+       ],
+       "symbol": "Incubator_buttonClose_down",
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "rect": [
+        1220,
+        1,
+        326,
+        306
+       ],
+       "symbol": "Incubator_buttonClose_up",
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "rect": [
+        1548,
+        1,
+        266,
+        266
+       ],
+       "symbol": "Incubator_buttonSchemaUncomplete_Hit",
+       "origin": [
+        132.5,
+        132.5
+       ]
+      },
+      {
+       "rect": [
+        1548,
+        269,
+        266,
+        266
+       ],
+       "symbol": "Incubator_buttonSchemaComplete_Hit",
+       "origin": [
+        132.5,
+        132.5
+       ]
+      },
+      {
+       "rect": [
+        892,
+        309,
+        266,
+        266
+       ],
+       "symbol": "Incubator_buttonGeneSelected_Hit",
+       "origin": [
+        132.5,
+        132.5
+       ]
+      },
+      {
+       "rect": [
+        1160,
+        309,
+        250,
+        281
+       ],
+       "symbol": "Incubator_buttonSkip_down",
+       "origin": [
+        124.85,
+        140.25
+       ]
+      },
+      {
+       "rect": [
+        892,
+        577,
+        250,
+        281
+       ],
+       "symbol": "Incubator_buttonSkip_up",
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "rect": [
+        1412,
+        537,
+        250,
+        281
+       ],
+       "symbol": "Incubator_buttonSkip_over",
+       "origin": [
+        124.85,
+        140.25
+       ]
+      },
+      {
+       "rect": [
+        1144,
+        820,
+        450,
+        152
+       ],
+       "symbol": "Incubator_buttonManage_over",
+       "origin": [
+        225,
+        76
+       ]
+      },
+      {
+       "rect": [
+        1596,
+        820,
+        450,
+        152
+       ],
+       "symbol": "Incubator_buttonManage_down",
+       "origin": [
+        225,
+        76
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1343,
+        450,
+        152
+       ],
+       "symbol": "Incubator_buttonInseminate_down",
+       "origin": [
+        225,
+        76
+       ]
+      },
+      {
+       "rect": [
+        453,
+        1343,
+        450,
+        152
+       ],
+       "symbol": "Incubator_buttonInseminate_over",
+       "origin": [
+        225,
+        76
+       ]
+      },
+      {
+       "rect": [
+        892,
+        974,
+        469,
+        115
+       ],
+       "symbol": "Incubator_spriteIntituleXenoBG",
+       "origin": [
+        234.05,
+        57.2
+       ]
+      },
+      {
+       "rect": [
+        1664,
+        537,
+        280,
+        177
+       ],
+       "symbol": "Incubator_buttonFleche_down",
+       "origin": [
+        140,
+        88
+       ]
+      },
+      {
+       "rect": [
+        1816,
+        1,
+        176,
+        280
+       ],
+       "symbol": "Incubator_buttonFleche_up",
+       "origin": [
+        88,
+        140
+       ]
+      },
+      {
+       "rect": [
+        905,
+        1343,
+        278,
+        164
+       ],
+       "symbol": "Incubator_buttonGeneSelected_Down",
+       "origin": [
+        139,
+        82
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1497,
+        278,
+        164
+       ],
+       "symbol": "Incubator_buttonGeneSelected_Over",
+       "origin": [
+        139,
+        82
+       ]
+      },
+      {
+       "rect": [
+        281,
+        1497,
+        278,
+        164
+       ],
+       "symbol": "Incubator_buttonGeneNormal_Over",
+       "origin": [
+        139,
+        82
+       ]
+      },
+      {
+       "rect": [
+        561,
+        1497,
+        278,
+        164
+       ],
+       "symbol": "Incubator_buttonGeneNormal_up",
+       "origin": [
+        139,
+        82
+       ]
+      },
+      {
+       "rect": [
+        1185,
+        1343,
+        278,
+        164
+       ],
+       "symbol": "Incubator_buttonGeneNormal_Down",
+       "origin": [
+        139,
+        82
+       ]
+      },
+      {
+       "rect": [
+        1465,
+        1343,
+        278,
+        164
+       ],
+       "symbol": "Incubator_buttonGeneSelected_up",
+       "origin": [
+        139,
+        82
+       ]
+      },
+      {
+       "rect": [
+        841,
+        1509,
+        327,
+        126
+       ],
+       "symbol": "Button_Disable",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        1170,
+        1509,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaComplete_Down",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        1499,
+        1509,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaUncomplete_up",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        841,
+        1637,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaComplete_Over",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1663,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaComplete_up",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        330,
+        1663,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaDisabled",
+       "origin": [
+        163.35,
+        62.65
+       ]
+      },
+      {
+       "rect": [
+        1170,
+        1637,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaUncomplete_Down",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        1499,
+        1637,
+        327,
+        126
+       ],
+       "symbol": "Incubator_buttonSchemaUncomplete_Over",
+       "origin": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "rect": [
+        1816,
+        283,
+        172,
+        172
+       ],
+       "symbol": "Incubator_buttonFilter_over",
+       "origin": [
+        85.95,
+        85.95
+       ]
+      },
+      {
+       "rect": [
+        1144,
+        592,
+        172,
+        172
+       ],
+       "symbol": "Incubator_buttonFilter_down",
+       "origin": [
+        85.95,
+        85.95
+       ]
+      },
+      {
+       "rect": [
+        1745,
+        1343,
+        219,
+        129
+       ],
+       "symbol": "Incubator_buttonCellNormal_up",
+       "origin": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "rect": [
+        1828,
+        1474,
+        219,
+        129
+       ],
+       "symbol": "Incubator_buttonCellSelected_over",
+       "origin": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "rect": [
+        1828,
+        1605,
+        219,
+        129
+       ],
+       "symbol": "Incubator_buttonCellSelected_down",
+       "origin": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "rect": [
+        1828,
+        1736,
+        219,
+        129
+       ],
+       "symbol": "Incubator_buttonCellNormal_down",
+       "origin": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "rect": [
+        659,
+        1765,
+        219,
+        129
+       ],
+       "symbol": "Incubator_buttonCellSelected_up",
+       "origin": [
+        109.15,
+        64.35
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1791,
+        219,
+        129
+       ],
+       "symbol": "Incubator_buttonCellNormal_over",
+       "origin": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "rect": [
+        1363,
+        974,
+        201,
+        119
+       ],
+       "symbol": "DisabledSprite_0000",
+       "origin": [
+        100.15,
+        59.1
+       ]
+      },
+      {
+       "rect": [
+        222,
+        1791,
+        152,
+        150
+       ],
+       "symbol": "IncubatorGene4",
+       "origin": [
+        76.45,
+        75.5
+       ]
+      },
+      {
+       "rect": [
+        376,
+        1791,
+        150,
+        150
+       ],
+       "symbol": "Incubator_buttonGeneNormal_Hit",
+       "origin": [
+        74.85,
+        74.85
+       ]
+      },
+      {
+       "rect": [
+        1412,
+        309,
+        132,
+        132
+       ],
+       "symbol": "IncubatorGene3",
+       "origin": [
+        66.2,
+        67
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1922,
+        154,
+        107
+       ],
+       "symbol": "IncubatorGene2",
+       "origin": [
+        77.35,
+        54
+       ]
+      },
+      {
+       "rect": [
+        659,
+        1663,
+        176,
+        92
+       ],
+       "symbol": "IncubatorGene5",
+       "origin": [
+        87.55,
+        45.6
+       ]
+      },
+      {
+       "rect": [
+        892,
+        860,
+        146,
+        101
+       ],
+       "symbol": "IncubatorGene1",
+       "origin": [
+        72.5,
+        49.55
+       ]
+      },
+      {
+       "rect": [
+        1664,
+        716,
+        267,
+        52
+       ],
+       "symbol": "Incubator_spriteSchema",
+       "origin": [
+        133.45,
+        30.85
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    }
+   ]
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "DisabledSprite_0000",
+       "duration": 1,
+       "loc": [
+        0.25,
+        0.3
+       ],
+       "tweened": false,
+       "scale": [
+        0.8594,
+        0.8594
+       ],
+       "index": 0,
+       "pivot": [
+        100.15,
+        59.1
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "DisabledIncubatorSlot"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_GeneDisabled",
+       "duration": 1,
+       "loc": [
+        -0.15,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Disabled"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_btn_GeneSelected",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "scale": [
+        1.0019,
+        0.9999
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Selected"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_btn_GeneNormal",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Normal"
+    }
+   ],
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.incubator.GeneButton"
+   },
+   "id": "GeneButton"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "DisabledIncubatorSlot",
+       "duration": 1,
+       "loc": [
+        -0.3,
+        -0.35
+       ],
+       "pivot": [
+        -0.05,
+        -0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Disabled"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_CellSelected",
+       "duration": 1,
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Selected"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_CellNormal",
+       "duration": 1,
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Normal"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_cellType",
+       "duration": 1,
+       "loc": [
+        0,
+        70.3
+       ],
+       "pivot": [
+        -1.55,
+        -1.55
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "ItemName"
+    }
+   ],
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.incubator.GeneSpot"
+   },
+   "id": "GeneSpot"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteBackground",
+       "duration": 1,
+       "loc": [
+        1.7,
+        151.4
+       ],
+       "pivot": [
+        995.6,
+        546.55
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Incubator_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteBCellPanelackground",
+       "duration": 1,
+       "loc": [
+        -21.6,
+        539.35
+       ],
+       "pivot": [
+        982.3,
+        113.35
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Incubator_spriteCellPanelBG"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_clipGeneContainer",
+       "duration": 1,
+       "loc": [
+        65.1,
+        523.85
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "GeneContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_Fleche",
+       "duration": 1,
+       "loc": [
+        -667.55,
+        -287.8
+       ],
+       "data": {
+        "UIPosition": "center",
+        "UIPosition_Desktop": "center"
+       },
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "btn_Fleche #1"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_Fleche",
+       "duration": 1,
+       "loc": [
+        -667.55,
+        382
+       ],
+       "data": {
+        "UIPosition": "center",
+        "UIPosition_Desktop": "center"
+       },
+       "skew": [
+        -3.1416,
+        3.1416
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "btn_Fleche"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_clipSchemaContainer",
+       "duration": 1,
+       "loc": [
+        -670.6,
+        46.25
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "SchemaContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "TabContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Inseminator",
+       "duration": 1,
+       "loc": [
+        507.65,
+        -8.1
+       ],
+       "pivot": [
+        -0.05,
+        -0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Incubator #1"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Inseminator",
+       "duration": 1,
+       "loc": [
+        -153.95,
+        -5
+       ],
+       "pivot": [
+        -0.05,
+        -0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Incubator #0"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_Close",
+       "duration": 1,
+       "loc": [
+        911.95,
+        -339.5
+       ],
+       "scale": [
+        0.4529,
+        0.4529
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "btn_Close"
+    }
+   ],
+   "id": "Incubator"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonGeneNormal_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        139,
+        82
+       ]
+      },
+      {
+       "ref": "Incubator_buttonGeneNormal_Over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        139,
+        82
+       ]
+      },
+      {
+       "ref": "Incubator_buttonGeneNormal_Down",
+       "duration": 1,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        139,
+        82
+       ]
+      },
+      {
+       "ref": "Incubator_buttonGeneNormal_Hit",
+       "duration": 1,
+       "index": 3,
+       "tweened": false,
+       "pivot": [
+        74.85,
+        74.85
+       ]
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_geneQuantity",
+       "duration": 4,
+       "loc": [
+        -4.45,
+        84.8
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_geneQuantity"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "Incubator_btn_GeneNormal"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonGeneSelected_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        139,
+        82
+       ]
+      },
+      {
+       "ref": "Incubator_buttonGeneSelected_Over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        139,
+        82
+       ]
+      },
+      {
+       "ref": "Incubator_buttonGeneSelected_Down",
+       "duration": 1,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        139,
+        82
+       ]
+      },
+      {
+       "ref": "Incubator_buttonGeneSelected_Hit",
+       "duration": 1,
+       "pivot": [
+        132.5,
+        132.5
+       ],
+       "scale": [
+        0.5706,
+        0.5706
+       ],
+       "index": 3,
+       "tweened": false
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_geneQuantity",
+       "duration": 4,
+       "loc": [
+        -2.9,
+        84.3
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_geneQuantity"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "Incubator_btn_GeneSelected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteSlotXenoBG",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        -10.05
+       ],
+       "pivot": [
+        372.3,
+        383.75
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "background"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_clipIntituleXenos",
+       "duration": 1,
+       "loc": [
+        1.4,
+        -243.2
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "xenoName"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_Skip",
+       "duration": 1,
+       "loc": [
+        2.05,
+        340.05
+       ],
+       "scale": [
+        1.34,
+        1.34
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "skipBtn"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "TimerIncubator",
+       "duration": 1,
+       "loc": [
+        7.4,
+        336.25
+       ],
+       "pivot": [
+        -0.1,
+        0.15
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "inseminateBtn"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteResultat",
+       "duration": 1,
+       "loc": [
+        -6.4061,
+        -61.3
+       ],
+       "tweened": false,
+       "scale": [
+        0.7806,
+        0.784
+       ],
+       "index": 0,
+       "pivot": [
+        285.05,
+        224.7
+       ]
+      }
+     ],
+     "name": "resultat"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "SpotContainer",
+       "duration": 1,
+       "loc": [
+        39,
+        135.75
+       ],
+       "pivot": [
+        -0.05,
+        -2.3
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "spotContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_Manage",
+       "duration": 1,
+       "loc": [
+        8.25,
+        336.1
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "manageBtn"
+    }
+   ],
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.incubator.Inseminator"
+   },
+   "id": "Inseminator"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_SchemaSelected",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Selected"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_SchemaNormal",
+       "duration": 1,
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Normal"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "~Incubator_btn_SchemaDisabled",
+       "duration": 1,
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Disabled"
+    }
+   ],
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.incubator.SchemaSwitchItem"
+   },
+   "id": "SchemaSwitchItem"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "GeneSpot",
+       "duration": 1,
+       "loc": [
+        163.7,
+        -43.55
+       ],
+       "pivot": [
+        1.3,
+        -0.5
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "spot #3"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "GeneSpot",
+       "duration": 1,
+       "loc": [
+        -31.55,
+        2.85
+       ],
+       "pivot": [
+        0,
+        -4.85
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "spot #2"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "GeneSpot",
+       "duration": 1,
+       "loc": [
+        -221.7,
+        -47.85
+       ],
+       "pivot": [
+        0,
+        -4.8
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "spot #1"
+    }
+   ],
+   "id": "SpotContainer"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonInseminate_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        225,
+        76
+       ]
+      },
+      {
+       "ref": "Incubator_buttonInseminate_over",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        224.95,
+        76
+       ],
+       "index": 1,
+       "tweened": false
+      },
+      {
+       "ref": "Incubator_buttonInseminate_down",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        224.95,
+        76
+       ],
+       "index": 2,
+       "tweened": false
+      },
+      {
+       "ref": "Incubator_buttonInseminate_down",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        224.95,
+        76
+       ],
+       "index": 3,
+       "tweened": false
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_inseminate",
+       "duration": 4,
+       "loc": [
+        13,
+        -18.7
+       ],
+       "scale": [
+        0.7,
+        0.7
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_inseminate"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteTimer",
+       "duration": 4,
+       "loc": [
+        -149.3,
+        -1.75
+       ],
+       "tweened": false,
+       "scale": [
+        0.1976,
+        0.1976
+       ],
+       "index": 0,
+       "pivot": [
+        114.4,
+        188.75
+       ]
+      }
+     ],
+     "name": "Incubator_spriteTimer"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_timer",
+       "duration": 4,
+       "loc": [
+        14.45,
+        15.2
+       ],
+       "scale": [
+        0.7,
+        0.7
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_timer"
+    }
+   ],
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.incubator.TimerIncubator"
+   },
+   "baseClass": "flash.display.SimpleButton",
+   "id": "TimerIncubator"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonCellNormal_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "ref": "Incubator_buttonCellNormal_over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "ref": "Incubator_buttonCellNormal_down",
+       "duration": 2,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        109.15,
+        64.4
+       ]
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_CellNormal"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonCellSelected_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        109.15,
+        64.35
+       ]
+      },
+      {
+       "ref": "Incubator_buttonCellSelected_over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        109.15,
+        64.4
+       ]
+      },
+      {
+       "ref": "Incubator_buttonCellSelected_down",
+       "duration": 2,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        109.15,
+        64.4
+       ]
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_CellSelected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonClose_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        163,
+        153
+       ]
+      },
+      {
+       "ref": "Incubator_buttonClose_over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        163,
+        153
+       ]
+      },
+      {
+       "ref": "Incubator_buttonClose_down",
+       "duration": 1,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        163,
+        153
+       ]
+      },
+      {
+       "ref": "Incubator_buttonClose_hit",
+       "duration": 1,
+       "loc": [
+        -1.45,
+        -1.05
+       ],
+       "pivot": [
+        135,
+        135
+       ],
+       "index": 3,
+       "tweened": false
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_Close"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonFleche_up",
+       "duration": 1,
+       "tweened": false,
+       "skew": [
+        -1.5706,
+        -1.5706
+       ],
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 0,
+       "pivot": [
+        88,
+        140
+       ]
+      },
+      {
+       "ref": "Incubator_buttonFleche_over",
+       "duration": 1,
+       "loc": [
+        -0.3,
+        -2.35
+       ],
+       "tweened": false,
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 1,
+       "pivot": [
+        139.45,
+        83.3
+       ]
+      },
+      {
+       "ref": "Incubator_buttonFleche_down",
+       "duration": 2,
+       "loc": [
+        -0.3,
+        -0.6
+       ],
+       "tweened": false,
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 2,
+       "pivot": [
+        140.2,
+        87.4
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_Fleche"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonGene_disabled",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        111.7,
+        65.9
+       ]
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_geneQuantity",
+       "duration": 1,
+       "loc": [
+        -3.5,
+        84.1
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_geneQuantity"
+    }
+   ],
+   "id": "~Incubator_btn_GeneDisabled"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonManage_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        225,
+        76
+       ]
+      },
+      {
+       "ref": "Incubator_buttonManage_over",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        224.95,
+        76
+       ],
+       "index": 1,
+       "tweened": false
+      },
+      {
+       "ref": "Incubator_buttonManage_down",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        224.95,
+        76
+       ],
+       "index": 2,
+       "tweened": false
+      },
+      {
+       "ref": "Incubator_buttonManage_down",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        224.95,
+        76
+       ],
+       "index": 3,
+       "tweened": false
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_Manage",
+       "duration": 4,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_inseminate"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_Manage"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonSchemaDisabled",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.65
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaDisabled",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.65
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaDisabled",
+       "duration": 2,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.65
+       ]
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteSchema",
+       "duration": 4,
+       "loc": [
+        0,
+        21.7
+       ],
+       "pivot": [
+        133.45,
+        30.85
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "asset"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_SchemaName",
+       "duration": 4,
+       "loc": [
+        2,
+        -23.05
+       ],
+       "pivot": [
+        -0.1,
+        3.2
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_xenoName"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_SchemaDisabled"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonSchemaComplete_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaComplete_Over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaComplete_Down",
+       "duration": 1,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaComplete_Down",
+       "duration": 1,
+       "index": 3,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteSchema",
+       "duration": 4,
+       "loc": [
+        0,
+        21.7
+       ],
+       "pivot": [
+        133.45,
+        30.85
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "asset"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_SchemaName",
+       "duration": 4,
+       "loc": [
+        0,
+        -24.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_xenoName"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_SchemaNormal"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonSchemaUncomplete_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaUncomplete_Over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaUncomplete_Down",
+       "duration": 1,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSchemaUncomplete_Down",
+       "duration": 1,
+       "index": 3,
+       "tweened": false,
+       "pivot": [
+        163.35,
+        62.6
+       ]
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteSchema",
+       "duration": 4,
+       "loc": [
+        0,
+        21.7
+       ],
+       "pivot": [
+        133.45,
+        30.85
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "asset"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_SchemaName",
+       "duration": 4,
+       "loc": [
+        0.8,
+        -24.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_xenoName"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_SchemaSelected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_buttonSkip_up",
+       "duration": 1,
+       "pivot": [
+        124.9,
+        140.25
+       ],
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 0,
+       "tweened": false
+      },
+      {
+       "ref": "Incubator_buttonSkip_over",
+       "duration": 1,
+       "loc": [
+        -0.1,
+        0
+       ],
+       "tweened": false,
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 1,
+       "pivot": [
+        124.75,
+        140.25
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSkip_down",
+       "duration": 1,
+       "loc": [
+        -0.1,
+        0
+       ],
+       "tweened": false,
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 2,
+       "pivot": [
+        124.85,
+        140.25
+       ]
+      },
+      {
+       "ref": "Incubator_buttonSkip_down",
+       "duration": 1,
+       "loc": [
+        -0.1,
+        0
+       ],
+       "tweened": false,
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 3,
+       "pivot": [
+        124.75,
+        140.25
+       ]
+      }
+     ],
+     "name": "button"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Incubator_btn_Skip"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "GeneButton",
+       "duration": 1,
+       "loc": [
+        479.55,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Gene #4"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "GeneButton",
+       "duration": 1,
+       "loc": [
+        239.75,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Gene #3"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "GeneButton",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Gene #2"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "GeneButton",
+       "duration": 1,
+       "loc": [
+        -239.85,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Gene #1"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "GeneButton",
+       "duration": 1,
+       "loc": [
+        -479.65,
+        0
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Gene #0"
+    }
+   ],
+   "id": "~Incubator_clipGeneContainer"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_spriteIntituleXenoBG",
+       "duration": 1,
+       "loc": [
+        2.2,
+        -8.9
+       ],
+       "pivot": [
+        234.05,
+        57.15
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "UpgradeCenter_spriteIntituleXenoBG"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "Incubator_txt_xenoName",
+       "duration": 1,
+       "loc": [
+        -2.1,
+        -17.2
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "txt_xenoNameUpgrading"
+    }
+   ],
+   "id": "~Incubator_clipIntituleXenos"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "SchemaSwitchItem",
+       "duration": 1,
+       "loc": [
+        1.5,
+        242.6
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Schema #4"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "SchemaSwitchItem",
+       "duration": 1,
+       "loc": [
+        1.5,
+        121.75
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Schema #3"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "SchemaSwitchItem",
+       "duration": 1,
+       "loc": [
+        1.5,
+        -0.25
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Schema #2"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "SchemaSwitchItem",
+       "duration": 1,
+       "loc": [
+        1.5,
+        -121.25
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Schema #1"
+    },
+    {
+     "keyframes": [
+      {
+       "ref": "SchemaSwitchItem",
+       "duration": 1,
+       "loc": [
+        1.5,
+        -242.75
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ],
+     "name": "Schema #0"
+    }
+   ],
+   "id": "~Incubator_clipSchemaContainer"
+  }
+ ]
+}

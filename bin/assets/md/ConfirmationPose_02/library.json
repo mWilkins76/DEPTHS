@@ -1,0 +1,1006 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "ConfirmationPose_buttonAchatSCNormal_over",
+       "origin": [
+        117.1,
+        69.3
+       ],
+       "rect": [
+        1,
+        1,
+        235,
+        139
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonAchatSCNormal_down",
+       "origin": [
+        100.35,
+        59.4
+       ],
+       "rect": [
+        238,
+        1,
+        201,
+        119
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonAchatSCNormal_up",
+       "origin": [
+        100.35,
+        59.4
+       ],
+       "rect": [
+        238,
+        122,
+        201,
+        119
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonYesAchat_over",
+       "origin": [
+        71.1,
+        79.9
+       ],
+       "rect": [
+        1,
+        142,
+        143,
+        160
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonNoAchat_over",
+       "origin": [
+        71,
+        79.8
+       ],
+       "rect": [
+        146,
+        243,
+        143,
+        160
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonNoAchat_up",
+       "origin": [
+        66.55,
+        74.45
+       ],
+       "rect": [
+        1,
+        304,
+        134,
+        150
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonNoAchat_down",
+       "origin": [
+        66.55,
+        74.75
+       ],
+       "rect": [
+        291,
+        243,
+        134,
+        150
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonYesAchat_down",
+       "origin": [
+        66.55,
+        74.75
+       ],
+       "rect": [
+        291,
+        395,
+        134,
+        150
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonYesAchat_up",
+       "origin": [
+        66.4,
+        75.7
+       ],
+       "rect": [
+        137,
+        405,
+        134,
+        150
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonReturnAchat_Hover",
+       "origin": [
+        62.15,
+        58.1
+       ],
+       "rect": [
+        1,
+        456,
+        123,
+        115
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonReturnAchat_Down",
+       "origin": [
+        62.15,
+        58.1
+       ],
+       "rect": [
+        273,
+        547,
+        123,
+        115
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_buttonReturnAchat_Normal",
+       "origin": [
+        62.15,
+        58.1
+       ],
+       "rect": [
+        126,
+        557,
+        123,
+        115
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_spriteHCCurrencie",
+       "origin": [
+        7.95,
+        33.3
+       ],
+       "rect": [
+        146,
+        142,
+        49,
+        62
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_spriteSCCurrencie",
+       "origin": [
+        18.35,
+        27.05
+       ],
+       "rect": [
+        398,
+        547,
+        40,
+        56
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_spriteMNCurrencie",
+       "origin": [
+        25,
+        20.3
+       ],
+       "rect": [
+        427,
+        243,
+        49,
+        40
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_txt_HCPrice",
+       "data": {
+        "y": -31.95,
+        "text": "XX",
+        "x": -49.8,
+        "width": 97.85,
+        "font": "55px AlegreyaSans-Bold",
+        "align": "right",
+        "height": 70,
+        "wordWrap": 1,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        137,
+        304,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_txt_MNPrice",
+       "data": {
+        "y": -32.7,
+        "text": "XXXX",
+        "x": -88.05,
+        "width": 176.1,
+        "font": "55px AlegreyaSans-Bold",
+        "align": "center",
+        "height": 70,
+        "wordWrap": 1,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        140,
+        304,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "ConfirmationPose_txt_SCPrice",
+       "data": {
+        "y": -33.4,
+        "text": "XXXXX",
+        "x": -95.05,
+        "width": 188.15,
+        "font": "55px AlegreyaSans-Bold",
+        "align": "center",
+        "height": 70,
+        "wordWrap": 1,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        143,
+        304,
+        1,
+        1
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "loc": [
+        198.45,
+        180.8625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ConfirmationPose_btn_NoBuyHC",
+       "duration": 1
+      }
+     ],
+     "name": "btn_NoBuyHC"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        197.7,
+        -134.1375
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ConfirmationPose_btn_YesBuyHC",
+       "duration": 1
+      }
+     ],
+     "name": "btn_YesBuyHC"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0.0375,
+        -0.45
+       ],
+       "tweened": false,
+       "loc": [
+        280.2,
+        18.8625
+       ],
+       "index": 0,
+       "ref": "Textbutton",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_ButtonHC"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -195.3,
+        180.8625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ConfirmationPose_btn_NoBuySC",
+       "duration": 1
+      }
+     ],
+     "name": "btn_NoBuySC"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -196.05,
+        -134.1375
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ConfirmationPose_btn_YesBuySC",
+       "duration": 1
+      }
+     ],
+     "name": "btn_YesBuySC"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0.0375,
+        -0.45
+       ],
+       "tweened": false,
+       "loc": [
+        -274.425,
+        18.975
+       ],
+       "index": 0,
+       "ref": "Textbutton",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_ButtonSC"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        8.7,
+        261.8625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ConfirmationPose_btn_ConfirmReturn",
+       "duration": 1
+      }
+     ],
+     "name": "btn_ConfirmReturn"
+    }
+   ],
+   "id": "ConfirmationPose"
+  },
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.specialButtons.Textbutton"
+   },
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "loc": [
+        0,
+        -0.75
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ConfirmationPose_btn_Achat",
+       "duration": 1
+      }
+     ],
+     "name": "pay_btn"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition": "bottom",
+        "UIPosition_Desktop": "bottom"
+       },
+       "pivot": [
+        0.225,
+        -0.1125
+       ],
+       "tweened": false,
+       "loc": [
+        4.35,
+        3.1125
+       ],
+       "index": 0,
+       "ref": "~ConfirmationPose_clipPriceSCInfos",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_clipPriceSCInfos"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -7.4625,
+        -3.1125
+       ],
+       "tweened": false,
+       "loc": [
+        -0.75,
+        1.5
+       ],
+       "index": 0,
+       "ref": "~ConfirmationPose_clipPriceHCInfos",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_clipPriceHCInfos"
+    }
+   ],
+   "id": "Textbutton"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100.35,
+        59.3625
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_buttonAchatSCNormal_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        117.075,
+        69.3
+       ],
+       "tweened": false,
+       "loc": [
+        0.0375,
+        0.3
+       ],
+       "index": 1,
+       "ref": "ConfirmationPose_buttonAchatSCNormal_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        100.35,
+        59.4
+       ],
+       "index": 2,
+       "ref": "ConfirmationPose_buttonAchatSCNormal_down",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        100.35,
+        59.4
+       ],
+       "tweened": false,
+       "loc": [
+        -0.0375,
+        -0.0375
+       ],
+       "index": 3,
+       "ref": "ConfirmationPose_buttonAchatSCNormal_down",
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    }
+   ],
+   "id": "~ConfirmationPose_btn_Achat"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        62.1375,
+        58.125
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_buttonReturnAchat_Normal",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        62.1375,
+        58.125
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        0.075
+       ],
+       "index": 1,
+       "ref": "ConfirmationPose_buttonReturnAchat_Hover",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        62.1375,
+        58.125
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        0.0806
+       ],
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "ref": "ConfirmationPose_buttonReturnAchat_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        62.1375,
+        58.125
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        0.0375
+       ],
+       "index": 3,
+       "ref": "ConfirmationPose_buttonReturnAchat_Normal",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~ConfirmationPose_btn_ConfirmReturn"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_buttonNoAchat_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        71.025,
+        79.8
+       ],
+       "tweened": false,
+       "loc": [
+        -0.525,
+        0.15
+       ],
+       "index": 1,
+       "ref": "ConfirmationPose_buttonNoAchat_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "tweened": false,
+       "loc": [
+        0.225,
+        0.1875
+       ],
+       "index": 2,
+       "ref": "ConfirmationPose_buttonNoAchat_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "index": 3,
+       "ref": "ConfirmationPose_buttonNoAchat_up",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ],
+     "name": "txt_No"
+    }
+   ],
+   "id": "~ConfirmationPose_btn_NoBuyHC"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_buttonNoAchat_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        71.025,
+        79.8
+       ],
+       "tweened": false,
+       "loc": [
+        -0.525,
+        0.15
+       ],
+       "index": 1,
+       "ref": "ConfirmationPose_buttonNoAchat_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "tweened": false,
+       "loc": [
+        0.225,
+        0.1875
+       ],
+       "index": 2,
+       "ref": "ConfirmationPose_buttonNoAchat_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "index": 3,
+       "ref": "ConfirmationPose_buttonNoAchat_up",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ],
+     "name": "txt_No"
+    }
+   ],
+   "id": "~ConfirmationPose_btn_NoBuySC"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_buttonYesAchat_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        71.1,
+        79.875
+       ],
+       "tweened": false,
+       "loc": [
+        -0.1125,
+        -0.1125
+       ],
+       "index": 1,
+       "ref": "ConfirmationPose_buttonYesAchat_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.75
+       ],
+       "index": 2,
+       "ref": "ConfirmationPose_buttonYesAchat_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "index": 3,
+       "ref": "ConfirmationPose_buttonYesAchat_up",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ],
+     "name": "txt_Yes"
+    }
+   ],
+   "id": "~ConfirmationPose_btn_YesBuyHC"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_buttonYesAchat_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        71.1,
+        79.875
+       ],
+       "tweened": false,
+       "loc": [
+        -0.1125,
+        -0.1125
+       ],
+       "index": 1,
+       "ref": "ConfirmationPose_buttonYesAchat_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "tweened": false,
+       "loc": [
+        0,
+        -0.75
+       ],
+       "index": 2,
+       "ref": "ConfirmationPose_buttonYesAchat_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "index": 3,
+       "ref": "ConfirmationPose_buttonYesAchat_up",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ],
+     "name": "txt_Yes"
+    }
+   ],
+   "id": "~ConfirmationPose_btn_YesBuySC"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        7.95,
+        33.3
+       ],
+       "tweened": false,
+       "loc": [
+        -47.2875,
+        -0.6
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_spriteHCCurrencie",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_spriteHCCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.225,
+        0.375
+       ],
+       "tweened": false,
+       "loc": [
+        15.936,
+        0.7025
+       ],
+       "scale": [
+        0.6734,
+        0.6734
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_txt_HCPrice",
+       "duration": 1
+      }
+     ],
+     "name": "txt_HCPrice"
+    }
+   ],
+   "id": "~ConfirmationPose_clipPriceHCInfos"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.225,
+        0.375
+       ],
+       "tweened": false,
+       "loc": [
+        5.211,
+        -22.585
+       ],
+       "scale": [
+        0.6734,
+        0.6734
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_txt_MNPrice",
+       "duration": 1
+      }
+     ],
+     "name": "txt_MNPrice"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        18.3375,
+        27.0375
+       ],
+       "tweened": false,
+       "loc": [
+        -46.6125,
+        16.575
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_spriteSCCurrencie",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_spriteSCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        24.975,
+        20.2875
+       ],
+       "tweened": false,
+       "loc": [
+        -43.5375,
+        -25.5
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_spriteMNCurrencie",
+       "duration": 1
+      }
+     ],
+     "name": "ConfirmationPose_spriteMNCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.225,
+        0.375
+       ],
+       "tweened": false,
+       "loc": [
+        20.961,
+        18.665
+       ],
+       "scale": [
+        0.6734,
+        0.6734
+       ],
+       "index": 0,
+       "ref": "ConfirmationPose_txt_SCPrice",
+       "duration": 1
+      }
+     ],
+     "name": "txt_SCPrice"
+    }
+   ],
+   "id": "~ConfirmationPose_clipPriceSCInfos"
+  }
+ ],
+ "md5": "cb1464455127033585146a4fa224492d",
+ "frameRate": 24
+}

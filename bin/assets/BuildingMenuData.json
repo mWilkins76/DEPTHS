@@ -1,0 +1,30 @@
+[
+	[
+		{"name":"UrbanAntenna", "levelToBecomeEnable" : 0},
+		{"name":"UrbanCommunication", "levelToBecomeEnable" : 3},
+		{"name":"UrbanPowerStation", "levelToBecomeEnable" : 0},
+		{"name":"UrbanTranslation", "levelToBecomeEnable" : 3}
+	],
+	[
+		{"name":"AlienIncubator", "levelToBecomeEnable" : 3},
+		{"name":"AlienPaddockTiny", "levelToBecomeEnable" : 2},
+		{"name":"AlienPaddockSmall", "levelToBecomeEnable" : 2},
+		{"name":"AlienPaddockMedium", "levelToBecomeEnable" : 5},
+		{"name":"AlienPaddockBig", "levelToBecomeEnable" : 6},
+		{"name":"AlienCryoCenter", "levelToBecomeEnable" : 6},
+		{"name":"AlienTrainingCenter", "levelToBecomeEnable" : 4}
+	],
+	[
+		{"name":"DrillingAutoOutPost", "levelToBecomeEnable" : 5},
+		{"name":"DrillingCenter", "levelToBecomeEnable" : 2},
+		{"name":"DrillingOutPost", "levelToBecomeEnable" : 4}
+	],
+	[
+		{"name":"BuildingCosmeticPlant1", "levelToBecomeEnable" : 0},
+		{"name":"BuildingCosmeticPlant2", "levelToBecomeEnable" : 0},
+		{"name":"BuildingCosmeticPlant3", "levelToBecomeEnable" : 0},
+		{"name":"BuildingCosmeticCapsule3", "levelToBecomeEnable" : 0},
+		{"name":"BuildingCosmeticCapsule2", "levelToBecomeEnable" : 0},
+		{"name":"BuildingCosmeticCapsule1", "levelToBecomeEnable" : 0}
+	]
+]

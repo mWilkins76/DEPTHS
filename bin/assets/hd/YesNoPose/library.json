@@ -1,0 +1,310 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "YesNoPose_buttonYes_Over",
+       "origin": [
+        81.5,
+        76
+       ],
+       "rect": [
+        1,
+        1,
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "YesNoPose_buttonNo_Over",
+       "origin": [
+        82.5,
+        77.7
+       ],
+       "rect": [
+        166,
+        1,
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "YesNoPose_buttonNo_up",
+       "origin": [
+        82.5,
+        77.7
+       ],
+       "rect": [
+        331,
+        1,
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "YesNoPose_buttonYes_Down",
+       "origin": [
+        81.5,
+        76
+       ],
+       "rect": [
+        1,
+        156,
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "YesNoPose_buttonNo_Down",
+       "origin": [
+        82.5,
+        77.75
+       ],
+       "rect": [
+        1,
+        311,
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "YesNoPose_buttonYes_up",
+       "origin": [
+        81.5,
+        76
+       ],
+       "rect": [
+        166,
+        156,
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "YesNoPose_txt_no",
+       "data": {
+        "y": -81.65,
+        "text": "NO",
+        "x": -111.5,
+        "width": 222.8,
+        "font": "130px Calibri",
+        "align": "center",
+        "height": 162.7,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        496,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "YesNoPose_txt_yes",
+       "data": {
+        "y": -81.35,
+        "text": "YES",
+        "x": -112.4,
+        "width": 222.8,
+        "font": "130px Calibri",
+        "align": "center",
+        "height": 162.7,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        499,
+        1,
+        1,
+        1
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "loc": [
+        330.6,
+        -124
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~YesNoPose_btn_Yes",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Yes"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        332.05,
+        85.05
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~YesNoPose_btn_No",
+       "duration": 1
+      }
+     ],
+     "name": "btn_No"
+    }
+   ],
+   "id": "YesNoPose"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        82.5,
+        77.7
+       ],
+       "index": 0,
+       "ref": "YesNoPose_buttonNo_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        82.5,
+        77.7
+       ],
+       "index": 1,
+       "ref": "YesNoPose_buttonNo_Over",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        82.5,
+        77.75
+       ],
+       "tweened": false,
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "ref": "YesNoPose_buttonNo_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        82.5,
+        77.7
+       ],
+       "index": 3,
+       "ref": "YesNoPose_buttonNo_up",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ],
+     "name": "txt_No"
+    }
+   ],
+   "id": "~YesNoPose_btn_No"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        81.5,
+        76
+       ],
+       "index": 0,
+       "ref": "YesNoPose_buttonYes_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        81.5,
+        76
+       ],
+       "index": 1,
+       "ref": "YesNoPose_buttonYes_Over",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        81.5,
+        76
+       ],
+       "tweened": false,
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "ref": "YesNoPose_buttonYes_Down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        81.5,
+        76
+       ],
+       "index": 3,
+       "ref": "YesNoPose_buttonYes_up",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    },
+    {
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 4
+      }
+     ],
+     "name": "txt_yes"
+    }
+   ],
+   "id": "~YesNoPose_btn_Yes"
+  }
+ ],
+ "md5": "3fe52723a4bdf0f006d5177fff90924b",
+ "frameRate": 24
+}

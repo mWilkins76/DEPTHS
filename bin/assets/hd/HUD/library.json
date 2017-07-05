@@ -1,0 +1,1480 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "HUD_spriteHardCurrencieBG",
+       "rect": [
+        1,
+        1,
+        1125,
+        432
+       ],
+       "origin": [
+        461.05,
+        237.55
+       ]
+      },
+      {
+       "symbol": "HUD_spriteSoftCurrencieBG",
+       "rect": [
+        1,
+        435,
+        1089,
+        419
+       ],
+       "origin": [
+        242.05,
+        178.1
+       ]
+      },
+      {
+       "symbol": "HUD_spriteMatiereBG",
+       "rect": [
+        1,
+        856,
+        1094,
+        392
+       ],
+       "origin": [
+        177.6,
+        218.45
+       ]
+      },
+      {
+       "symbol": "HUD_buttonPlus_hit",
+       "rect": [
+        1092,
+        435,
+        688,
+        270
+       ],
+       "origin": [
+        552.45,
+        135
+       ]
+      },
+      {
+       "symbol": "HUD_buttonBuild_down",
+       "rect": [
+        1097,
+        707,
+        383,
+        437
+       ],
+       "origin": [
+        194.45,
+        215.55
+       ]
+      },
+      {
+       "symbol": "HUD_buttonOptions_down",
+       "rect": [
+        1128,
+        1,
+        383,
+        431
+       ],
+       "origin": [
+        191.55,
+        216.6
+       ]
+      },
+      {
+       "symbol": "HUD_buttonCodex_down",
+       "rect": [
+        1513,
+        1,
+        383,
+        431
+       ],
+       "origin": [
+        192.3,
+        210.1
+       ]
+      },
+      {
+       "symbol": "HUD_buttonShop_over",
+       "rect": [
+        1482,
+        707,
+        367,
+        412
+       ],
+       "origin": [
+        183.15,
+        205.7
+       ]
+      },
+      {
+       "symbol": "HUD_buttonBuild_up",
+       "rect": [
+        1482,
+        1121,
+        333,
+        380
+       ],
+       "origin": [
+        168.5,
+        187.1
+       ]
+      },
+      {
+       "symbol": "HUD_buttonBuild_over",
+       "rect": [
+        1097,
+        1146,
+        333,
+        380
+       ],
+       "origin": [
+        168.85,
+        187.65
+       ]
+      },
+      {
+       "symbol": "HUD_buttonShop_down",
+       "rect": [
+        1432,
+        1503,
+        334,
+        378
+       ],
+       "origin": [
+        167,
+        189
+       ]
+      },
+      {
+       "symbol": "HUD_buttonShop_up",
+       "rect": [
+        1,
+        1528,
+        334,
+        374
+       ],
+       "origin": [
+        167,
+        187
+       ]
+      },
+      {
+       "symbol": "HUD_buttonOptions_over",
+       "rect": [
+        337,
+        1528,
+        333,
+        374
+       ],
+       "origin": [
+        166.55,
+        188.65
+       ]
+      },
+      {
+       "symbol": "HUD_buttonCodex_up",
+       "rect": [
+        672,
+        1250,
+        333,
+        374
+       ],
+       "origin": [
+        168.25,
+        187
+       ]
+      },
+      {
+       "symbol": "HUD_buttonCodex_over",
+       "rect": [
+        1007,
+        1528,
+        333,
+        374
+       ],
+       "origin": [
+        168.25,
+        187
+       ]
+      },
+      {
+       "symbol": "HUD_buttonOptions_up",
+       "rect": [
+        672,
+        1626,
+        333,
+        374
+       ],
+       "origin": [
+        166.5,
+        188.35
+       ]
+      },
+      {
+       "symbol": "HUD_buttonPlus_down",
+       "rect": [
+        1768,
+        1503,
+        267,
+        300
+       ],
+       "origin": [
+        73.2,
+        86.2
+       ]
+      },
+      {
+       "symbol": "HUD_spriteCurrentXP_fill",
+       "rect": [
+        1782,
+        434,
+        214,
+        270
+       ],
+       "origin": [
+        106.95,
+        89
+       ]
+      },
+      {
+       "symbol": "HUD_spriteEnergyBarBG",
+       "rect": [
+        1768,
+        1805,
+        262,
+        170
+       ],
+       "origin": [
+        147.95,
+        37.7
+       ]
+      },
+      {
+       "symbol": "HUD_spriteCurrentXP_bar",
+       "rect": [
+        1817,
+        1121,
+        181,
+        202
+       ],
+       "origin": [
+        336.5,
+        62.9
+       ]
+      },
+      {
+       "symbol": "HUD_spritePlayerAvatar",
+       "rect": [
+        1851,
+        706,
+        181,
+        202
+       ],
+       "origin": [
+        89.25,
+        97.5
+       ]
+      },
+      {
+       "symbol": "HUD_spriteLevelRoundel",
+       "rect": [
+        1817,
+        1325,
+        96,
+        83
+       ],
+       "origin": [
+        48.5,
+        46.2
+       ]
+      },
+      {
+       "data": {
+        "y": -62.9,
+        "wordWrap": 1,
+        "text": "xxxxxxx",
+        "width": 249.1,
+        "color": "#BFFFFF",
+        "align": "left",
+        "height": 88,
+        "font": "bold 70px Alegreya Sans ExtraBold",
+        "x": 0
+       },
+       "symbol": "HUD_txt_matiereDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        1092,
+        707,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -62,
+        "wordWrap": 1,
+        "text": "xxxxxxx",
+        "width": 284.4,
+        "color": "#BFFFFF",
+        "align": "left",
+        "height": 88,
+        "font": "bold 70px Alegreya Sans ExtraBold",
+        "x": 0
+       },
+       "symbol": "HUD_txt_hardCurrencyDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        1092,
+        710,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -69.6,
+        "wordWrap": 0,
+        "text": "xxx / xxx",
+        "width": 256.45,
+        "color": "#BFFFFF",
+        "align": "left",
+        "height": 81.6,
+        "font": "bold 60px Alegreya Sans ExtraBold",
+        "x": 0
+       },
+       "symbol": "HUD_txt_energyDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        1092,
+        713,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -21.8,
+        "wordWrap": 0,
+        "text": "<xx>",
+        "width": 49.9,
+        "color": "#BFFFFF",
+        "align": "left",
+        "height": 32.8,
+        "font": "bold 24px Alegreya Sans ExtraBold",
+        "x": -24.65
+       },
+       "symbol": "HUD_txt_PlayerLevel",
+       "baseClass": "TextSprite",
+       "rect": [
+        1092,
+        716,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -68,
+        "wordWrap": 1,
+        "text": "xxxxxx",
+        "width": 255.7,
+        "color": "#BFFFFF",
+        "align": "left",
+        "height": 100,
+        "font": "bold 70px Alegreya Sans SC ExtraBold",
+        "x": 0
+       },
+       "symbol": "HUD_txt_softCurrencieDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        1092,
+        719,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "HUD_spriteEnergy",
+       "rect": [
+        1,
+        1,
+        380,
+        283
+       ],
+       "origin": [
+        188.05,
+        125.15
+       ]
+      },
+      {
+       "symbol": "HUD_buttonPlus_up",
+       "rect": [
+        1,
+        286,
+        267,
+        300
+       ],
+       "origin": [
+        73.2,
+        86.2
+       ]
+      },
+      {
+       "symbol": "HUD_buttonPlus_over",
+       "rect": [
+        1,
+        588,
+        267,
+        300
+       ],
+       "origin": [
+        73.2,
+        86.2
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "data": {
+    "y": -35.85,
+    "height": 71.7,
+    "width": 293.85,
+    "color": "#000000",
+    "wordWrap": 1,
+    "font": "48px Arial Black",
+    "x": -88.05
+   },
+   "id": "Hud",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        884.65,
+        -547.6
+       ],
+       "data": {
+        "UIPosition": "bottomRight",
+        "UIPosition_Desktop": "topRight"
+       },
+       "scale": [
+        0.5,
+        0.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_btn_Options"
+      }
+     ],
+     "name": "btn_Options"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        844.2,
+        515.4
+       ],
+       "data": {
+        "UIPosition": "bottomRight",
+        "UIPosition_Desktop": "bottomRight"
+       },
+       "scale": [
+        0.75,
+        0.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_btn_Shop"
+      }
+     ],
+     "name": "btn_Shop"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -868.85,
+        357.15
+       ],
+       "pivot": [
+        0.25,
+        0
+       ],
+       "data": {
+        "UIPosition": "bottomLeft",
+        "UIPosition_Desktop": "bottomLeft"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_clipEnergyBar"
+      }
+     ],
+     "name": "HUD_clipEnergyBar"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -862.2,
+        516.95
+       ],
+       "data": {
+        "UIPosition": "bottomLeft",
+        "UIPosition_Desktop": "bottomLeft"
+       },
+       "scale": [
+        0.75,
+        0.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_btn_Build"
+      }
+     ],
+     "name": "btn_Build"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        115.95,
+        -554.65
+       ],
+       "data": {
+        "UIPosition": "topRight"
+       },
+       "scale": [
+        0.81,
+        0.81
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_clipSoftCurrencie"
+      }
+     ],
+     "name": "HUD_clipSoftCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        207.4,
+        -579.45
+       ],
+       "data": {
+        "UIPosition": "topRight"
+       },
+       "scale": [
+        0.4495,
+        0.4495
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_btn_PlusSC"
+      }
+     ],
+     "name": "btn_PlusSC"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -421,
+        -548.15
+       ],
+       "data": {
+        "UIPosition": "topRight"
+       },
+       "scale": [
+        0.81,
+        0.81
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_clipHardCurrencie"
+      }
+     ],
+     "name": "HUD_clipHardCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -295.25,
+        -579.65
+       ],
+       "data": {
+        "UIPosition": "topRight"
+       },
+       "scale": [
+        0.4495,
+        0.4495
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_btn_PlusHC"
+      }
+     ],
+     "name": "btn_PlusHC"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        518.4,
+        -556.55
+       ],
+       "data": {
+        "UIPosition": "topRight"
+       },
+       "scale": [
+        0.8,
+        0.8
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_clipMatiere"
+      }
+     ],
+     "name": "HUD_clipMatiere"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Tooltip"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -850.65,
+        -447.95
+       ],
+       "data": {
+        "UIPosition": "topLeft",
+        "UIPosition_Desktop": "topLeft"
+       },
+       "scale": [
+        1.5,
+        1.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_clipPlayerInfos"
+      }
+     ],
+     "name": "HUD_clipPlayerInfos"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -672.1,
+        -332.3
+       ],
+       "data": {
+        "UIPosition": "topLeft",
+        "UIPosition_Desktop": "topLeft"
+       },
+       "scale": [
+        0.6,
+        0.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~HUD_btn_Codex"
+      }
+     ],
+     "name": "btn_Codex"
+    }
+   ]
+  },
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.hud.XpBar"
+   },
+   "id": "XpBar",
+   "layers": [
+    {
+     "name": "HUD_spriteCurrentXP_bar",
+     "keyframes": [
+      {
+       "duration": 29,
+       "loc": [
+        244.25,
+        -32.75
+       ],
+       "tweened": false,
+       "scale": [
+        0.9986,
+        0.9986
+       ],
+       "index": 0,
+       "pivot": [
+        336.5,
+        62.9
+       ],
+       "ref": "HUD_spriteCurrentXP_bar"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        244.25,
+        -32.75
+       ],
+       "tweened": false,
+       "scale": [
+        0.9986,
+        0.9986
+       ],
+       "index": 29,
+       "pivot": [
+        336.5,
+        62.9
+       ],
+       "ref": "HUD_spriteCurrentXP_bar"
+      }
+     ],
+     "mask": "HUD_spriteCurrentXP_fill"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 29,
+       "loc": [
+        3.45,
+        188.8
+       ],
+       "index": 0,
+       "pivot": [
+        106.95,
+        89
+       ],
+       "ref": "HUD_spriteCurrentXP_fill"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        3.45,
+        1.8
+       ],
+       "pivot": [
+        106.95,
+        89
+       ],
+       "index": 29,
+       "tweened": false,
+       "ref": "HUD_spriteCurrentXP_fill"
+      }
+     ],
+     "name": "HUD_spriteCurrentXP_fill"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~HUD_btn_Build",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        5.3,
+        -3.3
+       ],
+       "pivot": [
+        168.5,
+        187.1
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_buttonBuild_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        5.75,
+        -3.3
+       ],
+       "pivot": [
+        168.85,
+        187.65
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "HUD_buttonBuild_over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        6.2,
+        -2.9
+       ],
+       "pivot": [
+        194.45,
+        215.55
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "HUD_buttonBuild_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        5.75,
+        -3.3
+       ],
+       "pivot": [
+        168.85,
+        187.65
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "HUD_buttonBuild_over"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~HUD_btn_Codex",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        168.25,
+        187
+       ],
+       "ref": "HUD_buttonCodex_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        168.25,
+        187
+       ],
+       "ref": "HUD_buttonCodex_over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.2,
+        -5.05
+       ],
+       "pivot": [
+        192.3,
+        210.1
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "HUD_buttonCodex_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        168.25,
+        187
+       ],
+       "ref": "HUD_buttonCodex_over"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~HUD_btn_Options",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        166.5,
+        188.35
+       ],
+       "ref": "HUD_buttonOptions_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        166.55,
+        188.65
+       ],
+       "ref": "HUD_buttonOptions_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        191.55,
+        216.6
+       ],
+       "ref": "HUD_buttonOptions_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        166.55,
+        188.65
+       ],
+       "ref": "HUD_buttonOptions_over"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~HUD_btn_PlusHC",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        73.2,
+        86.2
+       ],
+       "ref": "HUD_buttonPlus_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        73.2,
+        86.2
+       ],
+       "ref": "HUD_buttonPlus_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "pivot": [
+        73.2,
+        86.2
+       ],
+       "ref": "HUD_buttonPlus_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -567.55,
+        62.85
+       ],
+       "tweened": false,
+       "skew": [
+        -3.1416,
+        3.1416
+       ],
+       "scale": [
+        1.38,
+        1.12
+       ],
+       "index": 3,
+       "pivot": [
+        552.45,
+        135
+       ],
+       "ref": "HUD_buttonPlus_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~HUD_btn_PlusSC",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.05,
+        -0.1
+       ],
+       "pivot": [
+        73.2,
+        86.2
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_buttonPlus_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        73.2,
+        86.2
+       ],
+       "ref": "HUD_buttonPlus_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "pivot": [
+        73.2,
+        86.2
+       ],
+       "ref": "HUD_buttonPlus_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -567.55,
+        62.85
+       ],
+       "tweened": false,
+       "skew": [
+        -3.1416,
+        3.1416
+       ],
+       "scale": [
+        1.38,
+        1.12
+       ],
+       "index": 3,
+       "pivot": [
+        552.45,
+        135
+       ],
+       "ref": "HUD_buttonPlus_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~HUD_btn_Shop",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        167,
+        187
+       ],
+       "ref": "HUD_buttonShop_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        183.15,
+        205.7
+       ],
+       "ref": "HUD_buttonShop_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        167,
+        189
+       ],
+       "ref": "HUD_buttonShop_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.1281,
+        1.1281
+       ],
+       "index": 3,
+       "pivot": [
+        167,
+        189
+       ],
+       "ref": "HUD_buttonShop_down"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "id": "~HUD_clipEnergyBar",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        25.9,
+        -22
+       ],
+       "pivot": [
+        147.95,
+        37.7
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_spriteEnergyBarBG"
+      }
+     ],
+     "name": "HUD_spriteEnergyBarBG"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -40.85,
+        -20.1
+       ],
+       "scale": [
+        0.6452,
+        0.6452
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_txt_energyDisplay"
+      }
+     ],
+     "name": "txt_energyDisplay"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -100.8,
+        -32.5
+       ],
+       "tweened": false,
+       "skew": [
+        -0.2755,
+        -0.2755
+       ],
+       "scale": [
+        0.4496,
+        0.4496
+       ],
+       "index": 0,
+       "pivot": [
+        188.05,
+        125.15
+       ],
+       "ref": "HUD_spriteEnergy"
+      }
+     ],
+     "name": "HUD_spriteEnergy"
+    }
+   ]
+  },
+  {
+   "id": "~HUD_clipHardCurrencie",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -82.15,
+        2.55
+       ],
+       "tweened": false,
+       "scale": [
+        0.4,
+        0.4
+       ],
+       "index": 0,
+       "pivot": [
+        461.05,
+        237.55
+       ],
+       "ref": "HUD_spriteHardCurrencieBG"
+      }
+     ],
+     "name": "HUD_spriteHardCurrencieBG"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -120.65,
+        2.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_txt_softCurrencieDisplay"
+      }
+     ],
+     "name": "txt_softCurrencieDisplay"
+    }
+   ]
+  },
+  {
+   "id": "~HUD_clipMatiere",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -122.8,
+        4.25
+       ],
+       "tweened": false,
+       "scale": [
+        0.4,
+        0.4
+       ],
+       "index": 0,
+       "pivot": [
+        177.6,
+        218.45
+       ],
+       "ref": "HUD_spriteMatiereBG"
+      }
+     ],
+     "name": "HUD_spriteMatiereBG"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -25.45,
+        3.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_txt_matiereDisplay"
+      }
+     ],
+     "name": "txt_matiereDisplay"
+    }
+   ]
+  },
+  {
+   "id": "~HUD_clipPlayerInfos",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -43.35
+       ],
+       "tweened": false,
+       "scale": [
+        0.9986,
+        0.9986
+       ],
+       "index": 0,
+       "pivot": [
+        89.25,
+        97.5
+       ],
+       "ref": "HUD_spritePlayerAvatar"
+      }
+     ],
+     "name": "HUD_spritePlayerAvatar"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        2.5,
+        -44.8
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "XpBar"
+      }
+     ],
+     "name": "HUD_spriteCurrentXP"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        2.45,
+        82.95
+       ],
+       "pivot": [
+        48.5,
+        46.2
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_spriteLevelRoundel"
+      }
+     ],
+     "name": "HUD_spriteLevelRoundel"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        1.15,
+        82.95
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_txt_PlayerLevel"
+      }
+     ],
+     "name": "txt_PlayerLevel"
+    }
+   ]
+  },
+  {
+   "data": {
+    "font": "48px Arial Black",
+    "y": -35.85,
+    "text": "SC",
+    "width": 293.85,
+    "color": "#000000",
+    "align": "left",
+    "wordWrap": 1,
+    "height": 71.7,
+    "x": -88.05
+   },
+   "id": "~HUD_clipSoftCurrencie",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -200.3,
+        -4
+       ],
+       "tweened": false,
+       "scale": [
+        0.4,
+        0.4
+       ],
+       "index": 0,
+       "pivot": [
+        242.05,
+        178.1
+       ],
+       "ref": "HUD_spriteSoftCurrencieBG"
+      }
+     ],
+     "name": "HUD_spriteSoftCurrencieBG"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -145.95,
+        -0.9
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "HUD_txt_hardCurrencyDisplay"
+      }
+     ],
+     "name": "txt_hardCurrencyDisplay"
+    }
+   ]
+  }
+ ],
+ "md5": "b155d3b8c51e82e736fac5ca78c11606"
+}

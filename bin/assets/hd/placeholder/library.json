@@ -1,0 +1,2196 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "_factory",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1,
+        1,
+        579,
+        420
+       ]
+      },
+      {
+       "symbol": "_pool",
+       "origin": [
+        217.7,
+        251.25
+       ],
+       "rect": [
+        1,
+        423,
+        469,
+        268
+       ]
+      },
+      {
+       "symbol": "_tower",
+       "origin": [
+        82.75,
+        200.95
+       ],
+       "rect": [
+        472,
+        423,
+        166,
+        402
+       ]
+      },
+      {
+       "symbol": "_roadTop_turn0",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        1,
+        693,
+        193,
+        191
+       ]
+      },
+      {
+       "symbol": "_house",
+       "origin": [
+        88.75,
+        158.25
+       ],
+       "rect": [
+        196,
+        693,
+        178,
+        159
+       ]
+      },
+      {
+       "symbol": "_wing",
+       "origin": [
+        25.35,
+        28.85
+       ],
+       "rect": [
+        376,
+        827,
+        412,
+        66
+       ]
+      },
+      {
+       "symbol": "_roadTop_turn1",
+       "origin": [
+        33.05,
+        0
+       ],
+       "rect": [
+        196,
+        854,
+        134,
+        148
+       ]
+      },
+      {
+       "symbol": "_roadTop_crossroad",
+       "origin": [
+        15.05,
+        13.65
+       ],
+       "rect": [
+        1,
+        886,
+        130,
+        130
+       ]
+      },
+      {
+       "symbol": "_tree",
+       "origin": [
+        59.2,
+        133.3
+       ],
+       "rect": [
+        582,
+        1,
+        119,
+        134
+       ]
+      },
+      {
+       "symbol": "_roadTop_straight",
+       "origin": [
+        0,
+        13.65
+       ],
+       "rect": [
+        582,
+        137,
+        100,
+        130
+       ]
+      },
+      {
+       "symbol": "_earth",
+       "origin": [
+        100,
+        60
+       ],
+       "rect": [
+        582,
+        269,
+        200,
+        60
+       ]
+      },
+      {
+       "symbol": "_ground",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        684,
+        137,
+        100,
+        100
+       ]
+      },
+      {
+       "symbol": "_turbineNoze",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        332,
+        854,
+        31,
+        27
+       ]
+      },
+      {
+       "symbol": "Light_flipbook_3",
+       "origin": [
+        12,
+        12
+       ],
+       "rect": [
+        332,
+        883,
+        24,
+        24
+       ]
+      },
+      {
+       "symbol": "Light_flipbook_0",
+       "origin": [
+        6,
+        6
+       ],
+       "rect": [
+        358,
+        883,
+        12,
+        12
+       ]
+      },
+      {
+       "symbol": "_light",
+       "origin": [
+        3.5,
+        3.5
+       ],
+       "rect": [
+        365,
+        854,
+        7,
+        7
+       ]
+      },
+      {
+       "symbol": "Light_flipbook_4",
+       "origin": [
+        3.5,
+        3.5
+       ],
+       "rect": [
+        365,
+        863,
+        7,
+        7
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ]
+  }
+ ],
+ "movies": [
+  {
+   "id": "Factory",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -100,
+        250
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -200,
+        200
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        0,
+        300
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        0,
+        190
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        200,
+        400
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        100,
+        350
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        300,
+        350
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        100,
+        240
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        200,
+        290
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        400,
+        300
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        200,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        300,
+        140
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        400,
+        190
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        100,
+        140
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        200,
+        190
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        300,
+        240
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        -100,
+        140
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        100,
+        40
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        0,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        -200,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        0,
+        -10
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#FFFF99"
+       ],
+       "loc": [
+        -100,
+        40
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -223.5,
+        -106.05
+       ],
+       "ref": "_factory"
+      }
+     ],
+     "name": "_factory"
+    }
+   ]
+  },
+  {
+   "id": "Ground",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "skew": [
+        1.1071,
+        0.4636
+       ],
+       "ref": "_ground",
+       "duration": 1,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "House",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        2,
+        101.5
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#999999"
+       ],
+       "loc": [
+        0,
+        -10
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        100,
+        150
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#999999"
+       ],
+       "loc": [
+        100,
+        40
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -100,
+        150
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#999999"
+       ],
+       "loc": [
+        -100,
+        40
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        0,
+        200
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#999999"
+       ],
+       "loc": [
+        0,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -27.15,
+        67.15
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.6098,
+        0.6098
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -90.6,
+        77.8
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.462,
+        0.462
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -43.5,
+        89.75
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.462,
+        0.462
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        88.75,
+        158.25
+       ],
+       "loc": [
+        79.3,
+        118
+       ],
+       "ref": "_house",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_house"
+    }
+   ]
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 3,
+       "pivot": [
+        6,
+        6
+       ],
+       "ease": -1,
+       "index": 0,
+       "ref": "Light_flipbook_0"
+      },
+      {
+       "duration": 1,
+       "pivot": [
+        12,
+        12
+       ],
+       "tweened": false,
+       "index": 3,
+       "ref": "Light_flipbook_3"
+      },
+      {
+       "duration": 26,
+       "pivot": [
+        3.5,
+        3.5
+       ],
+       "tweened": false,
+       "index": 4,
+       "ref": "Light_flipbook_4"
+      }
+     ],
+     "flipbook": true,
+     "name": "_light"
+    }
+   ],
+   "baseClass": "Flipbook",
+   "id": "Light"
+  },
+  {
+   "id": "Road_bl",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        33.05,
+        0
+       ],
+       "skew": [
+        1.1071,
+        0.4636
+       ],
+       "ref": "_roadTop_turn1",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Road_br",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "skew": [
+        1.1071,
+        0.4636
+       ],
+       "ref": "_roadTop_turn0",
+       "duration": 1,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Road_c",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        15.05,
+        13.65
+       ],
+       "skew": [
+        1.1071,
+        0.4636
+       ],
+       "ref": "_roadTop_crossroad",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Road_h",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0,
+        13.65
+       ],
+       "skew": [
+        2.0344,
+        2.6779
+       ],
+       "loc": [
+        100.05,
+        50
+       ],
+       "ref": "_roadTop_straight",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Road_tl",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "skew": [
+        -2.0344,
+        -2.6779
+       ],
+       "loc": [
+        0,
+        100
+       ],
+       "ref": "_roadTop_turn0",
+       "duration": 1,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Road_tr",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        33.05,
+        0
+       ],
+       "skew": [
+        -2.0344,
+        -2.6779
+       ],
+       "loc": [
+        0,
+        100
+       ],
+       "ref": "_roadTop_turn1",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Road_v",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0,
+        13.65
+       ],
+       "skew": [
+        1.1071,
+        0.4636
+       ],
+       "ref": "_roadTop_straight",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        1.1182,
+        1.1182
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ]
+  },
+  {
+   "id": "Trees",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        0,
+        100
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.34,
+        "#009900"
+       ],
+       "loc": [
+        0,
+        -10
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        44.65,
+        53.1
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -23.2,
+        67.05
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.7,
+        0.7
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    }
+   ]
+  },
+  {
+   "id": "Villa",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -200,
+        200
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        -200,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        0,
+        300
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -100,
+        250
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        200,
+        200
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        60
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        100,
+        250
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        -100,
+        140
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        0,
+        190
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        -100,
+        40
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        0,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        100,
+        140
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        0,
+        -10
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        100,
+        40
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#336600"
+       ],
+       "loc": [
+        200,
+        90
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        88.75,
+        158.25
+       ],
+       "loc": [
+        19.5,
+        111.4
+       ],
+       "ref": "_house",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_house"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -77.15,
+        92.45
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.6098,
+        0.6098
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -127.6,
+        92.45
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.462,
+        0.462
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        59.2,
+        133.3
+       ],
+       "loc": [
+        -37.65,
+        106.5
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.462,
+        0.462
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        217.7,
+        251.25
+       ],
+       "loc": [
+        -64.15,
+        257.45
+       ],
+       "ref": "_pool",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.72,
+        0.72
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_pool"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        88.75,
+        158.25
+       ],
+       "loc": [
+        153.4,
+        173.8
+       ],
+       "ref": "_house",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_house"
+    }
+   ]
+  },
+  {
+   "id": "WindTurbine",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        29.15
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        0.4,
+        70.65
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth #3"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#339900"
+       ],
+       "loc": [
+        1,
+        -10.25
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground #3"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        29.15
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        96.95,
+        119.1
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth #2"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#339900"
+       ],
+       "loc": [
+        97.55,
+        38.2
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground #2"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        29.15
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -98.15,
+        120.7
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth #1"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#339900"
+       ],
+       "loc": [
+        -97.55,
+        39.8
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground #1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        58.9,
+        66.4
+       ],
+       "loc": [
+        80.2114,
+        24.5939
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.462,
+        0.462
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree #2"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        29.15
+       ],
+       "tint": [
+        0.63,
+        "#000000"
+       ],
+       "loc": [
+        -1.6,
+        169.15
+       ],
+       "ref": "_earth",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_earth"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "tint": [
+        0.64,
+        "#339900"
+       ],
+       "loc": [
+        -1,
+        88.25
+       ],
+       "ref": "Ground",
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Ground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        82.75,
+        200.9
+       ],
+       "loc": [
+        -2.55,
+        -72.65
+       ],
+       "ref": "_tower",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_tower"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -3.4,
+        -268.4
+       ],
+       "ref": "Light"
+      }
+     ],
+     "name": "Light"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0.15,
+        0.05
+       ],
+       "skew": [
+        0,
+        0.4636
+       ],
+       "loc": [
+        -53.1057,
+        -188.4677
+       ],
+       "ref": "~_rotatingWings",
+       "duration": 1,
+       "tweened": false,
+       "tint": [
+        1,
+        "#CDB6A8"
+       ],
+       "scale": [
+        0.7028,
+        0.7037
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_rotatingWings #1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0.15,
+        0.05
+       ],
+       "skew": [
+        0,
+        0.4636
+       ],
+       "loc": [
+        -58.9557,
+        -185.1177
+       ],
+       "ref": "~_rotatingWings",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.7028,
+        0.7037
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_rotatingWings"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        58.95,
+        66.4
+       ],
+       "loc": [
+        -117.6524,
+        85.0553
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.6098,
+        0.6098
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree #1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        58.9,
+        66.4
+       ],
+       "loc": [
+        -80.9386,
+        110.8439
+       ],
+       "ref": "_tree",
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        0.462,
+        0.462
+       ],
+       "index": 0
+      }
+     ],
+     "name": "_tree"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "_cube #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -84.4,
+        -196.1
+       ],
+       "ref": "_turbineNoze"
+      }
+     ],
+     "name": "_cube"
+    }
+   ]
+  },
+  {
+   "id": "~_rotatingWings",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 239,
+       "index": 0,
+       "ref": "~_wings"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "skew": [
+        6.2832,
+        6.2832
+       ],
+       "index": 239,
+       "ref": "~_wings"
+      }
+     ],
+     "name": "Wings"
+    }
+   ]
+  },
+  {
+   "id": "~_wings",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        25.35,
+        28.85
+       ],
+       "loc": [
+        -1.35,
+        0.15
+       ],
+       "ref": "_wing",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_wing #2"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        25.35,
+        28.8
+       ],
+       "skew": [
+        2.0944,
+        2.0944
+       ],
+       "loc": [
+        -1.3567,
+        0.175
+       ],
+       "ref": "_wing",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_wing #1"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        25.3,
+        28.85
+       ],
+       "skew": [
+        -2.0944,
+        -2.0944
+       ],
+       "loc": [
+        -1.375,
+        0.1433
+       ],
+       "ref": "_wing",
+       "duration": 1,
+       "tweened": false,
+       "index": 0
+      }
+     ],
+     "name": "_wing"
+    }
+   ]
+  }
+ ],
+ "frameRate": 30,
+ "md5": "e3b01a0e80c9fee4d2e4108cd43ee42b"
+}

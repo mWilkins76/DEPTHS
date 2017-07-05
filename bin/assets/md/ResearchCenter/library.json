@@ -1,0 +1,2287 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "ResearchCenter_spriteBackground",
+       "origin": [
+        482.15,
+        304.35
+       ],
+       "rect": [
+        1,
+        1,
+        965,
+        609
+       ]
+      },
+      {
+       "symbol": "CellsPanel_spriteBackground",
+       "origin": [
+        472.3,
+        71.85
+       ],
+       "rect": [
+        1,
+        612,
+        945,
+        144
+       ]
+      },
+      {
+       "symbol": "ResearchCenter_spriteXenoUpgrading",
+       "origin": [
+        133.9,
+        195.5
+       ],
+       "rect": [
+        948,
+        612,
+        267,
+        392
+       ]
+      },
+      {
+       "symbol": "_buttonCurseur_up",
+       "origin": [
+        146.25,
+        146.5
+       ],
+       "rect": [
+        968,
+        1,
+        294,
+        294
+       ]
+      },
+      {
+       "symbol": "_buttonInseminate_down",
+       "origin": [
+        305.3,
+        59.8
+       ],
+       "rect": [
+        1,
+        758,
+        611,
+        120
+       ]
+      },
+      {
+       "symbol": "_buttonInseminate_over",
+       "origin": [
+        305.3,
+        59.8
+       ],
+       "rect": [
+        1,
+        880,
+        611,
+        120
+       ]
+      },
+      {
+       "symbol": "_buttonFuse_up",
+       "origin": [
+        305.3,
+        59.8
+       ],
+       "rect": [
+        1,
+        1002,
+        611,
+        120
+       ]
+      },
+      {
+       "symbol": "_buttonInseminate_up",
+       "origin": [
+        305.3,
+        59.8
+       ],
+       "rect": [
+        614,
+        1006,
+        611,
+        120
+       ]
+      },
+      {
+       "symbol": "_buttonFuse_down",
+       "origin": [
+        305.3,
+        59.8
+       ],
+       "rect": [
+        1,
+        1124,
+        611,
+        120
+       ]
+      },
+      {
+       "symbol": "_buttonFuse_over",
+       "origin": [
+        305.3,
+        59.8
+       ],
+       "rect": [
+        614,
+        1128,
+        611,
+        120
+       ]
+      },
+      {
+       "symbol": "ResearchCenter_spriteXenoUnitBG",
+       "origin": [
+        192.45,
+        93.2
+       ],
+       "rect": [
+        1,
+        1246,
+        385,
+        187
+       ]
+      },
+      {
+       "symbol": "_buttonMoins_over",
+       "origin": [
+        144.6,
+        71.1
+       ],
+       "rect": [
+        614,
+        758,
+        294,
+        145
+       ]
+      },
+      {
+       "symbol": "_buttonPlus_up",
+       "origin": [
+        146.35,
+        72.35
+       ],
+       "rect": [
+        968,
+        297,
+        294,
+        145
+       ]
+      },
+      {
+       "symbol": "_buttonMoins_up",
+       "origin": [
+        144.1,
+        72.4
+       ],
+       "rect": [
+        968,
+        444,
+        294,
+        145
+       ]
+      },
+      {
+       "symbol": "_buttonPlus_over",
+       "origin": [
+        147.25,
+        74
+       ],
+       "rect": [
+        1217,
+        591,
+        294,
+        145
+       ]
+      },
+      {
+       "symbol": "_buttonCurseur_hit",
+       "origin": [
+        101.25,
+        101.25
+       ],
+       "rect": [
+        388,
+        1246,
+        203,
+        203
+       ]
+      },
+      {
+       "symbol": "_buttonMoins_hit",
+       "origin": [
+        101.25,
+        101.25
+       ],
+       "rect": [
+        1217,
+        738,
+        203,
+        203
+       ]
+      },
+      {
+       "symbol": "_buttonPlus_hit",
+       "origin": [
+        101.25,
+        101.25
+       ],
+       "rect": [
+        1264,
+        1,
+        203,
+        203
+       ]
+      },
+      {
+       "symbol": "_buttonGene_Over",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        1264,
+        206,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonGene_Hit",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        1227,
+        943,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonGene_Down",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        1227,
+        1144,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonCell2_Hit",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        593,
+        1250,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonCell2_Down",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        794,
+        1250,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonCell2_Over",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        995,
+        1250,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "ResearchCenter_spriteExperienceBg",
+       "origin": [
+        26.25,
+        196.55
+       ],
+       "rect": [
+        1469,
+        1,
+        47,
+        394
+       ]
+      },
+      {
+       "symbol": "_buttonPlus_down",
+       "origin": [
+        64.45,
+        64.45
+       ],
+       "rect": [
+        1264,
+        407,
+        129,
+        129
+       ]
+      },
+      {
+       "symbol": "_buttonCurseur_over",
+       "origin": [
+        64.45,
+        64.45
+       ],
+       "rect": [
+        1395,
+        407,
+        129,
+        129
+       ]
+      },
+      {
+       "symbol": "_buttonCurseur_down",
+       "origin": [
+        64.45,
+        64.45
+       ],
+       "rect": [
+        1196,
+        1345,
+        129,
+        129
+       ]
+      },
+      {
+       "symbol": "_buttonMoins_down",
+       "origin": [
+        64.45,
+        64.45
+       ],
+       "rect": [
+        1327,
+        1345,
+        129,
+        129
+       ]
+      },
+      {
+       "symbol": "ResearchCenter_spriteCellQuantityBG",
+       "origin": [
+        60.15,
+        47.4
+       ],
+       "rect": [
+        614,
+        905,
+        119,
+        88
+       ]
+      },
+      {
+       "symbol": "_buttonFleche_down",
+       "origin": [
+        48.85,
+        43.65
+       ],
+       "rect": [
+        735,
+        905,
+        99,
+        87
+       ]
+      },
+      {
+       "symbol": "_buttonFleche_up",
+       "origin": [
+        42.7,
+        48.8
+       ],
+       "rect": [
+        836,
+        905,
+        87,
+        99
+       ]
+      },
+      {
+       "symbol": "_buttonFleche_over",
+       "origin": [
+        28.1,
+        25.1
+       ],
+       "rect": [
+        1264,
+        538,
+        57,
+        50
+       ]
+      },
+      {
+       "symbol": "txt_CellsResearchDisplay",
+       "data": {
+        "y": -15.85,
+        "text": "XXX",
+        "x": -37.9,
+        "width": 75.8,
+        "font": "25px Times New Roman",
+        "align": "center",
+        "height": 31.7,
+        "wordWrap": 1,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        593,
+        1246,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_Fuse",
+       "data": {
+        "y": -48.45,
+        "text": "Fuse",
+        "x": -162.55,
+        "width": 323.1,
+        "font": "72px Arial",
+        "align": "center",
+        "height": 93.15,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        596,
+        1246,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_inseminate",
+       "data": {
+        "y": -53.05,
+        "text": "Start researching",
+        "x": -325.8,
+        "width": 651.6,
+        "font": "80px Arial",
+        "align": "center",
+        "height": 106.1,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        599,
+        1246,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_skip",
+       "data": {
+        "y": -53.05,
+        "text": "Skip",
+        "x": -152,
+        "width": 298.5,
+        "font": "80px Arial",
+        "align": "center",
+        "height": 95.3,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        602,
+        1246,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_timer",
+       "data": {
+        "y": -35.75,
+        "text": "< x h xx min >",
+        "x": -226.35,
+        "width": 432.6,
+        "font": "60px Arial",
+        "align": "center",
+        "height": 61.75,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        605,
+        1246,
+        1,
+        1
+       ]
+      },
+      {
+       "symbol": "txt_xenoName",
+       "data": {
+        "y": -30.3,
+        "text": "Schema Name",
+        "x": -142.4,
+        "width": 341.15,
+        "font": "50px Arial",
+        "align": "left",
+        "height": 59.85,
+        "wordWrap": 0,
+        "color": "#FFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "rect": [
+        608,
+        1246,
+        1,
+        1
+       ]
+      }
+     ]
+    },
+    {
+     "file": "atlas1.png",
+     "textures": [
+      {
+       "symbol": "_buttonCell2_up",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        1,
+        1,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonGene_up",
+       "origin": [
+        99.4,
+        99.4
+       ],
+       "rect": [
+        202,
+        1,
+        199,
+        199
+       ]
+      },
+      {
+       "symbol": "_buttonSkipUpgradeCenter_up",
+       "origin": [
+        196.85,
+        44.2
+       ],
+       "rect": [
+        1,
+        202,
+        394,
+        90
+       ]
+      },
+      {
+       "symbol": "_buttonSkipUpgradeCenter_over",
+       "origin": [
+        196.2,
+        44.65
+       ],
+       "rect": [
+        1,
+        294,
+        394,
+        90
+       ]
+      },
+      {
+       "symbol": "_buttonSkipUpgradeCenter_down",
+       "origin": [
+        197.7,
+        45.2
+       ],
+       "rect": [
+        1,
+        386,
+        394,
+        90
+       ]
+      },
+      {
+       "symbol": "ResearchCenter_spriteXenoAvatar",
+       "origin": [
+        60.55,
+        66.05
+       ],
+       "rect": [
+        1,
+        478,
+        121,
+        133
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "pivot": [
+        472.275,
+        71.85
+       ],
+       "tweened": false,
+       "loc": [
+        -9.2625,
+        442.05
+       ],
+       "index": 0,
+       "ref": "CellsPanel_spriteBackground",
+       "duration": 1
+      }
+     ],
+     "name": "CellsPanel_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        296.4,
+        412.5
+       ],
+       "scale": [
+        0.6716,
+        0.4618
+       ],
+       "index": 0,
+       "ref": "~btn_Fuse",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Fuse"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        97.65,
+        474
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #9"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -28.35,
+        474
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #8"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -154.35,
+        474
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #7"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -278.1,
+        474
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #6"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -401.1,
+        474
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #5"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -401.1,
+        411.75
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #4"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -278.1,
+        411.75
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #3"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -154.35,
+        411.75
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #2"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -28.35,
+        411.75
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2 #1"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        96.15,
+        411.75
+       ],
+       "scale": [
+        0.3698,
+        0.2099
+       ],
+       "index": 0,
+       "ref": "~btn_Cell2",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Cell2"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "pivot": [
+        482.1375,
+        304.35
+       ],
+       "tweened": false,
+       "loc": [
+        -166.5375,
+        8.85
+       ],
+       "scale": [
+        1.1653,
+        1
+       ],
+       "index": 0,
+       "ref": "ResearchCenter_spriteBackground",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -57.6375,
+        -53.8875
+       ],
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoListUpgrading",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipXenoListUpgrading"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        15.825,
+        -55.4625
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Curseur",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Curseur #2"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        276.825,
+        -55.4625
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Curseur",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Curseur #1"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        276.9,
+        -255.75
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Plus",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Plus #2"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        -252,
+        137.325
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Moins",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Moins #2"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        16.65,
+        137.25
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Moins",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Moins #1"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        277.65,
+        137.25
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Moins",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Moins"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        -250.275,
+        -55.4625
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Curseur",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Curseur"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        -252.15,
+        -249.7875
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Plus",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Plus #1"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        15.9,
+        -255
+       ],
+       "scale": [
+        0.307,
+        0.307
+       ],
+       "index": 0,
+       "ref": "~btn_Plus",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Plus"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -594.1875,
+        9.5625
+       ],
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoList",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipXenoList"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -70.5375,
+        246.9375
+       ],
+       "scale": [
+        0.6833,
+        0.6833
+       ],
+       "index": 0,
+       "ref": "~btn_Inseminate",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Inseminate"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -68.175,
+        256.425
+       ],
+       "scale": [
+        0.9233,
+        0.8525
+       ],
+       "index": 0,
+       "ref": "~btn_SkipUpgradeCenter",
+       "duration": 1
+      }
+     ],
+     "name": "btn_SkipUpgradeCenter"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -60.75,
+        196.125
+       ],
+       "index": 0,
+       "ref": "txt_timer",
+       "duration": 1
+      }
+     ],
+     "name": "txt_timer"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "loc": [
+        -588.75,
+        -264.375
+       ],
+       "index": 0,
+       "ref": "~btn_Fleche",
+       "duration": 1
+      }
+     ],
+     "name": "btn_Fleche #1"
+    },
+    {
+     "keyframes": [
+      {
+       "data": {
+        "UIPosition_Desktop": "right",
+        "UIPosition": "right"
+       },
+       "tweened": false,
+       "duration": 1,
+       "loc": [
+        -588.75,
+        286.125
+       ],
+       "index": 0,
+       "ref": "~btn_Fleche",
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "btn_Fleche"
+    }
+   ],
+   "id": "ResearchCenter"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        60.15,
+        47.4
+       ],
+       "tweened": false,
+       "loc": [
+        1.2,
+        1.9875
+       ],
+       "scale": [
+        0.5434,
+        0.5434
+       ],
+       "index": 0,
+       "ref": "ResearchCenter_spriteCellQuantityBG",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_spriteCellQuantityBG"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -4.8,
+        -0.2625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_CellsResearchDisplay",
+       "duration": 1
+      }
+     ],
+     "name": "txt_CellsResearchDisplay"
+    }
+   ],
+   "id": "~ResearchCenter_clipCellQuantity"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        26.5125,
+        196.9875
+       ],
+       "tweened": false,
+       "loc": [
+        38.25,
+        0
+       ],
+       "index": 0,
+       "ref": "ResearchCenter_spriteExperienceBg",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_spriteExperienceBg"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -29.9625,
+        0.375
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipCellQuantity",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipCellQuantity"
+    }
+   ],
+   "id": "~ResearchCenter_clipExperience"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "loc": [
+        1.05,
+        -98.25
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnit",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_clipXenoUnit"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        1.05,
+        2.5875
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnit",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_clipXenoUnit"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        1.05,
+        104.775
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnit",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_clipXenoUnit"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        1.05,
+        206.6625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnit",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_clipXenoUnit"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        1.05,
+        -198.3375
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnit",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_clipXenoUnit"
+    }
+   ],
+   "id": "~ResearchCenter_clipXenoList"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -261.9375,
+        -1.575
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnitUpgrading",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipXenoUnitUpgrading #2"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        1.4625,
+        -1.575
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnitUpgrading",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipXenoUnitUpgrading #1"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        264.3,
+        -1.575
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipXenoUnitUpgrading",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipXenoUnitUpgrading"
+    }
+   ],
+   "id": "~ResearchCenter_clipXenoListUpgrading"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        192.45,
+        93.225
+       ],
+       "tweened": false,
+       "loc": [
+        -1.05,
+        -0.15
+       ],
+       "scale": [
+        0.5602,
+        0.4716
+       ],
+       "index": 0,
+       "ref": "ResearchCenter_spriteXenoUnitBG",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_spriteXenoUnitBG"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        60.5625,
+        66.0375
+       ],
+       "tweened": false,
+       "loc": [
+        -0.4875,
+        13.1625
+       ],
+       "scale": [
+        1.4697,
+        0.3871
+       ],
+       "index": 0,
+       "ref": "ResearchCenter_spriteXenoAvatar",
+       "duration": 1
+      }
+     ],
+     "name": "UpgradeCenter_spriteXenoAvatar"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "loc": [
+        -12.3375,
+        -31.1625
+       ],
+       "scale": [
+        0.5852,
+        0.5852
+       ],
+       "index": 0,
+       "ref": "txt_xenoName",
+       "duration": 1
+      }
+     ],
+     "name": "txt_xenoName"
+    }
+   ],
+   "id": "~ResearchCenter_clipXenoUnit"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        133.875,
+        195.4875
+       ],
+       "tweened": false,
+       "loc": [
+        0.4875,
+        -0.975
+       ],
+       "scale": [
+        0.7359,
+        1.1001
+       ],
+       "index": 0,
+       "ref": "ResearchCenter_spriteXenoUpgrading",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_spriteXenoUpgrading"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        38.25,
+        -1.05
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "~ResearchCenter_clipExperience",
+       "duration": 1
+      }
+     ],
+     "name": "ResearchCenter_clipExperience"
+    }
+   ],
+   "id": "~ResearchCenter_clipXenoUnitUpgrading"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        99.375,
+        99.375
+       ],
+       "index": 0,
+       "ref": "_buttonCell2_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        99.375,
+        99.375
+       ],
+       "index": 1,
+       "ref": "_buttonCell2_Over",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        99.375,
+        99.375
+       ],
+       "index": 2,
+       "ref": "_buttonCell2_Down",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        99.375,
+        99.375
+       ],
+       "index": 3,
+       "ref": "_buttonCell2_Hit",
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~btn_Cell2"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        146.25,
+        146.5125
+       ],
+       "index": 0,
+       "ref": "_buttonCurseur_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "tweened": false,
+       "loc": [
+        -1.2,
+        -0.3
+       ],
+       "scale": [
+        2.0671,
+        2.0671
+       ],
+       "index": 1,
+       "ref": "_buttonCurseur_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9375,
+        -1.6125
+       ],
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "ref": "_buttonCurseur_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "tweened": false,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "index": 3,
+       "ref": "_buttonCurseur_hit",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "~btn_Curseur"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        42.7125,
+        48.7875
+       ],
+       "tweened": false,
+       "duration": 1,
+       "scale": [
+        0.5404,
+        0.5404
+       ],
+       "index": 0,
+       "ref": "_buttonFleche_up",
+       "skew": [
+        -1.5708,
+        -1.5708
+       ]
+      },
+      {
+       "pivot": [
+        28.1625,
+        24.6375
+       ],
+       "tweened": false,
+       "loc": [
+        -0.1125,
+        -1.125
+       ],
+       "index": 1,
+       "ref": "_buttonFleche_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        48.975,
+        43.2
+       ],
+       "tweened": false,
+       "loc": [
+        -0.2333,
+        -0.4543
+       ],
+       "scale": [
+        0.5928,
+        0.5928
+       ],
+       "index": 2,
+       "ref": "_buttonFleche_down",
+       "duration": 2
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~btn_Fleche"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        305.2875,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        -1.4625,
+        -0.75
+       ],
+       "scale": [
+        0.4028,
+        1
+       ],
+       "index": 0,
+       "ref": "_buttonFuse_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        305.2875,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        0.0375,
+        0
+       ],
+       "scale": [
+        0.4004,
+        1
+       ],
+       "index": 1,
+       "ref": "_buttonFuse_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        305.2875,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        0.0375,
+        0
+       ],
+       "scale": [
+        0.4029,
+        1
+       ],
+       "index": 2,
+       "ref": "_buttonFuse_down",
+       "duration": 2
+      }
+     ],
+     "name": "_buttonContinue"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -1.5,
+        -0.8625
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_Fuse",
+       "duration": 4
+      }
+     ],
+     "name": "txt_Destroy"
+    }
+   ],
+   "id": "~btn_Fuse"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        305.2875,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        -0.7125,
+        -0.75
+       ],
+       "index": 0,
+       "ref": "_buttonInseminate_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        305.25,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        -0.6,
+        -1.3125
+       ],
+       "index": 1,
+       "ref": "_buttonInseminate_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        305.25,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        -1.5,
+        -1.425
+       ],
+       "index": 2,
+       "ref": "_buttonInseminate_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        305.25,
+        59.8125
+       ],
+       "tweened": false,
+       "loc": [
+        -1.3125,
+        -1.275
+       ],
+       "index": 3,
+       "ref": "_buttonInseminate_down",
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -0.75,
+        -0.75
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_inseminate",
+       "duration": 3
+      },
+      {
+       "index": 3,
+       "duration": 1
+      }
+     ],
+     "name": "txt_Inseminate"
+    }
+   ],
+   "id": "~btn_Inseminate"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        144.1125,
+        72.375
+       ],
+       "index": 0,
+       "ref": "_buttonMoins_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        144.6,
+        71.1
+       ],
+       "tweened": false,
+       "loc": [
+        -1.2,
+        -0.3
+       ],
+       "scale": [
+        0.9655,
+        0.9655
+       ],
+       "index": 1,
+       "ref": "_buttonMoins_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9375,
+        -1.6125
+       ],
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "ref": "_buttonMoins_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "tweened": false,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "scale": [
+        1.3585,
+        0.57
+       ],
+       "index": 3,
+       "ref": "_buttonMoins_hit",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "~btn_Moins"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        146.3625,
+        72.3375
+       ],
+       "index": 0,
+       "ref": "_buttonPlus_up",
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        147.2625,
+        73.9875
+       ],
+       "tweened": false,
+       "loc": [
+        -1.2,
+        -0.3
+       ],
+       "scale": [
+        0.9655,
+        0.9655
+       ],
+       "index": 1,
+       "ref": "_buttonPlus_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "tweened": false,
+       "loc": [
+        -0.9375,
+        -1.6125
+       ],
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "ref": "_buttonPlus_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "tweened": false,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "scale": [
+        1.3585,
+        0.57
+       ],
+       "index": 3,
+       "ref": "_buttonPlus_hit",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "~btn_Plus"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        196.8375,
+        44.2125
+       ],
+       "tweened": false,
+       "loc": [
+        -0.7125,
+        -0.75
+       ],
+       "index": 0,
+       "ref": "_buttonSkipUpgradeCenter_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        196.2,
+        44.6625
+       ],
+       "tweened": false,
+       "loc": [
+        -0.5625,
+        -1.3125
+       ],
+       "index": 1,
+       "ref": "_buttonSkipUpgradeCenter_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        197.7,
+        45.225
+       ],
+       "tweened": false,
+       "loc": [
+        -1.4625,
+        -1.425
+       ],
+       "index": 2,
+       "ref": "_buttonSkipUpgradeCenter_down",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        197.7,
+        45.225
+       ],
+       "tweened": false,
+       "loc": [
+        -1.275,
+        -1.275
+       ],
+       "index": 3,
+       "ref": "_buttonSkipUpgradeCenter_down",
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -0.75,
+        4.5
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "txt_skip",
+       "duration": 3
+      },
+      {
+       "index": 3,
+       "duration": 1
+      }
+     ],
+     "name": "txt_Skip"
+    }
+   ],
+   "id": "~btn_SkipUpgradeCenter"
+  }
+ ],
+ "md5": "36fb9f60d5e4dcbdf9584fa232cb35da",
+ "frameRate": 24
+}

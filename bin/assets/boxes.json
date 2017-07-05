@@ -1,0 +1,530 @@
+{
+	"DestructibleCrater3_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleCoral3": {},
+	"AlienTrainingCenter_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienPaddock": {},
+	"DestructibleWreck_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock7_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"BuildingCosmeticPlant3": {},
+	"DrillingCenter_box": {
+		"mcGlobalBox": {
+			"height": 500,
+			"x": -450,
+			"width": 1000,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DrillingOutPost_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienIncubator_box": {
+		"mcGlobalBox": {
+			"height": 450,
+			"x": -200,
+			"width": 900,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleGeyser1_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock1_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienPaddockBig": {},
+	"UrbanPowerStation_box": {
+		"mcGlobalBox": {
+			"height": 350,
+			"x": -250,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock2": {},
+	"DestructibleCoral2_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleSkeleton": {},
+	"DestructibleCoral4": {},
+	"AlienPaddockBig_box": {
+		"mcGlobalBox": {
+			"height": 212.9,
+			"x": -182,
+			"width": 452.8,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"Background_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"BuildingCosmeticPlant3_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"BuildingCosmeticCapsule1": {},
+	"UrbanTranslation": {},
+	"DestructibleSkeleton_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleGeyser2": {},
+	"DestructibleGeyser2_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300.05,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienPaddockMedium": {},
+	"DestructibleCoral1_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock2_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"flash.display::MovieClip": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock3": {},
+	"UrbanTranslation_box": {
+		"mcGlobalBox": {
+			"height": 200,
+			"x": -200,
+			"width": 400,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleTumor": {},
+	"DestructibleCoral5": {},
+	"DestructibleMineral2": {},
+	"BuildingCosmeticCapsule1_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock4": {},
+	"DestructibleCoral4_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"CosmeticFluoAlga": {},
+	"DestructibleMineral": {},
+	"AlienPaddockMedium_box": {
+		"mcGlobalBox": {
+			"height": 162.15,
+			"x": -170.75,
+			"width": 341.4,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienPaddockSmall": {},
+	"BuildingCosmeticCapsule2": {},
+	"Template_box": {
+		"mcGlobalBox": {
+			"x": 0,
+			"radius": 100,
+			"type": "Circle",
+			"y": 0
+		},
+		"mcPoint2": {
+			"x": 64.6,
+			"type": "Point",
+			"y": 71
+		},
+		"mcPoint1": {
+			"x": 68.6,
+			"type": "Point",
+			"y": -73
+		},
+		"mcPoint3": {
+			"x": -102.6,
+			"type": "Point",
+			"y": -1
+		},
+		"mcPoint0": {
+			"x": 0,
+			"type": "Point",
+			"y": 0
+		}
+	},
+	"BuildingCosmeticCapsule2_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleWreck": {},
+	"DestructibleCrater1": {},
+	"AlienPaddockSmall_box": {
+		"mcGlobalBox": {
+			"height": 181.2,
+			"x": -78.7,
+			"width": 341.4,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock4_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"UrbanAntenna": {},
+	"BuildingCosmeticCapsule3": {},
+	"DestructibleCoral5_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"CosmeticFluoAlga2_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleMineral2_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleMineral_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock8_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -299.95,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienPaddockTiny": {},
+	"DestructibleCoral3_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock5": {},
+	"CosmeticFluoAlga2": {},
+	"BuildingCosmeticCapsule3_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DrillingAutoOutPost": {},
+	"DestructibleCrater2": {},
+	"AlienPaddockTiny_box": {
+		"mcGlobalBox": {
+			"height": 117.75,
+			"x": -67.55,
+			"width": 135.1,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"UrbanAntenna_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock5_box": {
+		"mcGlobalBox": {
+			"height": 500,
+			"x": -500,
+			"width": 1000,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"UrbanCommunication": {},
+	"BuildingCosmeticPlant1": {},
+	"DestructibleCrater1_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleCoral1": {},
+	"DestructiblePebbles1": {},
+	"AlienCryoCenter": {},
+	"DestructiblePebbles2": {},
+	"DestructibleRock6": {},
+	"UrbanCommunication_box": {
+		"instance200": {
+			"height": 200,
+			"x": -100,
+			"width": 400,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DrillingAutoOutPost_box": {
+		"mcGlobalBox": {
+			"height": 200,
+			"x": -200,
+			"width": 400,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DrillingCenter": {},
+	"DestructiblePebbles1_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleCrater3": {},
+	"AlienTrainingCenter": {},
+	"BuildingCosmeticPlant1_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"UrbanHeadQuarter": {},
+	"BuildingCosmeticPlant2": {},
+	"DestructibleCrater2_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleCoral2": {},
+	"AlienPaddock_box": {
+		"mcGlobalBox": {
+			"height": 500,
+			"x": -500,
+			"width": 1000,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienIncubator": {},
+	"DestructibleTumor_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock1": {},
+	"DestructibleRock6_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleRock7": {},
+	"UrbanHeadQuarter_box": {
+		"mcGlobalBox": {
+			"height": 600,
+			"x": -600,
+			"width": 1200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"CosmeticFluoAlga_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"AlienCryoCenter_box": {
+		"mcGlobalBox": {
+			"height": 350,
+			"x": -300,
+			"width": 700,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DrillingOutPost": {},
+	"DestructiblePebbles2_box": {
+		"mcGlobalBox": {
+			"height": 300,
+			"x": -300,
+			"width": 600,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"DestructibleGeyser1": {},
+	"Background": {},
+	"BuildingCosmeticPlant2_box": {
+		"mcGlobalBox": {
+			"height": 100,
+			"x": -100,
+			"width": 200,
+			"type": "Rectangle",
+			"y": 0
+		}
+	},
+	"UrbanPowerStation": {},
+	"DestructibleRock8": {}
+}

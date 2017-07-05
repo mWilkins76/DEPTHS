@@ -1,0 +1,1020 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "DailyReward_spriteBackground",
+       "rect": [
+        1,
+        1,
+        1781,
+        668
+       ],
+       "origin": [
+        890.5,
+        334
+       ]
+      },
+      {
+       "symbol": "DailyReward_buttonItemNormal_up",
+       "rect": [
+        1,
+        671,
+        445,
+        263
+       ],
+       "origin": [
+        222.4,
+        131.2
+       ]
+      },
+      {
+       "symbol": "DailyReward_buttonItemNormal_over",
+       "rect": [
+        448,
+        671,
+        445,
+        263
+       ],
+       "origin": [
+        222.4,
+        131.2
+       ]
+      },
+      {
+       "symbol": "DailyReward_buttonItemNormal_down",
+       "rect": [
+        895,
+        671,
+        445,
+        263
+       ],
+       "origin": [
+        222.4,
+        131.2
+       ]
+      },
+      {
+       "symbol": "DailyReward_buttonItemDisabled",
+       "rect": [
+        1342,
+        671,
+        445,
+        263
+       ],
+       "origin": [
+        222.4,
+        131.2
+       ]
+      },
+      {
+       "symbol": "DailyRewardItemAsset",
+       "rect": [
+        1784,
+        1,
+        158,
+        142
+       ],
+       "origin": [
+        78.95,
+        70.9
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 1</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day1Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1944,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 2</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 91.85,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day2Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1947,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 3</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day3Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1950,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 4</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day4Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1953,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 5</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day5Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1956,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 6</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day6Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1959,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 7</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 91.85,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day7Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1962,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 8</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day8Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1965,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 9</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day9Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1968,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -30.7,
+        "wordWrap": 1,
+        "text": "Day 10</BR>Reward",
+        "width": 89.2,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66,
+        "font": "25px Alegreya Sans Medium",
+        "x": -44.6
+       },
+       "symbol": "DailyReward_txt_Day10Reward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1971,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -16.75,
+        "wordWrap": 1,
+        "text": "Maxi Reward",
+        "width": 162.35,
+        "color": "#070B31",
+        "align": "center",
+        "height": 34,
+        "font": "25px Alegreya Sans Medium",
+        "x": -81.15
+       },
+       "symbol": "DailyReward_txt_MaxiReward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1974,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -75,
+        "wordWrap": 1,
+        "text": "Welcome,</BR>Choose your daily reward !",
+        "width": 929.3,
+        "color": "#070B31",
+        "align": "center",
+        "height": 150,
+        "font": "bold 60px Alegreya Sans SC ExtraBold",
+        "x": -464.65
+       },
+       "symbol": "DailyReward_txt_WelcomeReward",
+       "baseClass": "TextSprite",
+       "rect": [
+        1977,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "id": "DailyReward",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        890.5,
+        334
+       ],
+       "ref": "DailyReward_spriteBackground"
+      }
+     ],
+     "name": "DailyReward_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -690.5,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day1Reward"
+      }
+     ],
+     "name": "Txt_Day1Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -560.8,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day2Reward"
+      }
+     ],
+     "name": "Txt_Day2Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -426.35,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day3Reward"
+      }
+     ],
+     "name": "Txt_Day3Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -296.7,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day4Reward"
+      }
+     ],
+     "name": "Txt_Day4Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -162.3,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day5Reward"
+      }
+     ],
+     "name": "Txt_Day5Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -29.45,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day6Reward"
+      }
+     ],
+     "name": "Txt_Day6Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        104.95,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day7Reward"
+      }
+     ],
+     "name": "Txt_Day7Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        236.15,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day8Reward"
+      }
+     ],
+     "name": "Txt_Day8Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        370.55,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day9Reward"
+      }
+     ],
+     "name": "Txt_Day9Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        501.8,
+        100.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_Day10Reward"
+      }
+     ],
+     "name": "Txt_Day10Reward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        677,
+        114.55
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_MaxiReward"
+      }
+     ],
+     "name": "Txt_MaxiReward"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.05,
+        12.3
+       ],
+       "pivot": [
+        1.85,
+        -0.3
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~DailyReward_clipItemContainer"
+      }
+     ],
+     "name": "ItemContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        13.75,
+        -172.9
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_txt_WelcomeReward"
+      }
+     ],
+     "name": "txt_WelcomeReward"
+    }
+   ]
+  },
+  {
+   "id": "~DailyReward_btn_ItemDisabled",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.05,
+        -0.05
+       ],
+       "pivot": [
+        222.35,
+        131.15
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyReward_buttonItemDisabled"
+      }
+     ],
+     "name": "_buttonItemDisabled"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -1.45,
+        0.15
+       ],
+       "pivot": [
+        79,
+        70.9
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "DailyRewardItemAsset"
+      }
+     ],
+     "name": "ItemAsset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~DailyReward_btn_ItemNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        222.4,
+        131.2
+       ],
+       "ref": "DailyReward_buttonItemNormal_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        222.4,
+        131.2
+       ],
+       "ref": "DailyReward_buttonItemNormal_over"
+      },
+      {
+       "duration": 2,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        222.4,
+        131.2
+       ],
+       "ref": "DailyReward_buttonItemNormal_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -4,
+        0
+       ],
+       "tweened": false,
+       "scale": [
+        1.2855,
+        1.2855
+       ],
+       "index": 0,
+       "pivot": [
+        78.95,
+        70.9
+       ],
+       "ref": "DailyRewardItemAsset"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "id": "~DailyReward_clipItemContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -683.8522,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #10"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -551.9022,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #9"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -419.9522,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #8"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -288.0022,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #7"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -156.0522,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #6"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -24.1022,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #5"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        107.8478,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #4"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        239.7978,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #3"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        371.7478,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        503.6978,
+        0.0013
+       ],
+       "tweened": false,
+       "scale": [
+        0.3661,
+        0.366
+       ],
+       "index": 0,
+       "pivot": [
+        0.95,
+        0.55
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        687.6858,
+        0.1135
+       ],
+       "tweened": false,
+       "scale": [
+        0.5858,
+        0.5855
+       ],
+       "index": 0,
+       "pivot": [
+        1,
+        0.45
+       ],
+       "ref": "~DailyReward_clipSwitchItem"
+      }
+     ],
+     "name": "SwitchItem"
+    }
+   ]
+  },
+  {
+   "id": "~DailyReward_clipSwitchItem",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.05,
+        -0.05
+       ],
+       "pivot": [
+        -0.05,
+        -0.05
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~DailyReward_btn_ItemDisabled"
+      }
+     ],
+     "name": "ItemDisabled"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.3,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~DailyReward_btn_ItemNormal"
+      }
+     ],
+     "name": "ItemNormal"
+    }
+   ]
+  }
+ ],
+ "md5": "742d84eaf0e13ba0d454f50ef9f8be34"
+}

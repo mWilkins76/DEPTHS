@@ -1,0 +1,74 @@
+
+@font-face {
+    font-family: 'Alegreya-Black';
+    src: url('Alegreya-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Alegreya-BlackItalic';
+    src: url('Alegreya-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya-Bold';
+    src: url('Alegreya-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya-BoldItalic';
+    src: url('Alegreya-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya-Italic';
+    src: url('Alegreya-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Alegreya-Regular';
+    src: url('Alegreya-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AlegreyaSC-Black';
+    src: url('AlegreyaSC-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AlegreyaSC-BlackItalic';
+    src: url('AlegreyaSC-BlackItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AlegreyaSC-Bold';
+    src: url('AlegreyaSC-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AlegreyaSC-BoldItalic';
+    src: url('AlegreyaSC-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AlegreyaSC-Italic';
+    src: url('AlegreyaSC-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AlegreyaSC-Regular';
+    src: url('AlegreyaSC-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

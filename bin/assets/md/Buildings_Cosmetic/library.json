@@ -1,0 +1,270 @@
+{
+ "md5": "e97fc25b4e93e63cde7e3a5fa7c90f11",
+ "frameRate": 60,
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        591,
+        595
+       ],
+       "symbol": "BuildingCosmeticCapsule1Sprite",
+       "origin": [
+        295.1,
+        297.4
+       ]
+      },
+      {
+       "rect": [
+        1,
+        598,
+        573,
+        597
+       ],
+       "symbol": "BuildingCosmeticCapsule3Sprite",
+       "origin": [
+        286.5,
+        298.5
+       ]
+      },
+      {
+       "rect": [
+        576,
+        598,
+        404,
+        527
+       ],
+       "symbol": "BuildingCosmeticPlant3Sprite",
+       "origin": [
+        201.75,
+        263.25
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        568,
+        585
+       ],
+       "symbol": "BuildingCosmeticCapsule2Sprite",
+       "origin": [
+        283.9,
+        292.5
+       ]
+      },
+      {
+       "rect": [
+        1,
+        588,
+        501,
+        415
+       ],
+       "symbol": "BuildingCosmeticPlant2Sprite",
+       "origin": [
+        250.5,
+        207.4
+       ]
+      },
+      {
+       "rect": [
+        504,
+        588,
+        505,
+        390
+       ],
+       "symbol": "BuildingCosmeticPlant1Sprite",
+       "origin": [
+        252.4,
+        194.6
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    }
+   ]
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "BuildingCosmeticCapsule1Sprite",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -0.5625,
+        -7.725
+       ],
+       "pivot": [
+        295.125,
+        297.375
+       ],
+       "scale": [
+        0.2846,
+        0.2846
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "BuildingCosmeticCapsule1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "BuildingCosmeticCapsule2Sprite",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -0.5625,
+        -7.725
+       ],
+       "pivot": [
+        283.875,
+        292.5
+       ],
+       "scale": [
+        0.2846,
+        0.2846
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "BuildingCosmeticCapsule2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "BuildingCosmeticCapsule3Sprite",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        -0.5625,
+        -7.725
+       ],
+       "pivot": [
+        286.5,
+        298.5
+       ],
+       "scale": [
+        0.2846,
+        0.2846
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "BuildingCosmeticCapsule3"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "BuildingCosmeticPlant1Sprite",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        12.975,
+        -16.0125
+       ],
+       "pivot": [
+        252.375,
+        194.625
+       ],
+       "scale": [
+        0.3933,
+        0.3933
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "BuildingCosmeticPlant1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "BuildingCosmeticPlant2Sprite",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        0,
+        -4.575
+       ],
+       "pivot": [
+        250.5,
+        207.375
+       ],
+       "scale": [
+        0.3933,
+        0.3933
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "BuildingCosmeticPlant2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "BuildingCosmeticPlant3Sprite",
+       "duration": 1,
+       "tweened": false,
+       "loc": [
+        8.3625,
+        -27.45
+       ],
+       "pivot": [
+        201.75,
+        263.25
+       ],
+       "scale": [
+        0.3933,
+        0.3933
+       ],
+       "index": 0
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "BuildingCosmeticPlant3"
+  }
+ ]
+}

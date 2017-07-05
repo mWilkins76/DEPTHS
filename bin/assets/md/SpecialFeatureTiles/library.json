@@ -1,0 +1,1174 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "spriteClueRessource1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        1,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteAlien2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        1,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteAlien3",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        305,
+        1,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueBluePrint0",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        457,
+        1,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueBluePrint1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        609,
+        1,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueBluePrint2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        761,
+        1,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueEmpty0",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        116,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueEmpty1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        116,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueEmpty2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        305,
+        116,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueEmptyBlue",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        457,
+        116,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueEmptyGreen",
+       "origin": [
+        75,
+        57.75
+       ],
+       "rect": [
+        609,
+        116,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueEmptyOrange",
+       "origin": [
+        76.5,
+        58.5
+       ],
+       "rect": [
+        761,
+        116,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueHardBrick0",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        231,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueHardBrick1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        231,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueHardBrick2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        305,
+        231,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueResource2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        457,
+        231,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteClueRessource0",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        609,
+        231,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteAlien1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        761,
+        231,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemBluePrint",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        346,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemBPP",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        461,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemDM",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        576,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemG1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        691,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemG2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        1,
+        806,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemG3",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        346,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemG4",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        305,
+        346,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemG5",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        457,
+        346,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemHC",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        609,
+        346,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteItemSC",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        761,
+        346,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteLava0",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        461,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteLava1",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        576,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteLava2",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        691,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteWallBot",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        153,
+        806,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteWallLeft",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        305,
+        461,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteWallRight",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        457,
+        461,
+        150,
+        113
+       ]
+      },
+      {
+       "symbol": "spriteWallTop",
+       "origin": [
+        75,
+        56.25
+       ],
+       "rect": [
+        609,
+        461,
+        150,
+        113
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteAlien1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Alien1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteAlien2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Alien2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteAlien3",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Alien3"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueBluePrint0",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueBluePrint0"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueBluePrint1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueBluePrint1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueBluePrint2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueBluePrint2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueEmpty0",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueEmpty0"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueEmpty1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueEmpty1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueEmpty2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueEmpty2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueEmptyBlue",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueEmptyBlue"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueEmptyGreen",
+       "pivot": [
+        75,
+        57.75
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueEmptyGreen"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueEmptyOrange",
+       "pivot": [
+        76.5,
+        58.5
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueEmptyOrange"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueRessource0",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueRessource0"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueRessource1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ClueRessource1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueResource2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "ClueRessource2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueHardBrick0",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "HardBrick0"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueHardBrick1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "HardBrick1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteClueHardBrick2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "HardBrick2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemBluePrint",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemBluePrint"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemBPP",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemBluePrintPart"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemDM",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemDarkMatter"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemG5",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemGeneFive"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemG4",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemGeneFour"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemG1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemGeneOne"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemG3",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemGeneThree"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemG2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemGeneTwo"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemHC",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemHC"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteItemSC",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "ItemSC"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteLava0",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Lava0"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteLava1",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Lava1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteLava2",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Lava2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteWallBot",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "WallBot"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteWallLeft",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "WallLeft"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteWallRight",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "WallRight"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "ref": "spriteWallTop",
+       "pivot": [
+        75,
+        56.25
+       ]
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "WallTop"
+  }
+ ],
+ "md5": "210c26e1ca3de92059ad14b9212e8951",
+ "frameRate": 24
+}

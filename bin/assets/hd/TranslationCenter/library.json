@@ -1,0 +1,924 @@
+{
+ "movies": [
+  {
+   "id": "TranslationCenter",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        767.55,
+        414.25
+       ],
+       "loc": [
+        -6.95,
+        -20.75
+       ],
+       "ref": "TranslationCenter_spriteBackground",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.05,
+        0.15
+       ],
+       "loc": [
+        103.3,
+        262.6
+       ],
+       "ref": "~TranslationCenter_btn_Translate",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_btn_Translate"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "loc": [
+        104.25,
+        266.85
+       ],
+       "ref": "~TranslationCenter_clipTimerWindow",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_TimerWindow"
+    },
+    {
+     "keyframes": [
+      {
+       "scale": [
+        0.6997,
+        0.6997
+       ],
+       "tweened": false,
+       "loc": [
+        454,
+        255.65
+       ],
+       "ref": "~TranslationCenter_btn_SkipTime",
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_btn_SkipTime"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        96,
+        -0.05
+       ],
+       "loc": [
+        92.55,
+        31.15
+       ],
+       "ref": "~TranslationCenter_clipParchment",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_clipSwitchParchment"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -80.2,
+        -297.55
+       ],
+       "ref": "TranslationCenter_txt_TranslationCenter",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_txt_TranslationCenter"
+    },
+    {
+     "keyframes": [
+      {
+       "scale": [
+        0.4529,
+        0.4529
+       ],
+       "tweened": false,
+       "loc": [
+        669,
+        -333.25
+       ],
+       "ref": "~TranslationCenter_btn_Close",
+       "index": 0,
+       "duration": 1
+      }
+     ],
+     "name": "btn_Close"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "TranslationCenter_buttonClose_up",
+       "index": 0,
+       "pivot": [
+        163,
+        153
+       ],
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "ref": "TranslationCenter_buttonClose_over",
+       "index": 1,
+       "pivot": [
+        163,
+        153
+       ],
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "ref": "TranslationCenter_buttonClose_down",
+       "index": 2,
+       "pivot": [
+        163,
+        153
+       ],
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        135,
+        135
+       ],
+       "loc": [
+        -1.45,
+        -1.05
+       ],
+       "ref": "TranslationCenter_buttonClose_hit",
+       "index": 3,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "~TranslationCenter_btn_Close"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "TranslationCenter_btn_SkipTime_Up",
+       "index": 0,
+       "pivot": [
+        116.55,
+        130.9
+       ],
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        133.2,
+        149.6
+       ],
+       "loc": [
+        -1.5,
+        -1.05
+       ],
+       "ref": "TranslationCenter_btn_SkipTime_Down",
+       "index": 1,
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        116.55,
+        130.9
+       ],
+       "loc": [
+        -1.5,
+        -1.05
+       ],
+       "ref": "TranslationCenter_btn_SkipTime_Over",
+       "index": 2,
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        116.55,
+        130.9
+       ],
+       "loc": [
+        -1.5,
+        -1.05
+       ],
+       "ref": "TranslationCenter_btn_SkipTime_Over",
+       "index": 3,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "~TranslationCenter_btn_SkipTime"
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "ref": "TranslationCenter_buttonTranslate_up",
+       "index": 0,
+       "pivot": [
+        225,
+        76
+       ],
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        224.95,
+        76
+       ],
+       "loc": [
+        -0.05,
+        0
+       ],
+       "ref": "TranslationCenter_buttonTranslate_over",
+       "index": 1,
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        224.95,
+        76
+       ],
+       "loc": [
+        -0.05,
+        0
+       ],
+       "ref": "TranslationCenter_buttonTranslate_down",
+       "index": 2,
+       "tweened": false,
+       "duration": 1
+      },
+      {
+       "pivot": [
+        224.95,
+        76
+       ],
+       "loc": [
+        -0.05,
+        0
+       ],
+       "ref": "TranslationCenter_buttonTranslate_down",
+       "index": 3,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0,
+        -0.05
+       ],
+       "loc": [
+        -132.6,
+        -5.05
+       ],
+       "ref": "TranslationCenter_txt_translate",
+       "index": 0,
+       "tweened": false,
+       "duration": 4
+      }
+     ],
+     "name": "txt_translate"
+    }
+   ],
+   "id": "~TranslationCenter_btn_Translate"
+  },
+  {
+   "id": "~TranslationCenter_clipParchment",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        387.15,
+        208.5
+       ],
+       "loc": [
+        -62.25,
+        -54.9
+       ],
+       "ref": "TranslationCenter_spriteParchment",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_spriteParchment"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        -89.5,
+        -116.1
+       ],
+       "ref": "TranslationCenter_txt_ParchmentName",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_txt_ParchmentName"
+    },
+    {
+     "keyframes": [
+      {
+       "loc": [
+        184.9,
+        29.5
+       ],
+       "ref": "TranslationCenter_txt_parchmentCount",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_txt_parchmentCount"
+    }
+   ]
+  },
+  {
+   "id": "~TranslationCenter_clipTimerWindow",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        238.15,
+        80.4
+       ],
+       "loc": [
+        -0.05,
+        0
+       ],
+       "ref": "TranslationCenter_spriteTimerWindow",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_spriteTimerWindow"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        98.95,
+        0
+       ],
+       "loc": [
+        -58.8,
+        -1.5
+       ],
+       "ref": "TranslationCenter_txt_timerWindowtimer",
+       "index": 0,
+       "tweened": false,
+       "duration": 1
+      }
+     ],
+     "name": "TranslationCenter_txt_timerWindowtimer"
+    }
+   ]
+  }
+ ],
+ "md5": "c95c4c9ebdfa0bcc62ee41ba41e441c3",
+ "frameRate": 24,
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        1549,
+        870
+       ],
+       "origin": [
+        774.5,
+        435
+       ],
+       "symbol": "TranslationCenter_spriteBackground"
+      },
+      {
+       "rect": [
+        1552,
+        1,
+        401,
+        468
+       ],
+       "origin": [
+        200.2,
+        233.75
+       ],
+       "symbol": "TranslationCenter_buttonParchmentComplete_Hit"
+      },
+      {
+       "rect": [
+        1552,
+        471,
+        401,
+        468
+       ],
+       "origin": [
+        200.2,
+        233.75
+       ],
+       "symbol": "TranslationCenter_buttonParchmentComplete_Down"
+      },
+      {
+       "rect": [
+        1,
+        873,
+        344,
+        417
+       ],
+       "origin": [
+        387.15,
+        208.5
+       ],
+       "symbol": "TranslationCenter_spriteParchment"
+      },
+      {
+       "rect": [
+        347,
+        873,
+        344,
+        417
+       ],
+       "origin": [
+        222.25,
+        273.25
+       ],
+       "symbol": "TranslationCenter_buttonParchmentComplete_Over"
+      },
+      {
+       "rect": [
+        693,
+        873,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ],
+       "symbol": "TranslationCenter_buttonClose_down"
+      },
+      {
+       "rect": [
+        1021,
+        873,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ],
+       "symbol": "TranslationCenter_buttonClose_up"
+      },
+      {
+       "rect": [
+        1349,
+        941,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ],
+       "symbol": "TranslationCenter_buttonClose_over"
+      },
+      {
+       "rect": [
+        1677,
+        941,
+        276,
+        334
+       ],
+       "origin": [
+        177.8,
+        218.6
+       ],
+       "symbol": "TranslationCenter_buttonParchmentComplete_up"
+      },
+      {
+       "rect": [
+        693,
+        1181,
+        267,
+        300
+       ],
+       "origin": [
+        133.2,
+        149.6
+       ],
+       "symbol": "TranslationCenter_btn_SkipTime_Down"
+      },
+      {
+       "rect": [
+        1,
+        1292,
+        477,
+        161
+       ],
+       "origin": [
+        238.2,
+        80.4
+       ],
+       "symbol": "TranslationCenter_spriteTimerWindow"
+      },
+      {
+       "rect": [
+        962,
+        1181,
+        270,
+        270
+       ],
+       "origin": [
+        135,
+        135
+       ],
+       "symbol": "TranslationCenter_buttonClose_hit"
+      },
+      {
+       "rect": [
+        1234,
+        1249,
+        266,
+        266
+       ],
+       "origin": [
+        132.5,
+        132.5
+       ],
+       "symbol": "TranslationCenter_buttonParchmentUncomplete_Hit"
+      },
+      {
+       "rect": [
+        962,
+        1453,
+        266,
+        266
+       ],
+       "origin": [
+        132.5,
+        132.5
+       ],
+       "symbol": "TranslationCenter_buttonParchmentUncomplete_Over"
+      },
+      {
+       "rect": [
+        1,
+        1455,
+        266,
+        266
+       ],
+       "origin": [
+        132.5,
+        132.5
+       ],
+       "symbol": "TranslationCenter_buttonParchmentUncomplete_up"
+      },
+      {
+       "rect": [
+        269,
+        1455,
+        266,
+        266
+       ],
+       "origin": [
+        132.5,
+        132.5
+       ],
+       "symbol": "TranslationCenter_buttonParchmentUncomplete_Down"
+      },
+      {
+       "rect": [
+        1502,
+        1277,
+        450,
+        152
+       ],
+       "origin": [
+        225,
+        76
+       ],
+       "symbol": "TranslationCenter_buttonTranslate_over"
+      },
+      {
+       "rect": [
+        1502,
+        1431,
+        450,
+        152
+       ],
+       "origin": [
+        225,
+        76
+       ],
+       "symbol": "TranslationCenter_buttonTranslate_up"
+      },
+      {
+       "rect": [
+        1230,
+        1585,
+        450,
+        152
+       ],
+       "origin": [
+        225,
+        76
+       ],
+       "symbol": "TranslationCenter_buttonTranslate_down"
+      },
+      {
+       "rect": [
+        1682,
+        1585,
+        234,
+        262
+       ],
+       "origin": [
+        116.55,
+        130.9
+       ],
+       "symbol": "TranslationCenter_btn_SkipTime_Up"
+      },
+      {
+       "rect": [
+        537,
+        1721,
+        234,
+        262
+       ],
+       "origin": [
+        116.55,
+        130.9
+       ],
+       "symbol": "TranslationCenter_btn_SkipTime_Over"
+      },
+      {
+       "rect": [
+        773,
+        1849,
+        549,
+        100
+       ],
+       "origin": [
+        274.3,
+        50
+       ],
+       "symbol": "TranslationCenter_spriteTimerBG"
+      },
+      {
+       "rect": [
+        480,
+        1292,
+        112,
+        112
+       ],
+       "origin": [
+        55.9,
+        55.9
+       ],
+       "symbol": "TranslationCenter_spriteTimer"
+      },
+      {
+       "rect": [
+        1230,
+        1453,
+        1,
+        1
+       ],
+       "data": {
+        "y": -69.55,
+        "text": "xx",
+        "x": 0,
+        "width": 122,
+        "font": "80px AlegreyaSans-ExtraBold",
+        "align": "left",
+        "height": 100,
+        "wordWrap": 0,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_parchmentCount"
+      },
+      {
+       "rect": [
+        1230,
+        1456,
+        1,
+        1
+       ],
+       "data": {
+        "y": -32,
+        "text": "Parchment",
+        "x": 0,
+        "width": 328.45,
+        "font": "50px AlegreyaSans-Bold",
+        "align": "left",
+        "height": 64,
+        "wordWrap": 0,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_ParchmentName"
+      },
+      {
+       "rect": [
+        1230,
+        1459,
+        1,
+        1
+       ],
+       "data": {
+        "y": -38,
+        "text": "</BR>x",
+        "x": 0,
+        "width": 32.3,
+        "font": "60px AlegreyaSans-ExtraBold",
+        "align": "left",
+        "height": 76,
+        "wordWrap": 0,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_parchmentX"
+      },
+      {
+       "rect": [
+        1230,
+        1462,
+        1,
+        1
+       ],
+       "data": {
+        "y": -21.95,
+        "text": "xxh xxm xxs",
+        "x": 0,
+        "width": 197.9,
+        "font": "36px Times New Roman",
+        "align": "left",
+        "height": 43.9,
+        "wordWrap": 0,
+        "color": "#000000"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_timer"
+      },
+      {
+       "rect": [
+        1230,
+        1465,
+        1,
+        1
+       ],
+       "data": {
+        "y": -46.6,
+        "text": "xxh xxm xxs",
+        "x": -39.15,
+        "width": 407.8,
+        "font": "72px AlegreyaSansSC-ExtraBold",
+        "align": "left",
+        "height": 90.4,
+        "wordWrap": 0,
+        "color": "#BFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_timerWindowtimer"
+      },
+      {
+       "rect": [
+        1230,
+        1468,
+        1,
+        1
+       ],
+       "data": {
+        "y": -32,
+        "text": "TRANSLATE",
+        "x": 0,
+        "width": 280.25,
+        "font": "50px AlegreyaSansSC-ExtraBold",
+        "align": "left",
+        "height": 64,
+        "wordWrap": 0,
+        "color": "#BFFFFF"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_translate"
+      },
+      {
+       "rect": [
+        1230,
+        1471,
+        1,
+        1
+       ],
+       "data": {
+        "y": -42.4,
+        "text": "TRANSLATION CENTER",
+        "x": -447.5,
+        "width": 900.15,
+        "font": "60px AlegreyaSansSC-ExtraBold",
+        "align": "center",
+        "height": 76,
+        "wordWrap": 0,
+        "color": "#070B31"
+       },
+       "baseClass": "TextSprite",
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "TranslationCenter_txt_TranslationCenter"
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ]
+  }
+ ]
+}

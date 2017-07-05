@@ -1,0 +1,85 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "destructibleRockSprite",
+       "rect": [
+        1,
+        1,
+        345,
+        220
+       ],
+       "origin": [
+        187.9,
+        53.65
+       ]
+      },
+      {
+       "symbol": "destructibleRock2Sprite",
+       "rect": [
+        1,
+        223,
+        269,
+        162
+       ],
+       "origin": [
+        167.25,
+        39.6
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        187.875,
+        53.65
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "destructibleRockSprite",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "destructibleRock1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        167.25,
+        39.575
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "destructibleRock2Sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "id": "destructibleRock2"
+  }
+ ],
+ "frameRate": 60,
+ "md5": "26e2d03072bf684bc84285ccba907778"
+}

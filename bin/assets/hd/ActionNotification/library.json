@@ -1,0 +1,1012 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "ActionNotification_spriteBackground",
+       "rect": [
+        1,
+        1,
+        1962,
+        1058
+       ],
+       "origin": [
+        981,
+        529
+       ]
+      },
+      {
+       "symbol": "ActionNotification_spriteTitleBox",
+       "rect": [
+        1,
+        1061,
+        909,
+        137
+       ],
+       "origin": [
+        454.5,
+        68.5
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonClose_over",
+       "rect": [
+        912,
+        1061,
+        359,
+        337
+       ],
+       "origin": [
+        179.3,
+        168.3
+       ]
+      },
+      {
+       "symbol": "ActionNotification_spritePrincipal",
+       "rect": [
+        1273,
+        1061,
+        404,
+        251
+       ],
+       "origin": [
+        201.75,
+        125.5
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonClose_up",
+       "rect": [
+        1679,
+        1061,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonClose_hit",
+       "rect": [
+        1273,
+        1314,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonClose_down",
+       "rect": [
+        1601,
+        1369,
+        326,
+        306
+       ],
+       "origin": [
+        163,
+        153
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonPlaceNormal_up",
+       "rect": [
+        1,
+        1622,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonPlaceDisabled",
+       "rect": [
+        1,
+        1400,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonPlaceNormal_over",
+       "rect": [
+        1,
+        1200,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonPlaceNormal_down",
+       "rect": [
+        266,
+        1200,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonStock_down",
+       "rect": [
+        531,
+        1200,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonSell_up",
+       "rect": [
+        266,
+        1336,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonStock_up",
+       "rect": [
+        531,
+        1336,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonStockDisabled",
+       "rect": [
+        796,
+        1400,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonSell_over",
+       "rect": [
+        266,
+        1472,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonSell_down",
+       "rect": [
+        531,
+        1472,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "symbol": "ActionNotification_buttonStock_over",
+       "rect": [
+        796,
+        1536,
+        263,
+        134
+       ],
+       "origin": [
+        131.5,
+        67
+       ]
+      },
+      {
+       "data": {
+        "y": -46.95,
+        "wordWrap": 1,
+        "text": "Place",
+        "width": 227.8,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 93.9,
+        "font": "bold 60px Alegreya Sans SC",
+        "x": 0
+       },
+       "symbol": "ActionNotification_txt_place",
+       "baseClass": "TextSprite",
+       "rect": [
+        1601,
+        1314,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -31.65,
+        "wordWrap": 0,
+        "text": "Item Name",
+        "width": 479.8,
+        "color": "#070B31",
+        "align": "center",
+        "height": 65.25,
+        "font": "italic 45px Alegreya Sans Medium",
+        "x": -239.9
+       },
+       "symbol": "ActionNotification_txt_ItemName",
+       "baseClass": "TextSprite",
+       "rect": [
+        1601,
+        1317,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -38,
+        "wordWrap": 0,
+        "text": "Notification Title",
+        "width": 514,
+        "color": "#070B31",
+        "align": "center",
+        "height": 76,
+        "font": "bold 50px Alegreya Sans SC ExtraBold",
+        "x": 0
+       },
+       "symbol": "ActionNotification_txt_NotificationTitle",
+       "baseClass": "TextSprite",
+       "rect": [
+        1601,
+        1320,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -35.6,
+        "wordWrap": 0,
+        "text": "How do you want to proceed with this Xeno  ?",
+        "width": 946.75,
+        "color": "#070B31",
+        "align": "center",
+        "height": 65.25,
+        "font": "45px Alegreya Sans Medium",
+        "x": -474.35
+       },
+       "symbol": "ActionNotification_txt_HowToProceed",
+       "baseClass": "TextSprite",
+       "rect": [
+        1601,
+        1323,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -45.45,
+        "wordWrap": 1,
+        "text": "Sell",
+        "width": 219.55,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 90.9,
+        "font": "bold 60px Alegreya Sans SC",
+        "x": 0
+       },
+       "symbol": "ActionNotification_txt_sell",
+       "baseClass": "TextSprite",
+       "rect": [
+        1601,
+        1326,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -50.05,
+        "wordWrap": 1,
+        "text": "Stock",
+        "width": 221.95,
+        "color": "#BFFFFF",
+        "align": "center",
+        "height": 88,
+        "font": "bold 60px Alegreya Sans SC",
+        "x": 0
+       },
+       "symbol": "ActionNotification_txt_stock",
+       "baseClass": "TextSprite",
+       "rect": [
+        1601,
+        1329,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "data": {
+    "y": -35.85,
+    "height": 71.7,
+    "width": 293.85,
+    "color": "#000000",
+    "wordWrap": 1,
+    "font": "48px Arial Black",
+    "x": -88.05
+   },
+   "id": "ActionNotification",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.6429,
+        0.0612
+       ],
+       "tweened": false,
+       "scale": [
+        0.6123,
+        0.6123
+       ],
+       "index": 0,
+       "pivot": [
+        979.95,
+        529.1
+       ],
+       "ref": "ActionNotification_spriteBackground"
+      }
+     ],
+     "name": "ActionNotification_spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -7
+       ],
+       "pivot": [
+        201.75,
+        125.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_spritePrincipal"
+      }
+     ],
+     "name": "ActionNotification_spritePrincipal"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        139
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_ItemName"
+      }
+     ],
+     "name": "txt_ItemName"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -1,
+        -161.45
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_HowToProceed"
+      }
+     ],
+     "name": "txt_HowToProceed"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.9,
+        226.95
+       ],
+       "pivot": [
+        -1.45,
+        2.95
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_clipSwitchStock"
+      }
+     ],
+     "name": "btn_Stock"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -374.05,
+        224
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_btn_Sell"
+      }
+     ],
+     "name": "btn_Sell"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        378,
+        224.3
+       ],
+       "pivot": [
+        -0.05,
+        0.3
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_clipSwitchPlace"
+      }
+     ],
+     "name": "PlaceContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -6.6,
+        -260.24
+       ],
+       "tweened": false,
+       "scale": [
+        0.8,
+        0.8
+       ],
+       "index": 0,
+       "pivot": [
+        454.5,
+        68.45
+       ],
+       "ref": "ActionNotification_spriteTitleBox"
+      }
+     ],
+     "name": "ActionNotification_spriteTitleBox"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -262.05,
+        -246
+       ],
+       "pivot": [
+        -0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_NotificationTitle"
+      }
+     ],
+     "name": "txt_NotificationTitle"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        541,
+        -268
+       ],
+       "data": {
+        "UIPosition": "center",
+        "UIPosition_Desktop": "center"
+       },
+       "scale": [
+        0.3649,
+        0.3661
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_btn_Close"
+      }
+     ],
+     "name": "btn_Close"
+    }
+   ]
+  },
+  {
+   "data": {
+    "UIPosition": "right",
+    "UIPosition_Desktop": "right"
+   },
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~ActionNotification_btn_Close",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        163,
+        153
+       ],
+       "ref": "ActionNotification_buttonClose_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        179.3,
+        168.3
+       ],
+       "ref": "ActionNotification_buttonClose_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        163,
+        153
+       ],
+       "ref": "ActionNotification_buttonClose_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        163,
+        153
+       ],
+       "ref": "ActionNotification_buttonClose_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "id": "~ActionNotification_btn_PlaceDisabled",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonPlaceDisabled"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -116.05,
+        -3.1
+       ],
+       "pivot": [
+        -6.1,
+        -5.4
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_place"
+      }
+     ],
+     "name": "txt_place"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~ActionNotification_btn_PlaceNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonPlaceNormal_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonPlaceNormal_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonPlaceNormal_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonPlaceNormal_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -115.05,
+        -0.1
+       ],
+       "pivot": [
+        -6.1,
+        -5.4
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_place"
+      }
+     ],
+     "name": "txt_display"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~ActionNotification_btn_Sell",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonSell_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonSell_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonSell_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonSell_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -115.45,
+        -1.65
+       ],
+       "pivot": [
+        -9.1,
+        -3.4
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_sell"
+      }
+     ],
+     "name": "txt_display"
+    }
+   ]
+  },
+  {
+   "id": "~ActionNotification_btn_StockDisabled",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonStockDisabled"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -108.15,
+        8
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_stock"
+      }
+     ],
+     "name": "txt_Stock"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~ActionNotification_btn_StockNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonStock_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonStock_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonStock_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        131.5,
+        67
+       ],
+       "ref": "ActionNotification_buttonStock_down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -106.95,
+        7
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "ActionNotification_txt_stock"
+      }
+     ],
+     "name": "txt_display"
+    }
+   ]
+  },
+  {
+   "id": "~ActionNotification_clipSwitchPlace",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -4,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_btn_PlaceDisabled"
+      }
+     ],
+     "name": "Disabled"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -4,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_btn_PlaceNormal"
+      }
+     ],
+     "name": "Normal"
+    }
+   ]
+  },
+  {
+   "id": "~ActionNotification_clipSwitchStock",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -2.25,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_btn_StockDisabled"
+      }
+     ],
+     "name": "Disabled"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -2.45,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~ActionNotification_btn_StockNormal"
+      }
+     ],
+     "name": "Normal"
+    }
+   ]
+  }
+ ],
+ "md5": "b099ac5d5867fd623eafd823400b5d98"
+}

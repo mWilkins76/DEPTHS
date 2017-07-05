@@ -1,0 +1,1373 @@
+{
+ "md5": "e4413e35079fae44dacd546392ff828d",
+ "frameRate": 24,
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        1962,
+        1058
+       ],
+       "symbol": "Codex_spriteBackground",
+       "origin": [
+        995.85,
+        574.1
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1061,
+        392,
+        368
+       ],
+       "symbol": "Codex_buttonClose_over",
+       "origin": [
+        190.1,
+        191.1
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1431,
+        392,
+        368
+       ],
+       "symbol": "Codex_buttonClose_down",
+       "origin": [
+        190.1,
+        191.1
+       ]
+      },
+      {
+       "rect": [
+        395,
+        1061,
+        392,
+        368
+       ],
+       "symbol": "Codex_buttonClose_up",
+       "origin": [
+        190.1,
+        191.1
+       ]
+      },
+      {
+       "rect": [
+        1,
+        1801,
+        278,
+        164
+       ],
+       "symbol": "Codex_buttonItemDisabled",
+       "origin": [
+        139.05,
+        82.05
+       ]
+      },
+      {
+       "rect": [
+        281,
+        1801,
+        278,
+        164
+       ],
+       "symbol": "Codex_buttonItemNormal_over",
+       "origin": [
+        138.95,
+        81.95
+       ]
+      },
+      {
+       "rect": [
+        395,
+        1431,
+        278,
+        164
+       ],
+       "symbol": "Codex_buttonItemNormal_up",
+       "origin": [
+        138.95,
+        81.95
+       ]
+      },
+      {
+       "rect": [
+        395,
+        1597,
+        278,
+        164
+       ],
+       "symbol": "Codex_buttonItemNormal_down",
+       "origin": [
+        138.95,
+        81.95
+       ]
+      },
+      {
+       "rect": [
+        561,
+        1763,
+        282,
+        154
+       ],
+       "symbol": "Codex_buttonTabDisabled",
+       "origin": [
+        140.85,
+        76.7
+       ]
+      },
+      {
+       "rect": [
+        675,
+        1431,
+        282,
+        139
+       ],
+       "symbol": "Codex_buttonTabSelected_down",
+       "origin": [
+        140.85,
+        69.3
+       ]
+      },
+      {
+       "rect": [
+        675,
+        1572,
+        282,
+        139
+       ],
+       "symbol": "Codex_buttonTabSelected_over",
+       "origin": [
+        140.85,
+        69.3
+       ]
+      },
+      {
+       "rect": [
+        845,
+        1713,
+        282,
+        139
+       ],
+       "symbol": "Codex_buttonTabNormal_down",
+       "origin": [
+        140.85,
+        69.3
+       ]
+      },
+      {
+       "rect": [
+        845,
+        1854,
+        282,
+        139
+       ],
+       "symbol": "Codex_buttonTabSelected_up",
+       "origin": [
+        140.85,
+        69.3
+       ]
+      },
+      {
+       "rect": [
+        789,
+        1061,
+        279,
+        138
+       ],
+       "symbol": "Codex_buttonTabNormal_up",
+       "origin": [
+        139.05,
+        68.85
+       ]
+      },
+      {
+       "rect": [
+        789,
+        1201,
+        279,
+        138
+       ],
+       "symbol": "Codex_buttonTabNormal_over",
+       "origin": [
+        139.05,
+        68.95
+       ]
+      },
+      {
+       "rect": [
+        959,
+        1341,
+        151,
+        135
+       ],
+       "symbol": "CodexItemAsset",
+       "origin": [
+        74.7,
+        68.7
+       ]
+      },
+      {
+       "rect": [
+        789,
+        1341,
+        53,
+        51
+       ],
+       "symbol": "CodexTabAsset",
+       "origin": [
+        26.2,
+        25.15
+       ]
+      },
+      {
+       "data": {
+        "y": -26,
+        "wordWrap": 1,
+        "text": "Xeno name",
+        "width": 267.65,
+        "color": "#070B31",
+        "align": "center",
+        "height": 52,
+        "font": "40px Alegreya Sans Medium",
+        "x": -133.85
+       },
+       "rect": [
+        789,
+        1394,
+        1,
+        1
+       ],
+       "symbol": "Codex_txt_XenoName",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      },
+      {
+       "data": {
+        "y": -24,
+        "wordWrap": 0,
+        "text": "x n",
+        "width": 76.05,
+        "color": "#070B31",
+        "align": "center",
+        "height": 47.95,
+        "font": "36px Alegreya Sans Medium",
+        "x": -38
+       },
+       "rect": [
+        789,
+        1397,
+        1,
+        1
+       ],
+       "symbol": "Codex_txt_XenoQuantity",
+       "origin": [
+        0,
+        0
+       ],
+       "baseClass": "TextSprite"
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ]
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "name": "Codex_spriteBackground",
+     "keyframes": [
+      {
+       "ref": "Codex_spriteBackground",
+       "duration": 1,
+       "loc": [
+        19.35,
+        145.45
+       ],
+       "pivot": [
+        995.85,
+        574.1
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "TabContainer",
+     "keyframes": [
+      {
+       "ref": "~Codex_clipTabContainer",
+       "duration": 1,
+       "loc": [
+        -326.35,
+        -480
+       ],
+       "pivot": [
+        0.05,
+        0
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "ItemContainer",
+     "keyframes": [
+      {
+       "ref": "~Codex_clipXenoContainer",
+       "duration": 1,
+       "loc": [
+        -613.3,
+        -299.15
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "btn_Close",
+     "keyframes": [
+      {
+       "ref": "~Codex_btn_Close",
+       "duration": 1,
+       "loc": [
+        905.6,
+        -371.75
+       ],
+       "scale": [
+        0.3521,
+        0.3521
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "Codex"
+  },
+  {
+   "layers": [
+    {
+     "name": "Disabled",
+     "keyframes": [
+      {
+       "ref": "~Codex_btn_XenoDisabled",
+       "duration": 1,
+       "loc": [
+        -0.35,
+        10.7
+       ],
+       "pivot": [
+        -0.05,
+        -0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "Normal",
+     "keyframes": [
+      {
+       "ref": "~Codex_btn_XenoNormal",
+       "duration": 1,
+       "loc": [
+        -0.3,
+        10.75
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "txt_QuantityUnitDisplay",
+     "keyframes": [
+      {
+       "ref": "Codex_txt_XenoQuantity",
+       "duration": 1,
+       "loc": [
+        126.5,
+        68.8
+       ],
+       "pivot": [
+        0,
+        -0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "txt_XenoName",
+     "keyframes": [
+      {
+       "ref": "Codex_txt_XenoName",
+       "duration": 1,
+       "loc": [
+        -5,
+        123.55
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "CodexSwitchItem"
+  },
+  {
+   "layers": [
+    {
+     "name": "Disabled",
+     "keyframes": [
+      {
+       "ref": "~Codex_btn_TabDisabled",
+       "duration": 1,
+       "loc": [
+        1.8,
+        -7.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "Selected",
+     "keyframes": [
+      {
+       "ref": "~Codex_btn_TabSelected",
+       "duration": 1,
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "Normal",
+     "keyframes": [
+      {
+       "ref": "~Codex_btn_TabNormal",
+       "duration": 1,
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "CodexSwitchTab"
+  },
+  {
+   "layers": [
+    {
+     "name": "Layer 1",
+     "keyframes": [
+      {
+       "ref": "Codex_buttonClose_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        190.1,
+        191.1
+       ]
+      },
+      {
+       "ref": "Codex_buttonClose_over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        190.1,
+        191.1
+       ]
+      },
+      {
+       "ref": "Codex_buttonClose_down",
+       "duration": 1,
+       "loc": [
+        -1.25,
+        -2.15
+       ],
+       "tweened": false,
+       "scale": [
+        1.15,
+        1.15
+       ],
+       "index": 2,
+       "pivot": [
+        190.1,
+        191.1
+       ]
+      },
+      {
+       "ref": "Codex_buttonClose_up",
+       "duration": 1,
+       "index": 3,
+       "tweened": false,
+       "pivot": [
+        190.1,
+        191.1
+       ]
+      }
+     ]
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Codex_btn_Close"
+  },
+  {
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "ref": "Codex_buttonTabDisabled",
+       "duration": 1,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "pivot": [
+        140.85,
+        76.65
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "asset",
+     "keyframes": [
+      {
+       "ref": "CodexTabAsset",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        26.2,
+        25.15
+       ]
+      }
+     ]
+    }
+   ],
+   "id": "~Codex_btn_TabDisabled"
+  },
+  {
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "ref": "Codex_buttonTabNormal_up",
+       "duration": 1,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "pivot": [
+        139.05,
+        68.8
+       ],
+       "index": 0,
+       "tweened": false
+      },
+      {
+       "ref": "Codex_buttonTabNormal_over",
+       "duration": 1,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "pivot": [
+        139.05,
+        68.9
+       ],
+       "index": 1,
+       "tweened": false
+      },
+      {
+       "ref": "Codex_buttonTabNormal_down",
+       "duration": 2,
+       "loc": [
+        0.4,
+        0
+       ],
+       "pivot": [
+        140.85,
+        69.25
+       ],
+       "index": 2,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "asset",
+     "keyframes": [
+      {
+       "ref": "CodexTabAsset",
+       "duration": 4,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        26.2,
+        25.15
+       ]
+      }
+     ]
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Codex_btn_TabNormal"
+  },
+  {
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "ref": "Codex_buttonTabSelected_up",
+       "duration": 1,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "pivot": [
+        140.85,
+        69.25
+       ],
+       "index": 0,
+       "tweened": false
+      },
+      {
+       "ref": "Codex_buttonTabSelected_over",
+       "duration": 1,
+       "loc": [
+        0,
+        -0.05
+       ],
+       "pivot": [
+        140.85,
+        69.25
+       ],
+       "index": 1,
+       "tweened": false
+      },
+      {
+       "ref": "Codex_buttonTabSelected_down",
+       "duration": 2,
+       "loc": [
+        0,
+        0.05
+       ],
+       "pivot": [
+        140.85,
+        69.25
+       ],
+       "index": 2,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "asset",
+     "keyframes": [
+      {
+       "ref": "CodexTabAsset",
+       "duration": 4,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        26.2,
+        25.15
+       ]
+      }
+     ]
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Codex_btn_TabSelected"
+  },
+  {
+   "layers": [
+    {
+     "name": "_buttonItemDisabled",
+     "keyframes": [
+      {
+       "ref": "Codex_buttonItemDisabled",
+       "duration": 1,
+       "loc": [
+        -0.05,
+        -0.05
+       ],
+       "pivot": [
+        139,
+        82
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "asset",
+     "keyframes": [
+      {
+       "ref": "CodexItemAsset",
+       "duration": 1,
+       "loc": [
+        -4.95,
+        3
+       ],
+       "pivot": [
+        74.75,
+        68.7
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "~Codex_btn_XenoDisabled"
+  },
+  {
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "ref": "Codex_buttonItemNormal_up",
+       "duration": 1,
+       "index": 0,
+       "tweened": false,
+       "pivot": [
+        138.95,
+        81.95
+       ]
+      },
+      {
+       "ref": "Codex_buttonItemNormal_over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false,
+       "pivot": [
+        138.95,
+        81.95
+       ]
+      },
+      {
+       "ref": "Codex_buttonItemNormal_down",
+       "duration": 2,
+       "index": 2,
+       "tweened": false,
+       "pivot": [
+        138.95,
+        81.95
+       ]
+      }
+     ]
+    },
+    {
+     "name": "asset",
+     "keyframes": [
+      {
+       "ref": "CodexItemAsset",
+       "duration": 4,
+       "loc": [
+        -5,
+        3
+       ],
+       "pivot": [
+        74.7,
+        68.7
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Codex_btn_XenoNormal"
+  },
+  {
+   "layers": [
+    {
+     "name": "item #3",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchTab",
+       "duration": 1,
+       "loc": [
+        370.7,
+        0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #2",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchTab",
+       "duration": 1,
+       "loc": [
+        132.75,
+        0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #1",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchTab",
+       "duration": 1,
+       "loc": [
+        -105.6,
+        0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #0",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchTab",
+       "duration": 1,
+       "loc": [
+        -343.55,
+        0.05
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "~Codex_clipTabContainer"
+  },
+  {
+   "layers": [
+    {
+     "name": "item #23",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1325.1,
+        718.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #22",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1047.1,
+        718.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #21",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        769.1,
+        718.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #20",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        495.1,
+        718.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #19",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        225.1,
+        718.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #18",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        -48.9,
+        718.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #17",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1325.1,
+        478.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #16",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1047.1,
+        478.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #15",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        769.1,
+        478.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #14",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        495.1,
+        478.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #13",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        225.1,
+        478.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #12",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        -48.9,
+        478.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #11",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1325.1,
+        240.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #10",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1047.1,
+        240.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #9",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        769.1,
+        240.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #8",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        495.1,
+        240.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #7",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        225.1,
+        240.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #6",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        -48.9,
+        240.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #5",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1325.1,
+        8.2
+       ],
+       "pivot": [
+        0.5,
+        0.5
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #4",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        1047.1,
+        8.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #3",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        769.1,
+        8.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #2",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        495.1,
+        8.2
+       ],
+       "tweened": false,
+       "scale": [
+        1,
+        0.9999
+       ],
+       "index": 0,
+       "pivot": [
+        0.8,
+        0.4
+       ]
+      }
+     ]
+    },
+    {
+     "name": "item #1",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        225.1,
+        8.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    },
+    {
+     "name": "item #0",
+     "keyframes": [
+      {
+       "ref": "CodexSwitchItem",
+       "duration": 1,
+       "loc": [
+        -48.9,
+        8.2
+       ],
+       "pivot": [
+        0.8,
+        0.4
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "~Codex_clipXenoContainer"
+  }
+ ]
+}

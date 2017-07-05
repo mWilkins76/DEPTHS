@@ -1,0 +1,1552 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "Enclos_spriteBackground",
+       "rect": [
+        1,
+        1,
+        1472,
+        794
+       ],
+       "origin": [
+        735.75,
+        396.75
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitUpgrade_up",
+       "rect": [
+        1,
+        797,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitXenoPage_down",
+       "rect": [
+        1,
+        1080,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitUpgrade_over",
+       "rect": [
+        253,
+        797,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitCryo_down",
+       "rect": [
+        253,
+        1080,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitMove_up",
+       "rect": [
+        505,
+        797,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitCryo_over",
+       "rect": [
+        505,
+        1080,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitCryo_up",
+       "rect": [
+        757,
+        797,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitMove_down",
+       "rect": [
+        757,
+        1080,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitUpgrade_down",
+       "rect": [
+        1009,
+        797,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitMove_over",
+       "rect": [
+        1261,
+        797,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitXenoPage_over",
+       "rect": [
+        1009,
+        1080,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitXenoPage_up",
+       "rect": [
+        1261,
+        1080,
+        250,
+        281
+       ],
+       "origin": [
+        124.9,
+        140.25
+       ]
+      },
+      {
+       "symbol": "Enclos_spriteXenoLevelBG",
+       "rect": [
+        1,
+        1363,
+        95,
+        98
+       ],
+       "origin": [
+        47.25,
+        48.8
+       ]
+      },
+      {
+       "data": {
+        "y": -24.35,
+        "wordWrap": 1,
+        "text": "Lvl",
+        "width": 86.45,
+        "color": "#FFFFFF",
+        "align": "center",
+        "height": 52,
+        "font": "bold 40px Alegreya Sans",
+        "x": -43.25
+       },
+       "symbol": "Enclos_txt_Level",
+       "baseClass": "TextSprite",
+       "rect": [
+        1513,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -33.3,
+        "wordWrap": 0,
+        "text": "<Xeno Name>",
+        "width": 460.8,
+        "color": "#070B31",
+        "align": "center",
+        "height": 66.65,
+        "font": "50px Alegreya Sans Medium",
+        "x": -230.4
+       },
+       "symbol": "Enclos_txt_XenoName",
+       "baseClass": "TextSprite",
+       "rect": [
+        1475,
+        1,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "Enclos_buttonXenoUnitSelected_over",
+       "rect": [
+        1,
+        1,
+        313,
+        210
+       ],
+       "origin": [
+        156.4,
+        104.55
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonXenoUnitSelected_up",
+       "rect": [
+        316,
+        1,
+        313,
+        210
+       ],
+       "origin": [
+        156.4,
+        104.55
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonXenoUnitNormal_up",
+       "rect": [
+        631,
+        1,
+        313,
+        210
+       ],
+       "origin": [
+        156.4,
+        104.55
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonXenoUnitNormal_over",
+       "rect": [
+        1,
+        213,
+        313,
+        210
+       ],
+       "origin": [
+        156.4,
+        104.55
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonXenoUnitSelected_Down",
+       "rect": [
+        316,
+        213,
+        313,
+        210
+       ],
+       "origin": [
+        156.4,
+        104.55
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonXenoUnitNormal_Down",
+       "rect": [
+        631,
+        213,
+        313,
+        210
+       ],
+       "origin": [
+        156.4,
+        104.55
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonClose_up",
+       "rect": [
+        1,
+        425,
+        245,
+        230
+       ],
+       "origin": [
+        122.25,
+        114.75
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonClose_over",
+       "rect": [
+        1,
+        657,
+        245,
+        230
+       ],
+       "origin": [
+        122.25,
+        114.75
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonClose_down",
+       "rect": [
+        248,
+        425,
+        245,
+        230
+       ],
+       "origin": [
+        122.25,
+        114.75
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitCryo_hit",
+       "rect": [
+        248,
+        657,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitUpgrade_hit",
+       "rect": [
+        453,
+        657,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitMove_hit",
+       "rect": [
+        495,
+        425,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonUnitXenoPage_hit",
+       "rect": [
+        658,
+        630,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Enclos_buttonClose_hit",
+       "rect": [
+        700,
+        425,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "Enclos_spriteXeno",
+       "rect": [
+        1,
+        1,
+        195,
+        196
+       ],
+       "origin": [
+        99.8,
+        97.9
+       ]
+      }
+     ],
+     "file": "atlas2.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "id": "Enclos",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -4.5,
+        13.05
+       ],
+       "pivot": [
+        735.75,
+        396.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_spriteBackground"
+      }
+     ],
+     "name": "spriteBackground"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -6.5625,
+        27.7125
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipXenoContainer"
+      }
+     ],
+     "name": "clipXenoContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        69.7875,
+        101.4
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipLevelContainer"
+      }
+     ],
+     "name": "clipLevelContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        397.05,
+        316.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_txt_XenoName"
+      }
+     ],
+     "name": "txt_XenoName #5"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        4.05,
+        316.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_txt_XenoName"
+      }
+     ],
+     "name": "txt_XenoName #4"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -409.3875,
+        313.8375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_txt_XenoName"
+      }
+     ],
+     "name": "txt_XenoName #3"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        397.05,
+        24.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_txt_XenoName"
+      }
+     ],
+     "name": "txt_XenoName #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        4.05,
+        24.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_txt_XenoName"
+      }
+     ],
+     "name": "txt_XenoName #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -409.2,
+        24.75
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_txt_XenoName"
+      }
+     ],
+     "name": "txt_XenoName #0"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -411.9,
+        -131.5875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipContextualButtonsContainer"
+      }
+     ],
+     "name": "clipContextualButtonsContainer"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        673.35,
+        -328.5
+       ],
+       "scale": [
+        0.4764,
+        0.4777
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_Close"
+      }
+     ],
+     "name": "btn_Close"
+    }
+   ]
+  },
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.enclos.EnclosSwitchItem"
+   },
+   "id": "EnclosSwitchItem",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.075,
+        -0.6
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_XenoUnitSelected"
+      }
+     ],
+     "name": "Selected"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.075,
+        -0.3375
+       ],
+       "scale": [
+        0.6876,
+        0.6876
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_XenoUnitNormal"
+      }
+     ],
+     "name": "Normal"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.7875,
+        -0.462
+       ],
+       "tweened": false,
+       "scale": [
+        0.6805,
+        0.6805
+       ],
+       "index": 0,
+       "pivot": [
+        0,
+        0.0375
+       ],
+       "ref": "~btn_XenoUnitDisabled"
+      }
+     ],
+     "name": "Disabled"
+    }
+   ]
+  },
+  {
+   "id": "~Enclos_clipContextualButtonsContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -120.1875,
+        -112.9875
+       ],
+       "scale": [
+        0.3431,
+        0.3431
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_UnitXenoPage"
+      }
+     ],
+     "name": "Enclos_btn_UnitXenoPage"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        112.5,
+        -112.9125
+       ],
+       "scale": [
+        0.3431,
+        0.3431
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_UnitUpgrade"
+      }
+     ],
+     "name": "Enclos_btn_UnitUpgrade"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -112.9125
+       ],
+       "scale": [
+        0.3431,
+        0.3431
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_UnitCryo"
+      }
+     ],
+     "name": "Enclos_btn_UnitCryo"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -120,
+        67.0875
+       ],
+       "scale": [
+        0.3431,
+        0.3431
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~btn_UnitMove"
+      }
+     ],
+     "name": "Enclos_btn_UnitMove"
+    }
+   ]
+  },
+  {
+   "id": "~Enclos_clipLevelContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        417.5625,
+        156.4125
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipUnitLevel"
+      }
+     ],
+     "name": "Enclos_clipUnitLevel #5"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        17.4375,
+        156.45
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipUnitLevel"
+      }
+     ],
+     "name": "Enclos_clipUnitLevel #4"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -401.0625,
+        156.45
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipUnitLevel"
+      }
+     ],
+     "name": "Enclos_clipUnitLevel #3"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        417.8625,
+        -147.4125
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipUnitLevel"
+      }
+     ],
+     "name": "Enclos_clipUnitLevel #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        17.3625,
+        -147.4125
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipUnitLevel"
+      }
+     ],
+     "name": "Enclos_clipUnitLevel #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -401.1375,
+        -147.4125
+       ],
+       "pivot": [
+        0.1125,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Enclos_clipUnitLevel"
+      }
+     ],
+     "name": "Enclos_clipUnitLevel #0"
+    }
+   ]
+  },
+  {
+   "id": "~Enclos_clipUnitLevel",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -5.5125,
+        -16.9875
+       ],
+       "tweened": false,
+       "skew": [
+        -3.1416,
+        3.1416
+       ],
+       "index": 0,
+       "pivot": [
+        48.9375,
+        48.825
+       ],
+       "ref": "Enclos_spriteXenoLevelBG"
+      }
+     ],
+     "name": "Enclos_spriteXenoLevelBG"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        -0.0375,
+        0
+       ],
+       "ref": "Enclos_txt_Level"
+      }
+     ],
+     "name": "Enclos_txt_Level"
+    }
+   ]
+  },
+  {
+   "id": "~Enclos_clipXenoContainer",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        406.0875,
+        142.4625
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "EnclosSwitchItem"
+      }
+     ],
+     "name": "Enclos_clipUnitSwitch #5"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        10.0875,
+        142.4625
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "EnclosSwitchItem"
+      }
+     ],
+     "name": "Enclos_clipUnitSwitch #4"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -404.6625,
+        142.4625
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "EnclosSwitchItem"
+      }
+     ],
+     "name": "Enclos_clipUnitSwitch #3"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        406.0875,
+        -160.5375
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "EnclosSwitchItem"
+      }
+     ],
+     "name": "Enclos_clipUnitSwitch #2"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        10.0875,
+        -160.5375
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "EnclosSwitchItem"
+      }
+     ],
+     "name": "Enclos_clipUnitSwitch #1"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -406.1625,
+        -160.5375
+       ],
+       "pivot": [
+        -0.0375,
+        -0.7875
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "EnclosSwitchItem"
+      }
+     ],
+     "name": "Enclos_clipUnitSwitch #0"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_Close",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        122.25,
+        114.75
+       ],
+       "ref": "Enclos_buttonClose_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        122.25,
+        114.75
+       ],
+       "ref": "Enclos_buttonClose_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        122.25,
+        114.75
+       ],
+       "ref": "Enclos_buttonClose_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Enclos_buttonClose_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_UnitCryo",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitCryo_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitCryo_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitCryo_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Enclos_buttonUnitCryo_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_UnitMove",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitMove_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitMove_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitMove_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Enclos_buttonUnitMove_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_UnitUpgrade",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitUpgrade_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitUpgrade_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitUpgrade_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Enclos_buttonUnitUpgrade_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_UnitXenoPage",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitXenoPage_up"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 1,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitXenoPage_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        124.875,
+        140.25
+       ],
+       "ref": "Enclos_buttonUnitXenoPage_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Enclos_buttonUnitXenoPage_hit"
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_XenoUnitDisabled",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        156.375,
+        104.55
+       ],
+       "ref": "Enclos_buttonXenoUnitNormal_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.45
+       ],
+       "pivot": [
+        156.375,
+        104.1
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "Enclos_buttonXenoUnitNormal_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        156.375,
+        104.5125
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "Enclos_buttonXenoUnitNormal_Down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -1.2375,
+        1.6125
+       ],
+       "pivot": [
+        99.75,
+        97.9125
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_spriteXeno"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_XenoUnitNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        156.375,
+        104.55
+       ],
+       "ref": "Enclos_buttonXenoUnitNormal_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.45
+       ],
+       "pivot": [
+        156.375,
+        104.1
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "Enclos_buttonXenoUnitNormal_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        156.375,
+        104.5125
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "Enclos_buttonXenoUnitNormal_Down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -1.2375,
+        1.6125
+       ],
+       "pivot": [
+        99.75,
+        97.9125
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Enclos_spriteXeno"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_XenoUnitSelected",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        156.375,
+        104.55
+       ],
+       "ref": "Enclos_buttonXenoUnitSelected_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.45
+       ],
+       "pivot": [
+        156.375,
+        104.1
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "Enclos_buttonXenoUnitSelected_over"
+      },
+      {
+       "duration": 2,
+       "loc": [
+        0,
+        -0.0375
+       ],
+       "pivot": [
+        156.375,
+        104.5125
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "Enclos_buttonXenoUnitSelected_Down"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "loc": [
+        -1.7203,
+        2.175
+       ],
+       "tweened": false,
+       "scale": [
+        0.877,
+        0.8815
+       ],
+       "index": 0,
+       "pivot": [
+        99.75,
+        97.9125
+       ],
+       "ref": "Enclos_spriteXeno"
+      }
+     ],
+     "name": "asset"
+    }
+   ]
+  }
+ ],
+ "md5": "8ffb902d3f7eb1a27a824b20bc93f157"
+}

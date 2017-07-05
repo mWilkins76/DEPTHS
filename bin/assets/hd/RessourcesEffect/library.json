@@ -1,0 +1,118 @@
+{
+ "md5": "835bf0da8a3c4cc0a967c104fccf22b9",
+ "frameRate": 24,
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "scaleFactor": 1,
+   "atlases": [
+    {
+     "textures": [
+      {
+       "rect": [
+        1,
+        1,
+        97,
+        97
+       ],
+       "symbol": "BubbleSprite",
+       "origin": [
+        48.5,
+        48.5
+       ]
+      },
+      {
+       "rect": [
+        1,
+        100,
+        64,
+        90
+       ],
+       "symbol": "RessourceSoftCurrencySprite",
+       "origin": [
+        31.65,
+        44.7
+       ]
+      },
+      {
+       "rect": [
+        67,
+        100,
+        65,
+        82
+       ],
+       "symbol": "RessourceHardCurrencySprite",
+       "origin": [
+        32.1,
+        40.8
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ]
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "ref": "BubbleSprite",
+       "duration": 1,
+       "pivot": [
+        48.5,
+        48.5
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "Bubble"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "ref": "RessourceHardCurrencySprite",
+       "duration": 1,
+       "pivot": [
+        32.1,
+        40.8
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "RessourceHardCurrency"
+  },
+  {
+   "layers": [
+    {
+     "name": "Calque 1",
+     "keyframes": [
+      {
+       "ref": "RessourceSoftCurrencySprite",
+       "duration": 1,
+       "pivot": [
+        31.65,
+        44.7
+       ],
+       "index": 0,
+       "tweened": false
+      }
+     ]
+    }
+   ],
+   "id": "RessourceSoftCurrency"
+  }
+ ]
+}

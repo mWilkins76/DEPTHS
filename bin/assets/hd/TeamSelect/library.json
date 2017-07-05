@@ -1,0 +1,1069 @@
+{
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        1.75,
+        -1
+       ],
+       "index": 0,
+       "loc": [
+        -1,
+        0
+       ],
+       "tweened": false,
+       "ref": "~TeamSelect_clipImbrique",
+       "duration": 1
+      }
+     ],
+     "name": "ButtonForage"
+    }
+   ],
+   "id": "TeamSelect"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        927.5,
+        552.45
+       ],
+       "index": 0,
+       "loc": [
+        -28.15,
+        -2.3
+       ],
+       "tweened": false,
+       "ref": "_background_1",
+       "scale": [
+        0.9928,
+        1.201
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Background"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        926.6,
+        317.8
+       ],
+       "index": 0,
+       "loc": [
+        -28.3,
+        -280.7
+       ],
+       "tweened": false,
+       "ref": "_background_2",
+       "scale": [
+        0.9928,
+        1.2069
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "bg_2"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "ref": "txt_missionTitle",
+       "duration": 1,
+       "index": 0,
+       "loc": [
+        -376.7,
+        -589.6
+       ]
+      }
+     ],
+     "name": "MissionTitle"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        97.3,
+        92.7
+       ],
+       "index": 0,
+       "loc": [
+        -709.3,
+        -103.7224
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteXenoSelected",
+       "scale": [
+        1.7239,
+        1.7239
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "SelectedXeno"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        97.3,
+        92.7
+       ],
+       "index": 0,
+       "loc": [
+        -424.25,
+        -306.9276
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteXenoSelected",
+       "scale": [
+        1.7239,
+        1.7239
+       ],
+       "duration": 1,
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "SelectedXeno"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        97.3,
+        92.7
+       ],
+       "index": 0,
+       "loc": [
+        -148,
+        -103.7224
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteXenoSelected",
+       "scale": [
+        1.7239,
+        1.7239
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "SelectedXeno"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "ref": "~TeamSelect_clipMissionDatas",
+       "duration": 1,
+       "index": 0,
+       "loc": [
+        462.8,
+        -223.15
+       ]
+      }
+     ],
+     "name": "MissionData_Encadre"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        56.95,
+        63.15
+       ],
+       "index": 0,
+       "loc": [
+        794.3,
+        228.35
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteArrow",
+       "duration": 1
+      }
+     ],
+     "name": "asset_rightArrow"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        56.95,
+        63.15
+       ],
+       "index": 0,
+       "loc": [
+        -859.7,
+        228.35
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteArrow",
+       "duration": 1,
+       "skew": [
+        -3.1416,
+        3.1416
+       ]
+      }
+     ],
+     "name": "asset_rightArrow"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        0,
+        -3.3
+       ],
+       "index": 0,
+       "loc": [
+        -30.5,
+        309.65
+       ],
+       "tweened": false,
+       "ref": "~TeamSelect_clipListeXenos",
+       "duration": 1
+      }
+     ],
+     "name": "TeamSelect_listeXenos"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        796.45,
+        -595.6
+       ],
+       "ref": "~btn_Return",
+       "scale": [
+        1.9493,
+        0.7901
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "quit_batiment"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -79.75,
+        579.2
+       ],
+       "ref": "~btn_Forage",
+       "scale": [
+        0.9147,
+        0.8364
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "ButtonForage"
+    }
+   ],
+   "id": "~TeamSelect_clipImbrique"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "index": 0
+      }
+     ],
+     "name": "Item #5"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        625,
+        -29.7
+       ],
+       "ref": "~TeamSelect_clipXenoUnit",
+       "scale": [
+        0.7348,
+        0.7348
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Item #4"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        306.4,
+        -29.7
+       ],
+       "ref": "~TeamSelect_clipXenoUnit",
+       "scale": [
+        0.7348,
+        0.7348
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Item #3"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -5.35,
+        -29.7
+       ],
+       "ref": "~TeamSelect_clipXenoUnit",
+       "scale": [
+        0.7348,
+        0.7348
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Item #2"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -317.05,
+        -29.7
+       ],
+       "ref": "~TeamSelect_clipXenoUnit",
+       "scale": [
+        0.7348,
+        0.7348
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Item #1"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -628.8,
+        -29.7
+       ],
+       "ref": "~TeamSelect_clipXenoUnit",
+       "scale": [
+        0.7348,
+        0.7348
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Item"
+    }
+   ],
+   "id": "~TeamSelect_clipListeXenos"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        327.35,
+        226.95
+       ],
+       "index": 0,
+       "loc": [
+        0,
+        0.35
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteMissionDatasBG",
+       "scale": [
+        1.1103,
+        1.3137
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "asset_MissionData_fond"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "ref": "txt_MissionDatas",
+       "duration": 1,
+       "index": 0,
+       "loc": [
+        0,
+        0.35
+       ]
+      }
+     ],
+     "name": "MissionData"
+    }
+   ],
+   "id": "~TeamSelect_clipMissionDatas"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "index": 0,
+       "loc": [
+        -2.2,
+        -79.6
+       ],
+       "ref": "~btn_Xenos",
+       "scale": [
+        0.9447,
+        0.9447
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "ButtonXenos_teamSelect"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "ref": "txt_xenoDatas",
+       "duration": 1,
+       "index": 0,
+       "loc": [
+        0,
+        109.75
+       ]
+      }
+     ],
+     "name": "ItemName"
+    }
+   ],
+   "id": "~TeamSelect_clipXenoUnit"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "index": 0,
+       "loc": [
+        0.05,
+        0
+       ],
+       "tweened": false,
+       "ref": "_buttonDrill_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "index": 1,
+       "loc": [
+        0.05,
+        0
+       ],
+       "tweened": false,
+       "ref": "_buttonDrill_over",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        407.05,
+        79.75
+       ],
+       "index": 2,
+       "loc": [
+        0.05,
+        0
+       ],
+       "tweened": false,
+       "ref": "_buttonDrill_down",
+       "duration": 2
+      }
+     ],
+     "name": "_buttonDrill"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "ref": "txt_drill",
+       "duration": 2,
+       "index": 0,
+       "loc": [
+        -235.25,
+        0
+       ]
+      },
+      {
+       "tweened": false,
+       "index": 2,
+       "loc": [
+        -235.35,
+        0
+       ],
+       "ref": "txt_drill",
+       "duration": 1,
+       "tint": [
+        0.5,
+        "#0000FF"
+       ]
+      }
+     ],
+     "name": "Drill_txt"
+    },
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        66.05,
+        66.05
+       ],
+       "index": 0,
+       "loc": [
+        0.1,
+        -1.4
+       ],
+       "tweened": false,
+       "ref": "TeamSelect_spriteForage",
+       "duration": 4
+      }
+     ],
+     "name": "Asset"
+    },
+    {
+     "keyframes": [
+      {
+       "tweened": false,
+       "ref": "txt_drillCost",
+       "duration": 4,
+       "index": 0,
+       "loc": [
+        246.3,
+        -0.15
+       ]
+      }
+     ],
+     "name": "SC"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_Forage"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        35.35,
+        36.15
+       ],
+       "index": 0,
+       "loc": [
+        0,
+        0.1712
+       ],
+       "tweened": false,
+       "ref": "_buttonReturn_Normal",
+       "scale": [
+        1.3963,
+        2.4231
+       ],
+       "duration": 1
+      },
+      {
+       "pivot": [
+        35.35,
+        36.15
+       ],
+       "index": 1,
+       "loc": [
+        0,
+        0.1712
+       ],
+       "tweened": false,
+       "ref": "_buttonReturn_Hover",
+       "scale": [
+        1.3974,
+        2.4231
+       ],
+       "duration": 1
+      },
+      {
+       "pivot": [
+        35.35,
+        36.15
+       ],
+       "index": 2,
+       "loc": [
+        0,
+        0.1712
+       ],
+       "tweened": false,
+       "ref": "_buttonReturn_Down",
+       "scale": [
+        1.3683,
+        2.4231
+       ],
+       "duration": 1
+      },
+      {
+       "pivot": [
+        35.35,
+        36.05
+       ],
+       "index": 3,
+       "loc": [
+        0,
+        -0.0254
+       ],
+       "tweened": false,
+       "ref": "_buttonReturn_Selected",
+       "scale": [
+        1.3683,
+        2.5085
+       ],
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_Return"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        137.5,
+        137.5
+       ],
+       "index": 0,
+       "loc": [
+        -0.4,
+        -0.95
+       ],
+       "tweened": false,
+       "ref": "_buttonXeno_up",
+       "duration": 1
+      },
+      {
+       "pivot": [
+        145,
+        145
+       ],
+       "ref": "_buttonXeno_over",
+       "duration": 1,
+       "index": 1,
+       "tweened": false
+      },
+      {
+       "pivot": [
+        145,
+        145
+       ],
+       "ref": "_buttonXeno_down",
+       "duration": 2,
+       "index": 2,
+       "tweened": false
+      }
+     ],
+     "name": "Layer 1"
+    }
+   ],
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~btn_Xenos"
+  }
+ ],
+ "md5": "87d2b750eadaaa7b8ea7639f9a5827da",
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "origin": [
+        927.5,
+        552.45
+       ],
+       "symbol": "_background_1",
+       "rect": [
+        1,
+        1,
+        1853,
+        1105
+       ]
+      },
+      {
+       "origin": [
+        926.6,
+        317.8
+       ],
+       "symbol": "_background_2",
+       "rect": [
+        1,
+        1108,
+        1854,
+        636
+       ]
+      },
+      {
+       "origin": [
+        407.05,
+        79.75
+       ],
+       "symbol": "_buttonDrill_down",
+       "rect": [
+        1,
+        1746,
+        815,
+        160
+       ]
+      },
+      {
+       "origin": [
+        407.05,
+        79.75
+       ],
+       "symbol": "_buttonDrill_up",
+       "rect": [
+        818,
+        1746,
+        815,
+        160
+       ]
+      },
+      {
+       "origin": [
+        145,
+        145
+       ],
+       "symbol": "_buttonXeno_over",
+       "rect": [
+        1635,
+        1746,
+        290,
+        290
+       ]
+      },
+      {
+       "origin": [
+        66.15,
+        66.1
+       ],
+       "symbol": "TeamSelect_spriteForage",
+       "rect": [
+        1856,
+        1,
+        133,
+        133
+       ]
+      },
+      {
+       "origin": [
+        56.95,
+        63.15
+       ],
+       "symbol": "TeamSelect_spriteArrow",
+       "rect": [
+        1856,
+        136,
+        114,
+        127
+       ]
+      },
+      {
+       "origin": [
+        35.35,
+        36.1
+       ],
+       "symbol": "_buttonReturn_Selected",
+       "rect": [
+        1972,
+        136,
+        71,
+        73
+       ]
+      },
+      {
+       "origin": [
+        35.35,
+        36.1
+       ],
+       "symbol": "_buttonReturn_Hover",
+       "rect": [
+        1972,
+        211,
+        71,
+        73
+       ]
+      },
+      {
+       "origin": [
+        35.35,
+        36.1
+       ],
+       "symbol": "_buttonReturn_Normal",
+       "rect": [
+        1856,
+        265,
+        71,
+        73
+       ]
+      },
+      {
+       "origin": [
+        35.35,
+        36.1
+       ],
+       "symbol": "_buttonReturn_Down",
+       "rect": [
+        1856,
+        340,
+        71,
+        73
+       ]
+      },
+      {
+       "baseClass": "TextSprite",
+       "data": {
+        "y": -110.05,
+        "text": "Mission</BR>Datas",
+        "x": -208.55,
+        "width": 417.1,
+        "font": "96px Arial",
+        "align": "center",
+        "height": 220.5,
+        "wordWrap": 1,
+        "color": "#FFFFFF"
+       },
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "txt_MissionDatas",
+       "rect": [
+        1991,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "baseClass": "TextSprite",
+       "data": {
+        "y": -47.95,
+        "text": "88888",
+        "x": -132.4,
+        "width": 264.8,
+        "font": "80px Arial",
+        "align": "center",
+        "height": 94.55,
+        "wordWrap": 1,
+        "color": "#666666"
+       },
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "txt_drillCost",
+       "rect": [
+        1994,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "baseClass": "TextSprite",
+       "data": {
+        "y": -56.05,
+        "text": "Drill",
+        "x": -153,
+        "width": 306.3,
+        "font": "96px Arial",
+        "align": "center",
+        "height": 111.25,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "txt_drill",
+       "rect": [
+        1997,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "baseClass": "TextSprite",
+       "data": {
+        "y": -43.85,
+        "text": "Mission Title",
+        "x": -389.8,
+        "width": 775.6,
+        "font": "italic 90px Arial",
+        "align": "center",
+        "height": 104.5,
+        "wordWrap": 0,
+        "color": "#000000"
+       },
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "txt_missionTitle",
+       "rect": [
+        2000,
+        1,
+        1,
+        1
+       ]
+      },
+      {
+       "baseClass": "TextSprite",
+       "data": {
+        "y": -35.65,
+        "text": "Xeno Datas</BR>X</BR>X",
+        "x": -195.15,
+        "width": 389.85,
+        "font": "bold 60px Arial",
+        "align": "center",
+        "height": 209,
+        "wordWrap": 1,
+        "color": "#000000"
+       },
+       "origin": [
+        0,
+        0
+       ],
+       "symbol": "txt_xenoDatas",
+       "rect": [
+        2003,
+        1,
+        1,
+        1
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "origin": [
+        327.35,
+        226.95
+       ],
+       "symbol": "TeamSelect_spriteMissionDatasBG",
+       "rect": [
+        1,
+        1,
+        655,
+        454
+       ]
+      },
+      {
+       "origin": [
+        407.05,
+        79.75
+       ],
+       "symbol": "_buttonDrill_over",
+       "rect": [
+        1,
+        457,
+        815,
+        160
+       ]
+      },
+      {
+       "origin": [
+        145,
+        145
+       ],
+       "symbol": "_buttonXeno_down",
+       "rect": [
+        658,
+        1,
+        290,
+        290
+       ]
+      },
+      {
+       "origin": [
+        137.5,
+        137.5
+       ],
+       "symbol": "_buttonXeno_up",
+       "rect": [
+        1,
+        619,
+        275,
+        275
+       ]
+      },
+      {
+       "origin": [
+        97.3,
+        92.8
+       ],
+       "symbol": "TeamSelect_spriteXenoSelected",
+       "rect": [
+        818,
+        293,
+        195,
+        186
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24
+}

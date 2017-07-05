@@ -1,0 +1,421 @@
+
+[
+	[
+		{
+			"name":"Starter Pack",
+			"typeMoney":"Money.IsartPoint", 
+			"gains":[ 
+				{ 
+					"type":"Gain.HardCurrency",
+					"quantity":2 
+				},
+				{
+					"type":"Gain.SoftCurrency", 
+					"quantity":3500
+				},
+				{ 
+					"type":"Gain.DarkMatter",
+					"quantity":1500
+				}
+			],
+			"price":1.99, 
+			"promo":0 	
+		},
+		{
+			"name":"First Step Pack",
+			"typeMoney":"Money.IsartPoint", 
+			"gains":[ 
+				{ 
+					"type":"Gain.HardCurrency",
+					"quantity":10 
+				},
+				{
+					"type":"Gain.SoftCurrency", 
+					"quantity":7500
+				},
+				{ 
+					"type":"Gain.GeneMultiple",
+					"quantity":25
+				}
+			],
+			"price":9.99, 
+			"promo":0 	
+		},
+		{
+			"name":"Xenos Pack",
+			"typeMoney":"Money.IsartPoint", 
+			"gains":[ 
+				{ 
+					"type":"Gain.SoftCurrency",
+					"quantity":15000 
+				},
+				{
+					"type":"Gain.GeneMultiple", 
+					"quantity":200
+				}
+			],
+			"price":19.99, 
+			"promo":0 	
+		},
+		{
+			"name":"Building Pack",
+			"typeMoney":"Money.IsartPoint", 
+			"gains":[ 
+				{ 
+					"type":"Gain.HardCurrency",
+					"quantity":50 
+				},
+				{
+					"type":"Gain.SoftCurrency", 
+					"quantity":15000
+				},
+				{ 
+					"type":"Gain.DarkMatter",
+					"quantity":20000
+				}
+			],
+			"price":29.99, 
+			"promo":0 	
+		},
+		{
+			"name":"Revive Pack",
+			"typeMoney":"Money.IsartPoint", 
+			"gains":[ 
+				{ 
+					"type":"Gain.HardCurrency",
+					"quantity":75 
+				},
+				{
+					"type":"Gain.SoftCurrency", 
+					"quantity":17500
+				},
+				{ 
+					"type":"Gain.DarkMatter",
+					"quantity":22500
+				},
+				{ 
+					"type":"Gain.GeneMultiple",
+					"quantity":250
+				},
+				{ 
+					"type":"Gain.BluePrint",
+					"quantity":1
+				}
+			],
+			"price":69.99, 
+			"promo":0 	
+		},
+		{
+			"name":"Game Designer Pack",
+			"typeMoney":"Money.IsartPoint", 
+			"gains":[ 
+				{ 
+					"type":"Gain.HardCurrency",
+					"quantity":9999999
+				},
+				{
+					"type":"Gain.SoftCurrency", 
+					"quantity":9999999
+				},
+				{ 
+					"type":"Gain.DarkMatter",
+					"quantity":9999999
+				},
+				{ 
+					"type":"Gain.GeneUpsilon",
+					"quantity":9999999
+				},
+				{ 
+					"type":"Gain.BluePrint",
+					"quantity":9999999
+				}
+			],
+			"price":0, 
+			"promo":0 	
+		}
+	],
+	[
+		{
+			"name":"Pack 1",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.SoftCurrency",
+					"quantity":5500 
+				}
+			],
+			"price":5, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 2",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.SoftCurrency",
+					"quantity":12000 
+				}
+			],
+			"price":10, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 3",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.SoftCurrency",
+					"quantity":55000 
+				}
+			],
+			"price":50, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 4",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.SoftCurrency",
+					"quantity":115000
+				}
+			],
+			"price":100, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 5",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.SoftCurrency",
+					"quantity":250000
+				}
+			],
+			"price":200, 
+			"promo":0 	
+		}
+	],	
+	[
+		{
+			"name":"Pack 1 Rho",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneRho",
+					"quantity":25 
+				}
+			],
+			"price":5, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 2 Rho",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneRho",
+					"quantity":125
+				}
+			],
+			"price":20, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 1 Upsilon",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneUpsilon",
+					"quantity":25 
+				}
+			],
+			"price":5, 
+			"promo":0 	
+		},
+		{
+			"name":"Pack 2 Upsilon",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneUpsilon",
+					"quantity":125
+				}
+			],
+			"price":20, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 1 Beta",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneBeta",
+					"quantity":25 
+				}
+			],
+			"price":10, 
+			"promo":0 	
+		},
+		{
+			"name":"Pack 2 Beta",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneBeta",
+					"quantity":125
+				}
+			],
+			"price":40, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 1 Iota",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneIota",
+					"quantity":25 
+				}
+			],
+			"price":17, 
+			"promo":0 	
+		},
+		{
+			"name":"Pack 2 Iota",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneIota",
+					"quantity":125
+				}
+			],
+			"price":68, 
+			"promo":0 	
+		},
+		
+		{
+			"name":"Pack 1 Sigma",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneSigma",
+					"quantity":25
+				}
+			],
+			"price":25, 
+			"promo":0 	
+		},
+		{
+			"name":"Pack 2 Sigma",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneSigma",
+					"quantity":125
+				}
+			],
+			"price":100, 
+			"promo":0 	
+		}
+	],
+	[
+		{
+			"name":"Pack Multi 1",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneMultiple",
+					"quantity":25 
+				}
+			],
+			"price":47, 
+			"promo":0 	
+		},
+
+		{
+			"name":"Pack Multi 2",
+			"typeMoney":"Money.HardCurrency", 
+			"gains":[ 
+				{ 
+					"type":"Gain.GeneMultiple",
+					"quantity":100 
+				}
+			],
+			"price":47, 
+			"promo":0 	
+		}
+
+	],
+	[
+			{
+				"name":"Pack 1",
+				"typeMoney":"Money.IsartPoint",
+				"gains":[ 
+					{ 
+						"type":"Gain.HardCurrency", 
+						"quantity":5
+					} 
+				],
+				"price":1.99,
+				"promo":0 
+			},
+			{
+				"name":"Pack 2",
+				"typeMoney":"Money.IsartPoint",
+				"gains":[ 
+					{ 
+						"type":"Gain.HardCurrency", 
+						"quantity":30 
+					} 
+				],
+				"price":9.99,
+				"promo":5 
+			},
+			{
+				"name":"Pack 3",
+				"typeMoney":"Money.IsartPoint",
+				"gains":[ 
+					{ 
+						"type":"Gain.HardCurrency", 
+						"quantity":60 
+					} 
+				],
+				"price":19.99,
+				"promo":10 
+			},
+			{
+				"name":"Pack 4",
+				"typeMoney":"Money.IsartPoint",
+				"gains":[ 
+					{ 
+						"type":"Gain.HardCurrency", 
+						"quantity":125
+					} 
+				],
+				"price":39.99,
+				"promo":25 
+			},
+			{
+				"name":"Pack 5",
+				"typeMoney":"Money.IsartPoint",
+				"gains":[ 
+					{ 
+						"type":"Gain.HardCurrency", 
+						"quantity":250
+					} 
+				],
+				"price":69.99,
+				"promo":75 
+			}
+		]
+	
+]

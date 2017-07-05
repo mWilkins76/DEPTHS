@@ -1,0 +1,44 @@
+{
+	"instance3": {
+		"x": 6,
+		"globalY": 100,
+		"scaleY": 1,
+		"type": "DestructibleCoral1",
+		"y": 1,
+		"rotation": 0,
+		"width": 2.01,
+		"height": 2.01,
+		"globalWidth": 201,
+		"globalHeight": 201,
+		"globalX": 600,
+		"scaleX": 1
+	},
+	"instance5": {
+		"x": 18,
+		"globalY": 1800,
+		"scaleY": 1,
+		"type": "DestructibleCoral2",
+		"y": 18,
+		"rotation": 0,
+		"width": 2.01,
+		"height": 2.01,
+		"globalWidth": 201,
+		"globalHeight": 201,
+		"globalX": 1800,
+		"scaleX": 1
+	},
+	"instance1": {
+		"x": 1,
+		"globalY": 100,
+		"scaleY": 1,
+		"type": "DestructibleCoral4",
+		"y": 1,
+		"rotation": 0,
+		"width": 3,
+		"height": 3,
+		"globalWidth": 300,
+		"globalHeight": 300,
+		"globalX": 100,
+		"scaleX": 1
+	}
+}

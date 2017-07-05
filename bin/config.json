@@ -1,0 +1,24 @@
+{
+	"gameName":"Rubis",
+	"version":"0.8.0",
+	"debug":true,
+	"fps":false,
+	"qrcode":false,
+	"language":"",
+	"languages":["en","fr"],
+	"txtsPath":"assets/",
+	"assetsPath":"assets/",
+	"soundsPath":"assets/sounds/",
+	"fontsPath":"fonts/",
+	"langPath":"localization/",
+	
+	"cheat":true,
+	"boxAlpha":0,
+	"animAlpha":1,
+	"texture":"",
+	"ads" : true,
+	"live":false,
+	
+	"test":"test of a custom data"
+
+}

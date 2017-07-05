@@ -1,0 +1,547 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "BuyRegion_buttonAchatSCNormal_over",
+       "rect": [
+        1,
+        1,
+        209,
+        124
+       ],
+       "origin": [
+        104.3,
+        62
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonAchatHCNormal_over",
+       "rect": [
+        212,
+        1,
+        202,
+        120
+       ],
+       "origin": [
+        100.85,
+        59.7
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonAchatHCNormal_up",
+       "rect": [
+        212,
+        123,
+        202,
+        120
+       ],
+       "origin": [
+        100.85,
+        59.7
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonAchatHCNormal_down",
+       "rect": [
+        1,
+        127,
+        202,
+        120
+       ],
+       "origin": [
+        100.85,
+        59.7
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonAchatSCNormal_down",
+       "rect": [
+        205,
+        245,
+        202,
+        120
+       ],
+       "origin": [
+        100.9,
+        59.7
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonAchatSCNormal_up",
+       "rect": [
+        1,
+        249,
+        202,
+        120
+       ],
+       "origin": [
+        100.6,
+        59.55
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonNoAchat_over",
+       "rect": [
+        205,
+        367,
+        143,
+        160
+       ],
+       "origin": [
+        71,
+        79.8
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonYesAchat_over",
+       "rect": [
+        350,
+        367,
+        143,
+        160
+       ],
+       "origin": [
+        71.1,
+        79.9
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonYesAchat_up",
+       "rect": [
+        1,
+        371,
+        134,
+        150
+       ],
+       "origin": [
+        66.4,
+        75.7
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonYesAchat_down",
+       "rect": [
+        1,
+        523,
+        134,
+        150
+       ],
+       "origin": [
+        66.55,
+        74.75
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonNoAchat_down",
+       "rect": [
+        1,
+        675,
+        134,
+        150
+       ],
+       "origin": [
+        66.55,
+        74.75
+       ]
+      },
+      {
+       "symbol": "BuyRegion_buttonNoAchat_up",
+       "rect": [
+        1,
+        827,
+        134,
+        150
+       ],
+       "origin": [
+        66.55,
+        74.45
+       ]
+      },
+      {
+       "symbol": "BuyRegion_spriteSCCurrencie",
+       "rect": [
+        409,
+        245,
+        40,
+        56
+       ],
+       "origin": [
+        18.35,
+        27.05
+       ]
+      },
+      {
+       "data": {
+        "y": -28.8,
+        "wordWrap": 0,
+        "text": "xxxxx",
+        "width": 128,
+        "color": "#000000",
+        "align": "center",
+        "height": 61.6,
+        "font": "bold 48px Alegreya Sans ExtraBold",
+        "x": -64
+       },
+       "symbol": "BuyRegion_txt_SCPrice",
+       "baseClass": "TextSprite",
+       "rect": [
+        205,
+        127,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "id": "BuyRegion",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        0.45,
+        161.3625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~BuyRegion_btn_NoBuySC"
+      }
+     ],
+     "name": "btn_NoBuySC"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -0.75,
+        -0.75
+       ],
+       "pivot": [
+        -2.25,
+        -1.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "RegionSwitch"
+      }
+     ],
+     "name": "RegionSwitch"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        118.95,
+        68.3625
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~BuyRegion_btn_YesBuySC"
+      }
+     ],
+     "name": "btn_YesBuySC"
+    }
+   ]
+  },
+  {
+   "data": {
+    "className": "com.isartdigital.ruby.ui.popin.buyRegion.RegionSwitch"
+   },
+   "id": "RegionSwitch",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -2.25,
+        -1.5
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~BuyRegion_btn_AchatSCNormal"
+      }
+     ],
+     "name": "btn"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -4.8,
+        4.65
+       ],
+       "pivot": [
+        0.225,
+        -0.1125
+       ],
+       "data": {
+        "UIPosition_Desktop": "bottom",
+        "UIPosition": "bottom"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "~BuyRegion_clipPriceSCInfos"
+      }
+     ],
+     "name": "ConfirmationPose_clipPriceHCInfos"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~BuyRegion_btn_AchatSCNormal",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        100.575,
+        59.5125
+       ],
+       "ref": "BuyRegion_buttonAchatSCNormal_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0.0375,
+        0.3
+       ],
+       "pivot": [
+        104.2875,
+        62.025
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "BuyRegion_buttonAchatSCNormal_over"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 2,
+       "pivot": [
+        100.875,
+        59.7
+       ],
+       "ref": "BuyRegion_buttonAchatSCNormal_down"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -0.0375,
+        -0.0375
+       ],
+       "pivot": [
+        100.875,
+        59.7
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "BuyRegion_buttonAchatSCNormal_down"
+      }
+     ],
+     "name": "button"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~BuyRegion_btn_NoBuySC",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "ref": "BuyRegion_buttonNoAchat_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -0.525,
+        0.15
+       ],
+       "pivot": [
+        71.025,
+        79.8
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "BuyRegion_buttonNoAchat_over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0.225,
+        0.1875
+       ],
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "BuyRegion_buttonNoAchat_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        66.5625,
+        74.4375
+       ],
+       "ref": "BuyRegion_buttonNoAchat_up"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "index": 0
+      }
+     ],
+     "name": "txt_No"
+    }
+   ]
+  },
+  {
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~BuyRegion_btn_YesBuySC",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 0,
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "ref": "BuyRegion_buttonYesAchat_up"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        -0.1125,
+        -0.1125
+       ],
+       "pivot": [
+        71.1,
+        79.875
+       ],
+       "index": 1,
+       "tweened": false,
+       "ref": "BuyRegion_buttonYesAchat_over"
+      },
+      {
+       "duration": 1,
+       "loc": [
+        0,
+        -0.75
+       ],
+       "pivot": [
+        66.5625,
+        74.7375
+       ],
+       "index": 2,
+       "tweened": false,
+       "ref": "BuyRegion_buttonYesAchat_down"
+      },
+      {
+       "duration": 1,
+       "tweened": false,
+       "index": 3,
+       "pivot": [
+        66.375,
+        75.7125
+       ],
+       "ref": "BuyRegion_buttonYesAchat_up"
+      }
+     ],
+     "name": "button"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 4,
+       "index": 0
+      }
+     ],
+     "name": "txt_Yes"
+    }
+   ]
+  },
+  {
+   "id": "~BuyRegion_clipPriceSCInfos",
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        -46.6125,
+        -2.175
+       ],
+       "pivot": [
+        18.3375,
+        27.0375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "BuyRegion_spriteSCCurrencie"
+      }
+     ],
+     "name": "ConfirmationPose_spriteSCurrencie"
+    },
+    {
+     "keyframes": [
+      {
+       "duration": 1,
+       "loc": [
+        20.25,
+        -2.4
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "BuyRegion_txt_SCPrice"
+      }
+     ],
+     "name": "txt_SCPrice"
+    }
+   ]
+  }
+ ],
+ "md5": "a6b28f4d3c93d80bba940ef68ddd8d79"
+}

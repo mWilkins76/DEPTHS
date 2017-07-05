@@ -1,0 +1,47 @@
+/**
+ * appelé une fois loggé à Facebook
+ */
+private function onFacebookLogin ():Void {
+	trace ("Connexion à Facebook \\o/");
+	trace ("Token: " + Facebook.token);
+	trace ("UID: " + Facebook.uid);
+	
+	//Facebook.api(Facebook.uid + "?fields=first_name", callBackApi);
+	// Au passage ici on voit qu'on accède pas à toutes les infos parce qu'on est pas autorisés (https://developers.facebook.com/docs/graph-api/reference/user/)
+	//Facebook.api(Facebook.uid, { fields: "first_name,last_name,favorite_athletes"}, callBackApi);
+	
+	//Facebook.api(Facebook.uid+"/friends", callBackApi);
+	//Facebook.api(Facebook.uid+"/invitable_friends", callBackApi);
+	
+	//Facebook.ui( { method: 'share', href: 'https://developers.facebook.com/docs/' },callBackUI );
+	//Facebook.ui( { method: 'apprequests', message: 'Yeah \\o/' },callBackUI );
+	
+	/*
+	Facebook.ui(
+		{
+			method: 'share_open_graph',
+			action_type: 'og.shares',
+			action_properties: Json.stringify({
+				object:	{
+					'og:url':'https://developers.facebook.com/docs/',
+					'og:title': 'Documentation Facebook',
+					'og:description': 'trop bien !',
+					'og:image':'http://www.pixelstalk.net/wp-content/uploads/2016/04/Download-desktop-spongebob-wallpaper-HD-620x388.jpg'
+				}
+			})
+		},
+		callBackUI);
+	*/
+	
+	/*
+	Facebook.ui(
+		{
+			method: 'share_open_graph',
+			action_type: 'og.likes',
+			action_properties: Json.stringify({
+				object:'https://developers.facebook.com/docs/',
+			})
+		},
+		callBackUI);
+	*/
+}

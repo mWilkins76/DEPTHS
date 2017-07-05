@@ -1,0 +1,20 @@
+1) verifier la version de php dans ampps : onglet "PHP" -> change PHP version -> php 5.6 -> apply
+
+2) changer le mots de pass de la bdd en local : 
+Dans la page Home ampps sur le navigateur -> DataBaseTools -> mySqlPassword : oldPassword : mysql -> new password : même que pour la bdd online
+
+3) creer une BDD : Dans la page Home ampps sur le navigateur -> phpMyAdmin, a gauche -> nouvelle base de donnée -> nom : rubis_alpha (ou beta etc...)
+
+4) importer le dump : clic sur la base de donnée rubis_alpha -> onglet : Importer -> choisir le fichier : alpha/dumpSQL/rubis_alpha.sql 
+-> type SQL -> executer
+
+5)verifiez que votre lien local de l'apps et bien https://builder2018.com
+
+
+- modifier vos donnée player : cliquer sur la table player -> identifier la ligne avec votre idFB -> modifier
+
+- supprimer tout vos batiment : dans player retener votre id correspondant à la ligne de votre idFB -> 
+Dans l'onglet SQL -> entrer cette requête : DELETE FROM building WHERE idPlayer = 'votre id de player'
+!!!  attention si vous mettez un autre id vous allez delete les building d'un autre joueur si il exist !!!!
+
+

@@ -1,0 +1,959 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "file": "atlas0.png",
+     "textures": [
+      {
+       "symbol": "Healer2_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        1,
+        1,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "bomber_01_selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        203,
+        1,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "bomber_02_normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        405,
+        1,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "bomber_02_selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        607,
+        1,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "bomber_03_normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        809,
+        1,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "bomber_03_selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        1,
+        153,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "driller_01_normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        203,
+        153,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Driller1_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        405,
+        153,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Driller2_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        607,
+        153,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Driller2_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        809,
+        153,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Driller3_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        1,
+        305,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Driller3_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        1,
+        457,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Healer1_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        1,
+        609,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Healer1_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        1,
+        761,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "bomber_01_normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        203,
+        305,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Healer2_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        405,
+        305,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Healer3_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        607,
+        305,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Healer_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        809,
+        305,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "spriteAlienType1",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        203,
+        457,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "spriteAlienType2",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        203,
+        609,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "spriteAlienType3",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        203,
+        761,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "spriteDriller",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        405,
+        457,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Tank1_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        607,
+        457,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Tank1_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        809,
+        457,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Tank2_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        405,
+        609,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Tank2_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        405,
+        761,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Tank3_Normal_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        607,
+        609,
+        200,
+        150
+       ]
+      },
+      {
+       "symbol": "Tank3_Selected_sprite",
+       "origin": [
+        100,
+        75
+       ],
+       "rect": [
+        809,
+        609,
+        200,
+        150
+       ]
+      }
+     ]
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "movies": [
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1.05,
+        -1.05
+       ],
+       "index": 0,
+       "ref": "bomber_01_normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Bomber1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "bomber_01_selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Bomber1_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "bomber_02_normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Bomber2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "bomber_02_selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Bomber2_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "bomber_03_normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Bomber3"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "bomber_03_selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Bomber3_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "driller_01_normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Driller1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Driller1_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Driller1_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Driller2_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Driller2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Driller2_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Driller2_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Driller3_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Driller3"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Driller3_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Driller3_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Healer1_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Healer1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Healer1_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Healer1_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Healer2_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Healer2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Healer2_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Healer2_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Healer3_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Healer3"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Healer_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Healer3_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Tank1_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Tank1"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Tank1_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Tank1_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Tank2_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Tank2"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Tank2_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Tank2_Selected"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Tank3_Normal_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Tank3"
+  },
+  {
+   "layers": [
+    {
+     "keyframes": [
+      {
+       "pivot": [
+        100,
+        75
+       ],
+       "tweened": false,
+       "loc": [
+        -1,
+        -1
+       ],
+       "index": 0,
+       "ref": "Tank3_Selected_sprite",
+       "duration": 1
+      }
+     ],
+     "name": "Calque 1"
+    }
+   ],
+   "id": "Tank3_Selected"
+  }
+ ],
+ "md5": "06010c04759c9b43a89793cb2f0e7352",
+ "frameRate": 24
+}

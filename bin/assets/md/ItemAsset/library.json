@@ -1,0 +1,4780 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "XenoPage_Basic2",
+       "rect": [
+        1,
+        1,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic3",
+       "rect": [
+        1,
+        303,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic1",
+       "rect": [
+        1,
+        605,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_2",
+       "rect": [
+        1,
+        907,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_3",
+       "rect": [
+        1,
+        1209,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_1",
+       "rect": [
+        303,
+        1,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_2",
+       "rect": [
+        605,
+        1,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_3",
+       "rect": [
+        907,
+        1,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_1",
+       "rect": [
+        1209,
+        1,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_2",
+       "rect": [
+        303,
+        303,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_3",
+       "rect": [
+        303,
+        605,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_1",
+       "rect": [
+        303,
+        907,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal2",
+       "rect": [
+        303,
+        1209,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal3",
+       "rect": [
+        605,
+        303,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal1",
+       "rect": [
+        907,
+        303,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave2",
+       "rect": [
+        1209,
+        303,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave3",
+       "rect": [
+        605,
+        605,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave1",
+       "rect": [
+        605,
+        907,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange2",
+       "rect": [
+        605,
+        1209,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange3",
+       "rect": [
+        907,
+        605,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange1",
+       "rect": [
+        1209,
+        605,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer1_2",
+       "rect": [
+        907,
+        907,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer2_1",
+       "rect": [
+        907,
+        1209,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer1_1",
+       "rect": [
+        1209,
+        907,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_2",
+       "rect": [
+        1209,
+        1209,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "XenoPage_Producer3_3",
+       "rect": [
+        1,
+        1,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_1",
+       "rect": [
+        1,
+        303,
+        300,
+        300
+       ],
+       "origin": [
+        150,
+        150
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Producteur3_lvl1",
+       "rect": [
+        1,
+        605,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Producteur1_lvl1",
+       "rect": [
+        1,
+        795,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Producteur2_lvl1",
+       "rect": [
+        1,
+        985,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Producteur1_lvl2",
+       "rect": [
+        1,
+        1175,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_LongRange2_lvl1",
+       "rect": [
+        303,
+        1,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Parchemin",
+       "rect": [
+        605,
+        1,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_LongRange3_lvl1",
+       "rect": [
+        907,
+        1,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Lave2_lvl1",
+       "rect": [
+        1209,
+        1,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_LongRange1_lvl1",
+       "rect": [
+        303,
+        191,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Lave3_lvl1",
+       "rect": [
+        605,
+        191,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Heal2_lvl1",
+       "rect": [
+        907,
+        191,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Lave1_lvl1",
+       "rect": [
+        1209,
+        191,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Heal3_lvl1",
+       "rect": [
+        303,
+        381,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer3_lvl2",
+       "rect": [
+        605,
+        381,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Heal1_lvl1",
+       "rect": [
+        907,
+        381,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer3_lvl3",
+       "rect": [
+        1209,
+        381,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer2_lvl2",
+       "rect": [
+        303,
+        571,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer3_lvl1",
+       "rect": [
+        605,
+        571,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer2_lvl3",
+       "rect": [
+        907,
+        571,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer1_lvl2",
+       "rect": [
+        1209,
+        571,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer2_lvl1",
+       "rect": [
+        303,
+        761,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer1_lvl3",
+       "rect": [
+        303,
+        951,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Basic2_lvl1",
+       "rect": [
+        303,
+        1141,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Buffer1_lvl1",
+       "rect": [
+        303,
+        1331,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Basic3_lvl1",
+       "rect": [
+        605,
+        761,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Producteur3_lvl2",
+       "rect": [
+        907,
+        761,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Basic1_lvl1",
+       "rect": [
+        1209,
+        761,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "ActionNotification_Producteur3_lvl3",
+       "rect": [
+        605,
+        951,
+        300,
+        188
+       ],
+       "origin": [
+        150,
+        93.75
+       ]
+      },
+      {
+       "symbol": "Enclos_Producteur2_lvl1",
+       "rect": [
+        605,
+        1141,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer1_lvl2",
+       "rect": [
+        605,
+        1338,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer1_lvl1",
+       "rect": [
+        802,
+        1141,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Lave2_lvl1",
+       "rect": [
+        802,
+        1338,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer2_lvl3",
+       "rect": [
+        999,
+        951,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer2_lvl2",
+       "rect": [
+        1196,
+        951,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Producteur3_lvl3",
+       "rect": [
+        999,
+        1148,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Producteur3_lvl2",
+       "rect": [
+        1196,
+        1148,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "RewardAsset_Beta",
+       "rect": [
+        999,
+        1345,
+        183,
+        184
+       ],
+       "origin": [
+        91.5,
+        92.3
+       ]
+      },
+      {
+       "symbol": "RewardAsset_SoftCurrency5000",
+       "rect": [
+        1,
+        1365,
+        207,
+        146
+       ],
+       "origin": [
+        103.1,
+        72.75
+       ]
+      },
+      {
+       "symbol": "RewardAsset_SoftCurrency25000",
+       "rect": [
+        1184,
+        1345,
+        207,
+        146
+       ],
+       "origin": [
+        103.1,
+        72.75
+       ]
+      },
+      {
+       "symbol": "RewardAsset_HardCurrency20",
+       "rect": [
+        1393,
+        951,
+        136,
+        165
+       ],
+       "origin": [
+        67.9,
+        82.5
+       ]
+      },
+      {
+       "symbol": "RewardAsset_HardCurrency10",
+       "rect": [
+        1393,
+        1118,
+        133,
+        165
+       ],
+       "origin": [
+        66.4,
+        82.5
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_1_Iota",
+       "rect": [
+        1393,
+        1285,
+        136,
+        149
+       ],
+       "origin": [
+        68.25,
+        74.25
+       ]
+      },
+      {
+       "symbol": "RewardNotification_MN",
+       "rect": [
+        1393,
+        1436,
+        109,
+        89
+       ],
+       "origin": [
+        25.2,
+        54.05
+       ]
+      },
+      {
+       "symbol": "RewardNotification_SoftCurrency",
+       "rect": [
+        210,
+        1365,
+        81,
+        115
+       ],
+       "origin": [
+        40.5,
+        57.2
+       ]
+      },
+      {
+       "symbol": "RewardNotification_HardCurrency",
+       "rect": [
+        907,
+        951,
+        85,
+        108
+       ],
+       "origin": [
+        42.35,
+        53.8
+       ]
+      },
+      {
+       "symbol": "RewardNotification_Iota",
+       "rect": [
+        907,
+        1061,
+        69,
+        77
+       ],
+       "origin": [
+        29.65,
+        40.2
+       ]
+      }
+     ],
+     "file": "atlas1.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "Enclos_Heal3_lvl1",
+       "rect": [
+        1,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Heal2_lvl1",
+       "rect": [
+        1,
+        198,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Producteur3_lvl1",
+       "rect": [
+        1,
+        395,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Lave1_lvl1",
+       "rect": [
+        1,
+        592,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_LongRange3_lvl1",
+       "rect": [
+        1,
+        789,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Heal1_lvl1",
+       "rect": [
+        1,
+        986,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_LongRange2_lvl1",
+       "rect": [
+        1,
+        1183,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_LongRange1_lvl1",
+       "rect": [
+        198,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer3_lvl3",
+       "rect": [
+        395,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer3_lvl2",
+       "rect": [
+        592,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer3_lvl1",
+       "rect": [
+        789,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Producteur1_lvl2",
+       "rect": [
+        986,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Producteur1_lvl1",
+       "rect": [
+        1183,
+        1,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Basic2_lvl1",
+       "rect": [
+        198,
+        198,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer2_lvl1",
+       "rect": [
+        198,
+        395,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Basic3_lvl1",
+       "rect": [
+        198,
+        592,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Lave3_lvl1",
+       "rect": [
+        198,
+        789,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Buffer1_lvl3",
+       "rect": [
+        198,
+        986,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "Enclos_Basic1_lvl1",
+       "rect": [
+        198,
+        1183,
+        195,
+        195
+       ],
+       "origin": [
+        97.5,
+        97.5
+       ]
+      },
+      {
+       "symbol": "RewardAsset_Iota",
+       "rect": [
+        395,
+        198,
+        180,
+        197
+       ],
+       "origin": [
+        89.8,
+        98.25
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_SC_Pack_3",
+       "rect": [
+        577,
+        198,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_HC_Pack_2",
+       "rect": [
+        743,
+        198,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_HC_Pack_3",
+       "rect": [
+        909,
+        198,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_SC_Pack_1",
+       "rect": [
+        1075,
+        198,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_HC_Pack_5",
+       "rect": [
+        1241,
+        198,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_SC_Pack_5",
+       "rect": [
+        577,
+        377,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_SC_Pack_2",
+       "rect": [
+        395,
+        397,
+        164,
+        177
+       ],
+       "origin": [
+        81.7,
+        88.4
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_1_Beta",
+       "rect": [
+        743,
+        377,
+        160,
+        161
+       ],
+       "origin": [
+        80.25,
+        80.25
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Basic3_lvl1",
+       "rect": [
+        1,
+        1380,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer1_lvl3",
+       "rect": [
+        202,
+        1380,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer2_lvl1",
+       "rect": [
+        905,
+        377,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer2_lvl2",
+       "rect": [
+        1106,
+        377,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer2_lvl3",
+       "rect": [
+        1307,
+        377,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer3_lvl1",
+       "rect": [
+        905,
+        499,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer3_lvl2",
+       "rect": [
+        561,
+        556,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer3_lvl3",
+       "rect": [
+        1106,
+        499,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Heal1_lvl1",
+       "rect": [
+        1307,
+        499,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Heal2_lvl1",
+       "rect": [
+        762,
+        621,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Heal3_lvl1",
+       "rect": [
+        395,
+        678,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Lave1_lvl1",
+       "rect": [
+        963,
+        621,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer1_lvl1",
+       "rect": [
+        1164,
+        621,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Lave3_lvl1",
+       "rect": [
+        395,
+        800,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_LongRange1_lvl1",
+       "rect": [
+        395,
+        922,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_LongRange2_lvl1",
+       "rect": [
+        395,
+        1044,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_LongRange3_lvl1",
+       "rect": [
+        395,
+        1166,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Producteur1_lvl1",
+       "rect": [
+        403,
+        1288,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Producteur1_lvl2",
+       "rect": [
+        403,
+        1410,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Producteur2_lvl1",
+       "rect": [
+        596,
+        743,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Producteur3_lvl1",
+       "rect": [
+        596,
+        865,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Producteur3_lvl2",
+       "rect": [
+        596,
+        987,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Producteur3_lvl3",
+       "rect": [
+        596,
+        1109,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Basic2_lvl1",
+       "rect": [
+        604,
+        1231,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Basic1_lvl1",
+       "rect": [
+        604,
+        1353,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Lave2_lvl1",
+       "rect": [
+        797,
+        743,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "ConfirmationVente_Buffer1_lvl2",
+       "rect": [
+        797,
+        865,
+        199,
+        120
+       ],
+       "origin": [
+        99.4,
+        60
+       ]
+      },
+      {
+       "symbol": "RewardAsset_Rho",
+       "rect": [
+        797,
+        987,
+        183,
+        127
+       ],
+       "origin": [
+        91.5,
+        63.8
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_HC_Pack_4",
+       "rect": [
+        1380,
+        1,
+        146,
+        158
+       ],
+       "origin": [
+        72.6,
+        78.6
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_HC_Pack_1",
+       "rect": [
+        1365,
+        621,
+        146,
+        158
+       ],
+       "origin": [
+        72.6,
+        78.6
+       ]
+      },
+      {
+       "symbol": "RewardAsset_Upsilon",
+       "rect": [
+        998,
+        743,
+        180,
+        126
+       ],
+       "origin": [
+        89.9,
+        62.6
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_1_Sigma",
+       "rect": [
+        1180,
+        743,
+        150,
+        150
+       ],
+       "origin": [
+        75,
+        75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_2_Beta",
+       "rect": [
+        998,
+        871,
+        150,
+        150
+       ],
+       "origin": [
+        75,
+        75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_2_Upsilon",
+       "rect": [
+        1332,
+        781,
+        150,
+        150
+       ],
+       "origin": [
+        75,
+        75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_2_Iota",
+       "rect": [
+        1150,
+        895,
+        150,
+        150
+       ],
+       "origin": [
+        75,
+        75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_2_Sigma",
+       "rect": [
+        982,
+        1023,
+        150,
+        150
+       ],
+       "origin": [
+        75,
+        75.75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_Genes_Pack_Multi_1",
+       "rect": [
+        805,
+        1116,
+        150,
+        150
+       ],
+       "origin": [
+        74.95,
+        75.8
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_Genes_Pack_Multi_2",
+       "rect": [
+        1302,
+        933,
+        150,
+        150
+       ],
+       "origin": [
+        75.75,
+        75.75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_2_Rho",
+       "rect": [
+        1134,
+        1047,
+        150,
+        150
+       ],
+       "origin": [
+        75.05,
+        75.75
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_Building_Pack",
+       "rect": [
+        957,
+        1175,
+        131,
+        145
+       ],
+       "origin": [
+        65.25,
+        72.2
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_Revive_Pack",
+       "rect": [
+        805,
+        1268,
+        131,
+        145
+       ],
+       "origin": [
+        65.25,
+        72.2
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_Starter_Pack",
+       "rect": [
+        1286,
+        1085,
+        131,
+        145
+       ],
+       "origin": [
+        65.25,
+        72.2
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_First_Step_Pack",
+       "rect": [
+        1090,
+        1199,
+        131,
+        145
+       ],
+       "origin": [
+        65.25,
+        72.2
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Pack_Xenos_Pack",
+       "rect": [
+        938,
+        1322,
+        131,
+        145
+       ],
+       "origin": [
+        65.25,
+        72.2
+       ]
+      },
+      {
+       "symbol": "RewardAsset_Sigma",
+       "rect": [
+        1071,
+        1346,
+        198,
+        95
+       ],
+       "origin": [
+        98.6,
+        47.15
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanCommunication_Disabled",
+       "rect": [
+        1271,
+        1232,
+        135,
+        138
+       ],
+       "origin": [
+        67.25,
+        72.5
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanCommunication_Normal",
+       "rect": [
+        1271,
+        1372,
+        135,
+        138
+       ],
+       "origin": [
+        67.25,
+        72.5
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_SC_Pack_4",
+       "rect": [
+        1407,
+        161,
+        127,
+        138
+       ],
+       "origin": [
+        63.5,
+        68.8
+       ]
+      },
+      {
+       "symbol": "RewardNotification_Parchemin",
+       "rect": [
+        395,
+        576,
+        159,
+        100
+       ],
+       "origin": [
+        89.25,
+        40.7
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienTrainingCenter_Selected",
+       "rect": [
+        805,
+        1415,
+        119,
+        107
+       ],
+       "origin": [
+        59.05,
+        53.05
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienTrainingCenter_Disabled",
+       "rect": [
+        1408,
+        1232,
+        119,
+        107
+       ],
+       "origin": [
+        59.05,
+        53.05
+       ]
+      },
+      {
+       "symbol": "BuildingMenuItemAsset",
+       "rect": [
+        1408,
+        1341,
+        119,
+        107
+       ],
+       "origin": [
+        59.2,
+        53.2
+       ]
+      },
+      {
+       "symbol": "CodexItemAsset",
+       "rect": [
+        1419,
+        1085,
+        114,
+        102
+       ],
+       "origin": [
+        56,
+        51.5
+       ]
+      },
+      {
+       "symbol": "RewardNotification_Upsilon",
+       "rect": [
+        1407,
+        301,
+        107,
+        74
+       ],
+       "origin": [
+        13.7,
+        35.25
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset",
+       "rect": [
+        1408,
+        1450,
+        92,
+        84
+       ],
+       "origin": [
+        45.55,
+        41.8
+       ]
+      },
+      {
+       "symbol": "RewardNotification_Rho",
+       "rect": [
+        762,
+        540,
+        104,
+        73
+       ],
+       "origin": [
+        14,
+        39
+       ]
+      },
+      {
+       "symbol": "Shop_spriteCurrencie",
+       "rect": [
+        1071,
+        1443,
+        103,
+        72
+       ],
+       "origin": [
+        49.75,
+        35.9
+       ]
+      },
+      {
+       "symbol": "Shop_spriteCurrencie_HC",
+       "rect": [
+        1176,
+        1443,
+        71,
+        90
+       ],
+       "origin": [
+        36.1,
+        44.5
+       ]
+      },
+      {
+       "symbol": "RewardNotification_Sigma",
+       "rect": [
+        926,
+        1469,
+        113,
+        54
+       ],
+       "origin": [
+        16.7,
+        35.25
+       ]
+      },
+      {
+       "symbol": "Shop_spriteCurrencie_IsartPoint",
+       "rect": [
+        1454,
+        933,
+        72,
+        72
+       ],
+       "origin": [
+        36.7,
+        35.5
+       ]
+      },
+      {
+       "symbol": "RewardNotification_Beta",
+       "rect": [
+        1454,
+        1007,
+        69,
+        69
+       ],
+       "origin": [
+        24.1,
+        19.1
+       ]
+      }
+     ],
+     "file": "atlas2.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanCommunication_Selected",
+       "rect": [
+        1,
+        1,
+        135,
+        138
+       ],
+       "origin": [
+        67.25,
+        72.5
+       ]
+      },
+      {
+       "symbol": "RewardAsset_MatiereNoire2500",
+       "rect": [
+        138,
+        1,
+        171,
+        105
+       ],
+       "origin": [
+        85.1,
+        52.1
+       ]
+      },
+      {
+       "symbol": "RewardAsset_MatiereNoire500",
+       "rect": [
+        311,
+        1,
+        153,
+        105
+       ],
+       "origin": [
+        76.5,
+        52.1
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_1_Upsilon",
+       "rect": [
+        466,
+        1,
+        144,
+        100
+       ],
+       "origin": [
+        72,
+        50.25
+       ]
+      },
+      {
+       "symbol": "Shop_spriteItemAsset_Genes_Pack_1_Rho",
+       "rect": [
+        612,
+        1,
+        144,
+        100
+       ],
+       "origin": [
+        72,
+        50.25
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienTrainingCenter_Normal",
+       "rect": [
+        758,
+        1,
+        119,
+        107
+       ],
+       "origin": [
+        59.05,
+        53.05
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanTranslation_Normal",
+       "rect": [
+        879,
+        1,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanTranslation_Selected",
+       "rect": [
+        879,
+        109,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanTranslation_Disabled",
+       "rect": [
+        466,
+        103,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanPowerStation_Selected",
+       "rect": [
+        586,
+        103,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockSmall_Normal",
+       "rect": [
+        706,
+        110,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule1_Disabled",
+       "rect": [
+        826,
+        217,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule3_Disabled",
+       "rect": [
+        138,
+        108,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule2_Selected",
+       "rect": [
+        1,
+        141,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockTiny_Disabled",
+       "rect": [
+        258,
+        108,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockTiny_Normal",
+       "rect": [
+        378,
+        211,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanPowerStation_Normal",
+       "rect": [
+        498,
+        211,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant1_Normal",
+       "rect": [
+        618,
+        218,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant1_Disabled",
+       "rect": [
+        121,
+        216,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanPowerStation_Disabled",
+       "rect": [
+        1,
+        249,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanAntenna_Selected",
+       "rect": [
+        241,
+        216,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule3_Selected",
+       "rect": [
+        361,
+        319,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanAntenna_Normal",
+       "rect": [
+        481,
+        319,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienCryoCenter_Disabled",
+       "rect": [
+        121,
+        324,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_UrbanAntenna_Disabled",
+       "rect": [
+        1,
+        357,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingOutPost_Selected",
+       "rect": [
+        241,
+        324,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingOutPost_Normal",
+       "rect": [
+        738,
+        325,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingOutPost_Disabled",
+       "rect": [
+        601,
+        326,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingCenter_Selected",
+       "rect": [
+        858,
+        325,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingCenter_Normal",
+       "rect": [
+        361,
+        427,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingCenter_Disabled",
+       "rect": [
+        481,
+        427,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingAutoOutPost_Selected",
+       "rect": [
+        121,
+        432,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingAutoOutPost_Normal",
+       "rect": [
+        1,
+        465,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_DrillingAutoOutPost_Disabled",
+       "rect": [
+        241,
+        432,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant3_Selected",
+       "rect": [
+        721,
+        433,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant3_Normal",
+       "rect": [
+        601,
+        434,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant3_Disabled",
+       "rect": [
+        841,
+        433,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant2_Selected",
+       "rect": [
+        361,
+        535,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant2_Normal",
+       "rect": [
+        481,
+        535,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant2_Disabled",
+       "rect": [
+        121,
+        540,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticPlant1_Selected",
+       "rect": [
+        1,
+        573,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienCryoCenter_Normal",
+       "rect": [
+        241,
+        540,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockMedium_Disabled",
+       "rect": [
+        721,
+        541,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockMedium_Normal",
+       "rect": [
+        601,
+        542,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule3_Normal",
+       "rect": [
+        841,
+        541,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockTiny_Selected",
+       "rect": [
+        361,
+        643,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule1_Selected",
+       "rect": [
+        481,
+        643,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockSmall_Selected",
+       "rect": [
+        121,
+        648,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockBig_Selected",
+       "rect": [
+        1,
+        681,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule2_Normal",
+       "rect": [
+        241,
+        648,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockSmall_Disabled",
+       "rect": [
+        721,
+        649,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockMedium_Selected",
+       "rect": [
+        601,
+        650,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule2_Disabled",
+       "rect": [
+        841,
+        649,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienCryoCenter_Selected",
+       "rect": [
+        361,
+        751,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockBig_Disabled",
+       "rect": [
+        481,
+        751,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_BuildingCosmeticCapsule1_Normal",
+       "rect": [
+        121,
+        756,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienIncubator_Normal",
+       "rect": [
+        1,
+        789,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienPaddockBig_Normal",
+       "rect": [
+        241,
+        756,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienIncubator_Disabled",
+       "rect": [
+        721,
+        757,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "BuildingMenu_spriteItemAsset_AlienIncubator_Selected",
+       "rect": [
+        601,
+        758,
+        118,
+        106
+       ],
+       "origin": [
+        58.9,
+        52.9
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer2_Selected",
+       "rect": [
+        841,
+        757,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer3_Disabled",
+       "rect": [
+        841,
+        860,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange3_Normal",
+       "rect": [
+        721,
+        865,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange3_Selected",
+       "rect": [
+        836,
+        963,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_1_Disabled",
+       "rect": [
+        361,
+        859,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer1_Disabled",
+       "rect": [
+        476,
+        859,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer2_Disabled",
+       "rect": [
+        591,
+        866,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_2_Disabled",
+       "rect": [
+        706,
+        968,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_2_Normal",
+       "rect": [
+        821,
+        1066,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer3_Selected",
+       "rect": [
+        121,
+        864,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_3_Disabled",
+       "rect": [
+        1,
+        897,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_3_Normal",
+       "rect": [
+        236,
+        864,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer1_Normal",
+       "rect": [
+        351,
+        962,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_1_Disabled",
+       "rect": [
+        466,
+        962,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_1_Normal",
+       "rect": [
+        581,
+        969,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer2_Normal",
+       "rect": [
+        696,
+        1071,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_2_Disabled",
+       "rect": [
+        811,
+        1169,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_2_Normal",
+       "rect": [
+        116,
+        967,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic1_Disabled",
+       "rect": [
+        1,
+        1000,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_3_Disabled",
+       "rect": [
+        231,
+        967,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer3_3_Normal",
+       "rect": [
+        346,
+        1065,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic1_Normal",
+       "rect": [
+        461,
+        1065,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal1_Disabled",
+       "rect": [
+        576,
+        1072,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal1_Normal",
+       "rect": [
+        691,
+        1174,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic2_Disabled",
+       "rect": [
+        806,
+        1272,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal2_Disabled",
+       "rect": [
+        116,
+        1070,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal2_Normal",
+       "rect": [
+        1,
+        1103,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic2_Normal",
+       "rect": [
+        231,
+        1070,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal3_Disabled",
+       "rect": [
+        346,
+        1168,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer1_Selected",
+       "rect": [
+        461,
+        1168,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic3_Disabled",
+       "rect": [
+        576,
+        1175,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave1_Disabled",
+       "rect": [
+        691,
+        1277,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave1_Normal",
+       "rect": [
+        806,
+        1375,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Basic3_Normal",
+       "rect": [
+        116,
+        1173,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave2_Disabled",
+       "rect": [
+        1,
+        1206,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave2_Normal",
+       "rect": [
+        231,
+        1173,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_1_Disabled",
+       "rect": [
+        346,
+        1271,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave3_Disabled",
+       "rect": [
+        461,
+        1271,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Lave3_Normal",
+       "rect": [
+        576,
+        1278,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_1_Normal",
+       "rect": [
+        691,
+        1380,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange1_Disabled",
+       "rect": [
+        116,
+        1276,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange1_Normal",
+       "rect": [
+        1,
+        1309,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_2_Disabled",
+       "rect": [
+        231,
+        1276,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange2_Disabled",
+       "rect": [
+        346,
+        1374,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange2_Normal",
+       "rect": [
+        461,
+        1374,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_2_Normal",
+       "rect": [
+        576,
+        1381,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange3_Disabled",
+       "rect": [
+        116,
+        1379,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_LongRange3_Normal",
+       "rect": [
+        1,
+        1412,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_3_Disabled",
+       "rect": [
+        231,
+        1379,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      }
+     ],
+     "file": "atlas3.png"
+    },
+    {
+     "textures": [
+      {
+       "symbol": "XenoPage_Producer1_1_Disabled",
+       "rect": [
+        1,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer1_1_Normal",
+       "rect": [
+        116,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer1_3_Normal",
+       "rect": [
+        231,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer1_2_Disabled",
+       "rect": [
+        346,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer1_2_Normal",
+       "rect": [
+        461,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Producer3_Normal",
+       "rect": [
+        576,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer2_1_Disabled",
+       "rect": [
+        691,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer2_1_Normal",
+       "rect": [
+        806,
+        1,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Buffer2_1_Normal",
+       "rect": [
+        1,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_1_Disabled",
+       "rect": [
+        116,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_1_Normal",
+       "rect": [
+        231,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Heal3_Normal",
+       "rect": [
+        346,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_2_Disabled",
+       "rect": [
+        461,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_2_Normal",
+       "rect": [
+        576,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal1_Selected",
+       "rect": [
+        691,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_3_Disabled",
+       "rect": [
+        806,
+        104,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenoPage_Producer3_3_Normal",
+       "rect": [
+        1,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic1_Disabled",
+       "rect": [
+        1,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic1_Normal",
+       "rect": [
+        1,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic1_Selected",
+       "rect": [
+        1,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic2_Disabled",
+       "rect": [
+        1,
+        619,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic2_Normal",
+       "rect": [
+        1,
+        722,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic2_Selected",
+       "rect": [
+        1,
+        825,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic3_Disabled",
+       "rect": [
+        116,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic3_Normal",
+       "rect": [
+        231,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Basic3_Selected",
+       "rect": [
+        346,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer1_Disabled",
+       "rect": [
+        461,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer1_Normal",
+       "rect": [
+        576,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer1_Selected",
+       "rect": [
+        691,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer2_Disabled",
+       "rect": [
+        806,
+        207,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer2_Normal",
+       "rect": [
+        116,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer2_Selected",
+       "rect": [
+        116,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer3_Disabled",
+       "rect": [
+        116,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer3_Normal",
+       "rect": [
+        116,
+        619,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Buffer3_Selected",
+       "rect": [
+        116,
+        722,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal1_Disabled",
+       "rect": [
+        116,
+        825,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal1_Normal",
+       "rect": [
+        231,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave2_Normal",
+       "rect": [
+        346,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal2_Disabled",
+       "rect": [
+        461,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal2_Normal",
+       "rect": [
+        576,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal2_Selected",
+       "rect": [
+        691,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal3_Disabled",
+       "rect": [
+        806,
+        310,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal3_Normal",
+       "rect": [
+        231,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Heal3_Selected",
+       "rect": [
+        231,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave1_Disabled",
+       "rect": [
+        231,
+        619,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave1_Normal",
+       "rect": [
+        231,
+        722,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave1_Selected",
+       "rect": [
+        231,
+        825,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave2_Disabled",
+       "rect": [
+        346,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange1_Normal",
+       "rect": [
+        461,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave2_Selected",
+       "rect": [
+        576,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave3_Disabled",
+       "rect": [
+        691,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave3_Normal",
+       "rect": [
+        806,
+        413,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_Lave3_Selected",
+       "rect": [
+        346,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange1_Disabled",
+       "rect": [
+        346,
+        619,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange2_Normal",
+       "rect": [
+        346,
+        722,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange1_Selected",
+       "rect": [
+        346,
+        825,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange2_Disabled",
+       "rect": [
+        461,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange2_Selected",
+       "rect": [
+        576,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      },
+      {
+       "symbol": "XenosThumbnail_LongRange3_Disabled",
+       "rect": [
+        691,
+        516,
+        113,
+        101
+       ],
+       "origin": [
+        55.65,
+        51.15
+       ]
+      }
+     ],
+     "file": "atlas4.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "id": "ItemAsset",
+   "layers": [
+    {
+     "name": "Shop_spriteCurrencie_HC",
+     "keyframes": [
+      {
+       "pivot": [
+        35.925,
+        39.15
+       ],
+       "duration": 1,
+       "loc": [
+        25.95,
+        -17.325
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteCurrencie_HC"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteCurrencie_SC",
+     "keyframes": [
+      {
+       "index": 0,
+       "duration": 1
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Beta1",
+     "keyframes": [
+      {
+       "pivot": [
+        46.0125,
+        80.2125
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_1_Beta"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Beta2",
+     "keyframes": [
+      {
+       "pivot": [
+        40.7625,
+        74.9625
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_2_Beta"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Iota1",
+     "keyframes": [
+      {
+       "pivot": [
+        33.75,
+        74.2125
+       ],
+       "duration": 1,
+       "loc": [
+        -8.3625,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_1_Iota"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Iota2",
+     "keyframes": [
+      {
+       "pivot": [
+        40.7625,
+        74.9625
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_2_Iota"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Multiple1",
+     "keyframes": [
+      {
+       "pivot": [
+        44.2125,
+        75.7875
+       ],
+       "duration": 1,
+       "loc": [
+        -4.6125,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Pack_Genes_Pack_Multi_1"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Multiple2",
+     "keyframes": [
+      {
+       "pivot": [
+        48.7875,
+        75.7125
+       ],
+       "duration": 1,
+       "loc": [
+        -0.825,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Pack_Genes_Pack_Multi_2"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Rho1",
+     "keyframes": [
+      {
+       "pivot": [
+        37.5,
+        50.2125
+       ],
+       "duration": 1,
+       "loc": [
+        -8.3625,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_1_Rho"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Rho2",
+     "keyframes": [
+      {
+       "pivot": [
+        40.8,
+        75.7125
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_2_Rho"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Sigma1",
+     "keyframes": [
+      {
+       "pivot": [
+        40.5,
+        74.9625
+       ],
+       "duration": 1,
+       "loc": [
+        -8.3625,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_1_Sigma"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Sigma2",
+     "keyframes": [
+      {
+       "pivot": [
+        40.7625,
+        75.7125
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_2_Sigma"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Upsilon1",
+     "keyframes": [
+      {
+       "pivot": [
+        37.7625,
+        50.2125
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_1_Upsilon"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_Gene_Upsilon2",
+     "keyframes": [
+      {
+       "pivot": [
+        40.7625,
+        74.9625
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_Genes_Pack_2_Upsilon"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_HC1",
+     "keyframes": [
+      {
+       "pivot": [
+        38.55,
+        78.5625
+       ],
+       "duration": 1,
+       "loc": [
+        -7.9125,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_HC_Pack_1"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_HC2",
+     "keyframes": [
+      {
+       "pivot": [
+        47.4375,
+        88.3875
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_HC_Pack_2"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_HC3",
+     "keyframes": [
+      {
+       "pivot": [
+        55.6875,
+        88.3875
+       ],
+       "duration": 1,
+       "loc": [
+        0.15,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_HC_Pack_3"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_HC4",
+     "keyframes": [
+      {
+       "pivot": [
+        35.1,
+        72.4875
+       ],
+       "duration": 1,
+       "loc": [
+        -11.3625,
+        -18.075
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_HC_Pack_4"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_HC5",
+     "keyframes": [
+      {
+       "pivot": [
+        29.8125,
+        87.9
+       ],
+       "duration": 1,
+       "loc": [
+        -25.725,
+        -12.4875
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_HC_Pack_5"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_SC1",
+     "keyframes": [
+      {
+       "pivot": [
+        47.625,
+        88.3875
+       ],
+       "duration": 1,
+       "loc": [
+        -7.9125,
+        -12
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_SC_Pack_1"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_SC2",
+     "keyframes": [
+      {
+       "pivot": [
+        47.4375,
+        86.8875
+       ],
+       "duration": 1,
+       "loc": [
+        -8.1,
+        -13.5
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_SC_Pack_2"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_SC3",
+     "keyframes": [
+      {
+       "pivot": [
+        46.425,
+        80.0625
+       ],
+       "duration": 1,
+       "loc": [
+        -9.1125,
+        -20.325
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_SC_Pack_3"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_SC4",
+     "keyframes": [
+      {
+       "pivot": [
+        28.275,
+        62.325
+       ],
+       "duration": 1,
+       "loc": [
+        -9.1125,
+        -18.4125
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_SC_Pack_4"
+      }
+     ]
+    },
+    {
+     "name": "Shop_spriteItemAsset_SC5",
+     "keyframes": [
+      {
+       "pivot": [
+        31.575,
+        90.3
+       ],
+       "duration": 1,
+       "loc": [
+        -23.9625,
+        -10.0875
+       ],
+       "tweened": false,
+       "index": 0,
+       "ref": "Shop_spriteItemAsset_SC_Pack_5"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "md5": "ab3507dea978ab58a094419a46f568f8"
+}

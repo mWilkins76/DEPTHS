@@ -1,0 +1,815 @@
+{
+ "isNamespaced": false,
+ "textureGroups": [
+  {
+   "atlases": [
+    {
+     "textures": [
+      {
+       "symbol": "Pins_buttonNotifications_up",
+       "rect": [
+        1,
+        1,
+        294,
+        294
+       ],
+       "origin": [
+        146.25,
+        146.5
+       ]
+      },
+      {
+       "symbol": "Pins_buttonXenosPanel_up",
+       "rect": [
+        1,
+        297,
+        294,
+        294
+       ],
+       "origin": [
+        146.25,
+        146.5
+       ]
+      },
+      {
+       "symbol": "Pins_buttonMissions_up",
+       "rect": [
+        1,
+        593,
+        294,
+        294
+       ],
+       "origin": [
+        146.25,
+        146.5
+       ]
+      },
+      {
+       "symbol": "Pins_buttonMissions_hit",
+       "rect": [
+        297,
+        1,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Pins_buttonNotifications_hit",
+       "rect": [
+        502,
+        1,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Pins_buttonXenosPanel_hit",
+       "rect": [
+        707,
+        1,
+        203,
+        203
+       ],
+       "origin": [
+        101.25,
+        101.25
+       ]
+      },
+      {
+       "symbol": "Pins_buttonNotifications_over",
+       "rect": [
+        1,
+        889,
+        129,
+        129
+       ],
+       "origin": [
+        64.45,
+        64.45
+       ]
+      },
+      {
+       "symbol": "Pins_buttonMissions_over",
+       "rect": [
+        132,
+        889,
+        129,
+        129
+       ],
+       "origin": [
+        64.45,
+        64.45
+       ]
+      },
+      {
+       "symbol": "Pins_buttonNotifications_down",
+       "rect": [
+        263,
+        889,
+        129,
+        129
+       ],
+       "origin": [
+        64.45,
+        64.45
+       ]
+      },
+      {
+       "symbol": "Pins_buttonMissions_down",
+       "rect": [
+        297,
+        206,
+        129,
+        129
+       ],
+       "origin": [
+        64.45,
+        64.45
+       ]
+      },
+      {
+       "symbol": "Pins_buttonXenosPanel_over",
+       "rect": [
+        297,
+        337,
+        129,
+        129
+       ],
+       "origin": [
+        64.45,
+        64.45
+       ]
+      },
+      {
+       "symbol": "Pins_buttonXenosPanel_down",
+       "rect": [
+        297,
+        468,
+        129,
+        129
+       ],
+       "origin": [
+        64.45,
+        64.45
+       ]
+      },
+      {
+       "symbol": "Pins_spriteJoblessXenosBG",
+       "rect": [
+        297,
+        599,
+        116,
+        113
+       ],
+       "origin": [
+        57.75,
+        56.4
+       ]
+      },
+      {
+       "data": {
+        "y": -15.8,
+        "wordWrap": 0,
+        "text": "< xx days >",
+        "width": 110.25,
+        "color": "#000000",
+        "align": "center",
+        "height": 31.55,
+        "font": "20px Calibri",
+        "x": -55.15
+       },
+       "symbol": "Pins_txt_DaysRemaining",
+       "baseClass": "TextSprite",
+       "rect": [
+        1,
+        1020,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -14.2,
+        "wordWrap": 0,
+        "text": "XX",
+        "width": 25,
+        "color": "#FF0000",
+        "align": "center",
+        "height": 28.4,
+        "font": "20px Calibri",
+        "x": -12.5
+       },
+       "symbol": "Pins_txt_JoblessXenosDisplay",
+       "baseClass": "TextSprite",
+       "rect": [
+        4,
+        1020,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -15.8,
+        "wordWrap": 0,
+        "text": "Missions",
+        "width": 110.25,
+        "color": "#000000",
+        "align": "center",
+        "height": 31.55,
+        "font": "20px Calibri",
+        "x": -55.15
+       },
+       "symbol": "Pins_txt_Missions",
+       "baseClass": "TextSprite",
+       "rect": [
+        7,
+        1020,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      },
+      {
+       "data": {
+        "y": -15.8,
+        "wordWrap": 0,
+        "text": "< Xenos Infos >",
+        "width": 141.15,
+        "color": "#000000",
+        "align": "center",
+        "height": 31.55,
+        "font": "20px Calibri",
+        "x": -70.6
+       },
+       "symbol": "Pins_txt_XenosInfos",
+       "baseClass": "TextSprite",
+       "rect": [
+        10,
+        1020,
+        1,
+        1
+       ],
+       "origin": [
+        0,
+        0
+       ]
+      }
+     ],
+     "file": "atlas0.png"
+    }
+   ],
+   "scaleFactor": 1
+  }
+ ],
+ "frameRate": 24,
+ "movies": [
+  {
+   "data": {
+    "y": -35.85,
+    "height": 71.7,
+    "width": 293.85,
+    "color": "#000000",
+    "wordWrap": 1,
+    "font": "48px Arial Black",
+    "x": -88.05
+   },
+   "id": "Pins",
+   "layers": [
+    {
+     "name": "btn_Missions",
+     "keyframes": [
+      {
+       "loc": [
+        -684.075,
+        -233.325
+       ],
+       "duration": 1,
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "scale": [
+        0.2346,
+        0.2353
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Pins_btn_Missions"
+      }
+     ]
+    },
+    {
+     "name": "btn_Notification #2",
+     "keyframes": [
+      {
+       "loc": [
+        -684.075,
+        134.5125
+       ],
+       "duration": 1,
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "scale": [
+        0.2346,
+        0.2353
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Pins_btn_Notifications"
+      }
+     ]
+    },
+    {
+     "name": "btn_Notification #1",
+     "keyframes": [
+      {
+       "loc": [
+        -684.075,
+        41.4
+       ],
+       "duration": 1,
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "scale": [
+        0.2346,
+        0.2353
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Pins_btn_Notifications"
+      }
+     ]
+    },
+    {
+     "name": "btn_Notification #0",
+     "keyframes": [
+      {
+       "loc": [
+        -684.075,
+        -52.6125
+       ],
+       "duration": 1,
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "scale": [
+        0.2346,
+        0.2353
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Pins_btn_Notifications"
+      }
+     ]
+    },
+    {
+     "name": "txt_MissionsBP",
+     "keyframes": [
+      {
+       "loc": [
+        -684.0375,
+        -200.5875
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.0375,
+        -0.0375
+       ],
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_txt_Missions"
+      }
+     ]
+    },
+    {
+     "name": "txt_DaysRemaining #2",
+     "keyframes": [
+      {
+       "loc": [
+        -684.0375,
+        168.6
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.0375,
+        -0.0375
+       ],
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_txt_DaysRemaining"
+      }
+     ]
+    },
+    {
+     "name": "txt_DaysRemaining #1",
+     "keyframes": [
+      {
+       "loc": [
+        -684.0375,
+        75.4875
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.0375,
+        -0.0375
+       ],
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_txt_DaysRemaining"
+      }
+     ]
+    },
+    {
+     "name": "txt_DaysRemaining #0",
+     "keyframes": [
+      {
+       "loc": [
+        -684.0375,
+        -18.525
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.0375,
+        -0.0375
+       ],
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_txt_DaysRemaining"
+      }
+     ]
+    },
+    {
+     "name": "btn_XenosPanel",
+     "keyframes": [
+      {
+       "loc": [
+        -684.075,
+        -143.175
+       ],
+       "duration": 1,
+       "data": {
+        "UIPosition_Desktop": "left",
+        "UIPosition": "left"
+       },
+       "scale": [
+        0.2346,
+        0.2353
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Pins_btn_XenosPanel"
+      }
+     ]
+    },
+    {
+     "name": "txt_XenosInfos",
+     "keyframes": [
+      {
+       "loc": [
+        -684.0375,
+        -109.0875
+       ],
+       "duration": 1,
+       "pivot": [
+        -0.0375,
+        -0.0375
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_txt_XenosInfos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "data": {
+    "UIPosition_Desktop": "left",
+    "UIPosition": "left"
+   },
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Pins_btn_Missions",
+   "layers": [
+    {
+     "name": "Layer 1",
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "pivot": [
+        146.25,
+        146.5125
+       ],
+       "ref": "Pins_buttonMissions_up"
+      },
+      {
+       "loc": [
+        -1.2,
+        -0.3
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        2.0671,
+        2.0671
+       ],
+       "index": 1,
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "ref": "Pins_buttonMissions_over"
+      },
+      {
+       "loc": [
+        -0.9375,
+        -1.6125
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "ref": "Pins_buttonMissions_down"
+      },
+      {
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "duration": 1,
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Pins_buttonMissions_hit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "data": {
+    "UIPosition_Desktop": "left",
+    "UIPosition": "left"
+   },
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Pins_btn_Notifications",
+   "layers": [
+    {
+     "name": "Layer 1",
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "pivot": [
+        146.25,
+        146.5125
+       ],
+       "ref": "Pins_buttonNotifications_up"
+      },
+      {
+       "loc": [
+        -1.2,
+        -0.3
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        2.0671,
+        2.0671
+       ],
+       "index": 1,
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "ref": "Pins_buttonNotifications_over"
+      },
+      {
+       "loc": [
+        -0.9375,
+        -1.6125
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "ref": "Pins_buttonNotifications_down"
+      },
+      {
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "duration": 1,
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Pins_buttonNotifications_hit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "data": {
+    "UIPosition_Desktop": "left",
+    "UIPosition": "left"
+   },
+   "baseClass": "flash.display.SimpleButton",
+   "id": "~Pins_btn_XenosPanel",
+   "layers": [
+    {
+     "name": "button",
+     "keyframes": [
+      {
+       "tweened": false,
+       "duration": 1,
+       "index": 0,
+       "pivot": [
+        146.25,
+        146.5125
+       ],
+       "ref": "Pins_buttonXenosPanel_up"
+      },
+      {
+       "loc": [
+        -1.2,
+        -0.3
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        2.0671,
+        2.0671
+       ],
+       "index": 1,
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "ref": "Pins_buttonXenosPanel_over"
+      },
+      {
+       "loc": [
+        -0.9375,
+        -1.6125
+       ],
+       "duration": 1,
+       "tweened": false,
+       "scale": [
+        2.1585,
+        2.1195
+       ],
+       "index": 2,
+       "pivot": [
+        64.4625,
+        64.4625
+       ],
+       "ref": "Pins_buttonXenosPanel_down"
+      },
+      {
+       "loc": [
+        -1.0875,
+        -0.7875
+       ],
+       "duration": 1,
+       "pivot": [
+        101.25,
+        101.25
+       ],
+       "index": 3,
+       "tweened": false,
+       "ref": "Pins_buttonXenosPanel_hit"
+      }
+     ]
+    },
+    {
+     "name": "asset",
+     "keyframes": [
+      {
+       "loc": [
+        57.6,
+        -90.4125
+       ],
+       "duration": 4,
+       "pivot": [
+        -0.0375,
+        0
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "~Pins_clipJoblessXeno"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "~Pins_clipJoblessXeno",
+   "layers": [
+    {
+     "name": "Notifications_spriteJoblessXenosCountStar",
+     "keyframes": [
+      {
+       "loc": [
+        -0.0375,
+        0
+       ],
+       "duration": 1,
+       "pivot": [
+        57.7125,
+        56.4
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_spriteJoblessXenosBG"
+      }
+     ]
+    },
+    {
+     "name": "txt_JoblessXenosCount",
+     "keyframes": [
+      {
+       "loc": [
+        -0.0375,
+        0.15
+       ],
+       "duration": 1,
+       "scale": [
+        5.4894,
+        5.4894
+       ],
+       "index": 0,
+       "tweened": false,
+       "ref": "Pins_txt_JoblessXenosDisplay"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "md5": "857f43cf220d84d3d252fbfd40f5c992"
+}
