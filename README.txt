@@ -1,3 +1,5 @@
+
+
 List of Features :
 		- Genre : Builder (Free to play social game)
 		- Playable on Facebook
@@ -6,6 +8,10 @@ List of Features :
 		- Secured client/server communication
 		- Facebook sharing
 		- Gifts to friends		
+
+Gameplay : Please refer to Concept.pdf
+
+Credits : Please refer to Crédits.png 
 
 
 Classes that represent my work : 
