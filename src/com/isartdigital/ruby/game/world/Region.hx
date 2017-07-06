@@ -20,8 +20,8 @@ import pixi.core.textures.Texture;
 import pixi.filters.color.ColorMatrixFilter;
 
 /**
- * ...
- * @author qPk
+ * Classe de référence pour une région, permet de la débloquer, de connaître les batiments et aliens qui s'y trouve, et d'ordonner tout graphiquement selon la profondeur.
+ * @author Michael Wilkins
  */
 class Region
 {
@@ -132,22 +132,7 @@ class Region
 	
 	
 
-	/**
-	 * initialise un layer d'index pIndexLayer
-	 * @param	pIndexLayer
-	 */
-	/*public function initLayer(pIndexLayer:Int):Void
-	{
-		var lCurrentLayer:Layer;
-		lCurrentLayer = new Layer(WIDTH, HEIGHT);
-		layers[pIndexLayer] = lCurrentLayer;
-		lCurrentLayer.init();
-		createRegionContainer(lCurrentLayer);
-		if (pIndexLayer == 0)
-		{
-			lCurrentLayer.container.addChild(background);
-		}
-	}*/
+
 
 	/**
 	 * initialise tout les layers contenu dans la région

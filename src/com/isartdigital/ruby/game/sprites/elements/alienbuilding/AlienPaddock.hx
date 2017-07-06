@@ -47,7 +47,7 @@ import pixi.core.textures.Texture;
 
 /**
  * ...
- * @author Julien Fournier
+ * @author Michael Wilkins
  */
 class AlienPaddock extends Building
 {

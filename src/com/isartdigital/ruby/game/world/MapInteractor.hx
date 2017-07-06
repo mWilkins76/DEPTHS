@@ -34,7 +34,7 @@ import pixi.core.math.Point;
 
 
 /**
- * ...
+ * Classe servant à gérer toutes les intéraction du joueur avec les éléments ingame
  * @author Michael Wilkins
  */
 class MapInteractor

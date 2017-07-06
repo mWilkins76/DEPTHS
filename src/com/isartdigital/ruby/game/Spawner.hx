@@ -45,10 +45,17 @@ import pixi.core.display.DisplayObject;
 import pixi.core.graphics.Graphics;
 import pixi.core.math.Point;
 import pixi.core.textures.Texture;
+
+
+
 /**
- * ...
+ * Classe gérant la création, la pose et le déplacement de batiments sur la carte
  * @author Michael Wilkins
  */
+
+ 
+ 
+ 
 class Spawner extends DisplayObject
 {
 	public var toSpawn:GameElement;
@@ -93,8 +100,6 @@ class Spawner extends DisplayObject
 	{
 		super();
 		currentRegion = World.getInstance().getRegion(0, 0);	
-		//graphicMargin = new Graphics();
-		//graphicMargin.alpha = 0.3;
 		
 		
 	}
@@ -102,7 +107,6 @@ class Spawner extends DisplayObject
 	
 	public function doAction():Void {
 		
-		//drawIsoMargin(graphicMargin, toSpawn);
 		isElementToSpawnFixed ? fixedMode() : dragMode();
 		
 	}
@@ -267,20 +271,14 @@ class Spawner extends DisplayObject
 		toSpawn = pBuilding;
 		currentRegion = World.getInstance().getRegion(toSpawn.elem.regionX, toSpawn.elem.regionY); 
 		
-		/*var lPoint =  new Point(toSpawn.elem.globalX, toSpawn.elem.globalY);
-		setPosition(lPoint);*/
 		makeElementToSpawnFollowMouse();
 		unfixElementToSpawn();
 		checkForSpecialBehavior();
-		//GameStage.getInstance().getGameContainer().addChild(graphicMargin);
+		
 		GameStage.getInstance().getGameContainer().addChild(toSpawn);
 		toSpawn.position = position;
 		
 		MapInteractor.getInstance().activateSpawner();
-		//UIManager.getInstance().openPopin(Deplacement.getInstance());
-		//UIManager.getInstance().openPopin(YesNoPose.getInstance());
-		//toSpawn.on(MouseEventType.MOUSE_DOWN, setDrag);
-		//toSpawn.on(TouchEventType.TOUCH_START, setDrag);
 	}
 	
 	
@@ -293,7 +291,6 @@ class Spawner extends DisplayObject
 		toSpawn.changeAsset(toSpawn.currentState);
 		
 		GameStage.getInstance().getGameContainer().removeChild(toSpawn);
-		//GameStage.getInstance().getGameContainer().removeChild(graphicMargin);
 		
 		
 		if (isCanceled) cast(toSpawn, Building).saveNewPosition(toSpawn.elem.x, toSpawn.elem.y, toSpawn.elem.regionX, toSpawn.elem.regionY);
@@ -354,12 +351,7 @@ class Spawner extends DisplayObject
 		
 		//if (ftueTargetingElement != null) ftueTargetingElement.position = convertPositionInFtueContainer();
 		
-		//if (justMovingaBuilding) {
-		//
-			//YesNoPose.getInstance().position = toLocal(getGlobalPosition(toSpawn.position));
-		//}
 		
-		//toSpawn.alpha = isNotObstructed() ? 1 : 0.2;
 		if (Std.is(toSpawn, Building)) {
 			if (cast(toSpawn, Building).timerContainer != null) cast(toSpawn, Building).timerContainer.position = position;
 			

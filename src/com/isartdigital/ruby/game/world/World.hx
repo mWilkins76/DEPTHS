@@ -12,7 +12,7 @@ import pixi.core.math.Point;
 
 /**
  * Gestion du monde : manage des régions et récupèration de leurs données
- * @author Adrien Bourdon
+ * @author Michael Wilkins
  */
 class World
 {
@@ -73,13 +73,7 @@ class World
 		if (getRegion(pX + 1, pY - 1) == null) { addRegion(pX + 1, pY - 1);  initContainers(pX + 1, pY - 1);  }
 		if (getRegion(pX - 1, pY + 1) == null) { addRegion(pX - 1, pY + 1);  initContainers(pX - 1, pY + 1);  }
 		
-		//if (UnlockButtonContainer.getInstance().getUnlockContainer().getChildByName("buttonUnlock"+getRegion(pX, pY).regionContainer.name) != null)
-		//{
-			//UnlockButtonContainer.getInstance().getUnlockContainer().getChildByName("buttonUnlock"+getRegion(pX, pY).regionContainer.name).off(MouseEventType.CLICK, UnlockButtonContainer.getInstance().getUnlockContainer().getChildByName("buttonUnlock"+getRegion(pX, pY).regionContainer.name).click);
-			//UnlockButtonContainer.getInstance().getUnlockContainer().getChildByName("buttonUnlock"+getRegion(pX, pY).regionContainer.name).off(TouchEventType.TAP, UnlockButtonContainer.getInstance().getUnlockContainer().getChildByName("buttonUnlock"+getRegion(pX, pY).regionContainer.name).click);
-			////getRegion(pX, pY).regionContainer.removeChild(getRegion(pX, pY).regionContainer.getChildByName("buttonUnlock"));
-			//UnlockButtonContainer.getInstance().getUnlockContainer().removeChild(UnlockButtonContainer.getInstance().getUnlockContainer().getChildByName("buttonUnlock"+getRegion(pX, pY).regionContainer.name));
-		//}
+	
 		
 		
 		if(getRegion(pX,pY).unlockPopin != null) UIManager.getInstance().closeRegionPopin(getRegion(pX,pY).unlockPopin);
